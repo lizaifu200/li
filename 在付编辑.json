@@ -1,5 +1,5 @@
 {
-"spider":"https://pan.shangui.cc/f/p7LgcL/appto.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/JAR/appto.jar",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"豆豆","name":"豆豆","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
@@ -14,7 +14,7 @@
 {"key":"555影视","name":"③个5","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://pan.shangui.cc/f/ogaNs7/fan.txt","ext":{"分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://555movie.store/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","数组":"","图片":"data-original=\"&&\"","链接":"href=\"&&\"","标题":"alt=\"&&\"","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","简介":"<p>&&</p>","导演":"导演：&&</div>","主演":"主演：&&</div>","线路数组":"<li><a class=\"gico&&</a>","线路标题":">&&</a>","播放列表":"<div class=\"module-play-list-content&&</a>","播放标题":"title=\"&&\"","播放链接":"href=\"&&\"","备用1url": "https://555flim.vip/","备用2url": "https://555flim.cc/","备用3url": "https://555dq.vip/"}},
 {"key": "影探","name": " 🎦影探┃4K","type": 3,"api":"https://pan.shangui.cc/f/AaKvCy/drpy2.min.js","ext": "https://pan.shangui.cc/f/2oyRIx/yt.js"},
 {"key":"探探","name":"探探｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vvipcms.lyyytv.cn/api.php/app/"},
-{"key": "csp_XYQHiker_柒月影视","name": "柒月影视┃🌊", "type": 3, "api":"csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext":"https://pan.shangui.cc/f/LybPu3/%E6%9F%92%E6%9C%88%E5%BD%B1%E8%A7%86.json","jar":"https://pan.shangui.cc/f/KkjMH6/Hk.jar"},
+{"key": "csp_XYQHiker_柒月影视","name": "柒月影视┃🌊", "type": 3, "api":"csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/JSON/%E6%9F%92%E6%9C%88%E5%BD%B1%E8%A7%86.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/JAR/Hk.jar"},
 {"key":"JianPian","name":"荐片[边下边播]","type":3,"api":"csp_JianPian"},     
 {"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang"},     
 {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},     
