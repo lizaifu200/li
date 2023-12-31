@@ -36,7 +36,11 @@
     "sourceName": "李在付丨无忧本地",
       "sourceUrl": "clan://localhost/TVBox/本地仓库.json"
   },
-  {       
+  {
+    "sourceName": "李在付丨心动本地",
+      "sourceUrl": "clan://localhost/xd/xd.txt"
+  },  
+  {         
     "sourceName": "👨‍⚖️熊猫不叫猫👨‍⚖️",        
       "sourceUrl": "clan://localhost/xmbjm/xmbjmdc.json"      
   }      
