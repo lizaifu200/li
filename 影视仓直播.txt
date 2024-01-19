@@ -3026,7 +3026,7 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 
-IPV6备用
+IPV6备用,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1527557465_-1431215922/ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8?icpid=3&RTS=1674385937&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1527557465_-1431215922/ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8?icpid=3&RTS=1674385937&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -4663,60 +4663,7 @@ CGTN 576p,http://[2409:8087:1400:26::1012]:80/PLTV/88888888/224/3221226972/index
 辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
 辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
 辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
-辽宁酒店,#genre#
-CCTV-1-标清, http://36.129.58.53:8008/paiptv/CCTV1.m3u8
-CCTV-2-标清, http://36.129.58.53:8008/paiptv/CCTV-2.m3u8
-CCTV-3-标清, http://36.129.58.53:8008/paiptv/CCTV-3.m3u8
-CCTV-4-标清, http://36.129.58.53:8008/paiptv/CCTV-4.m3u8
-CCTV-5-标清, http://36.129.58.53:8008/paiptv/CCTV-5.m3u8
-CCTV-6-标清, http://36.129.58.53:8008/paiptv/CCTV-6.m3u8
-CCTV-7-标清, http://36.129.58.53:8008/paiptv/CCTV-7.m3u8
-CCTV-8-标清, http://36.129.58.53:8008/paiptv/CCTV-8.m3u8
-CCTV-9-标清, http://36.129.58.53:8008/paiptv/CCTV-9.m3u8
-CCTV-10-标清, http://36.129.58.53:8008/paiptv/CCTV-10.m3u8
-CCTV-11-标清, http://36.129.58.53:8008/paiptv/CCTV-11.m3u8
-CCTV-12-标清, http://36.129.58.53:8008/paiptv/CCTV-12.m3u8
-CCTV-13-标清, http://36.129.58.53:8008/paiptv/CCTV-13.m3u8
-CCTV-14-标清, http://36.129.58.53:8008/paiptv/CCTV-14.m3u8
-CCTV-15-标清, http://36.129.58.53:8008/paiptv/CCTV-15.m3u8
-CCTV-5+高清, http://36.129.58.53:8008/paiptv/CCTV5+-HD.m3u8
-CCTV-17-高清, http://36.129.58.53:8008/paiptv/CCTV17-HD.m3u8
-江苏卫视-高清, http://36.129.58.53:8008/paiptv/JSWS-HD.m3u8
-江苏卫视-标清, http://36.129.58.53:8008/paiptv/JSWS.m3u8
-天津卫视-高清, http://36.129.58.53:8008/paiptv/TJWS-HD.m3u8
-北京卫视-高清, http://36.129.58.53:8008/paiptv/BJWS-HD.m3u8
-北京卫视-标清, http://36.129.58.53:8008/paiptv/BJWS.m3u8
-黑龙江卫视-标清, http://36.129.58.53:8008/paiptv/HLJWS.m3u8
-湖南卫视-高清, http://36.129.58.53:8008/paiptv/HNWS-HD.m3u8
-湖南卫视-标清, http://36.129.58.53:8008/paiptv/HNWS.m3u8
-重庆卫视-标清, http://36.129.58.53:8008/paiptv/CCWS.m3u8
-浙江卫视-高清, http://36.129.58.53:8008/paiptv/ZJWS-HD.m3u8
-浙江卫视-标清, http://36.129.58.53:8008/paiptv/ZJWS.m3u8
-广东卫视-标清, http://36.129.58.53:8008/paiptv/GDWS.m3u8
-深圳卫视-高清, http://36.129.58.53:8008/paiptv/SZWS-HD.m3u8
-深圳卫视-标清, http://36.129.58.53:8008/paiptv/SZWS.m3u8
-山东卫视-高清, http://36.129.58.53:8008/paiptv/SDWS-HD.m3u8
-湖北卫视-标清, http://36.129.58.53:8008/paiptv/HBWS.m3u8
-江西卫视-标清, http://36.129.58.53:8008/paiptv/JXWS.m3u8
-河北卫视-标清, http://36.129.58.53:8008/paiptv/HeBWS.m3u8
-吉林卫视-标清, http://36.129.58.53:8008/paiptv/JLWS.m3u8
-安徽卫视-标清, http://36.129.58.53:8008/paiptv/AHWS.m3u8
-贵州卫视-标清, http://36.129.58.53:8008/paiptv/GZWS.m3u8
-东方卫视-标清, http://36.129.58.53:8008/paiptv/DFWS.m3u8
-河南卫视-标清, http://36.129.58.53:8008/paiptv/HeNWS.m3u8
-辽宁卫视-标清, http://36.129.58.53:8008/paiptv/LNWS.m3u8
-四川卫视-标清, http://36.129.58.53:8008/paiptv/SCWS.m3u8
-甘肃卫视-标清, http://36.129.58.53:8008/paiptv/SSWS.m3u8
-西藏卫视-标清, http://36.129.58.53:8008/paiptv/XZWS.m3u8
-内蒙古卫视-标清, http://36.129.58.53:8008/paiptv/WMGWS.m3u8
-广西卫视-标清, http://36.129.58.53:8008/paiptv/GXWS.m3u8
-陕西卫视-标清, http://36.129.58.53:8008/paiptv/ShanXWS.m3u8
-辽宁影视剧-标清, http://36.129.58.53:8008/paiptv/LNYSJ.m3u8
-辽宁体育-标清, http://36.129.58.53:8008/paiptv/LNTY.m3u8
-辽宁生活-标清, http://36.129.58.53:8008/paiptv/LNSH.m3u8
-辽宁都市-标清, http://36.129.58.53:8008/paiptv/LNDS.m3u8
-辽宁经济-标清, http://36.129.58.53:8008/paiptv/LNJJ.m3u8
-辽宁公共-标清, http://36.129.58.53:8008/paiptv/LNGG.m3u8
+
 纪录片频道,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
