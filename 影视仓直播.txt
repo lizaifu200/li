@@ -1341,70 +1341,7 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-秒看直播,#genre#
-CCTV-1,tvbus://4PKC8WabdwytVTriEi2TJGkj9YzXtJE4ZLmNE9SVZypT1JeCmK
-CCTV-4,tvbus://4njCjiFeNMdbFUzsbMyAsrtUTksbsekhskN1bmgyUhAsbf2Vqb
-CM+,tvbus://2xEt6PZd3M3RPnTJYtHzz8TRe4NUApwdoqXyp9spJ2uoTMsc2L
-翡翠台,tvbus://4d3SqDabh2a6UV4qgbN4tRUZmSYF7rXws7b9LY1gpy39dDU2nK
-无线新闻台,tvbus://3evy6CsmpNykm7tDRnZJhVhUHToPpEGnGyREkE2Yu8X3EPgnPx
-Now 新闻台,tvbus://4VDtZGrPTbAiPGNG5hjua2hM925H5nWvDwyP6w7SiB3Y7WqDiX
-CN卡通,tvbus://3awwyYtNCtisF8RuuGv7A8vwTGg5uVWQGRnHYt68unfNhHQb44
-Nick Jr.,tvbus://4ssNUJwejFvjkosWzvx48AtyGNmQ9AS8oJnvaeu9fxcNE6v8Mv
-CBeebies,tvbus://4BeNXMvoM7E9KXfwCanwTuYPC6pu2j7PkGzwCDZXmpx8bQ7q7s
-Cartoonito,tvbus://4DrQ584nsRYws1c2TKKKubmGbLYrFHRkpi6QvoV6FDhscpNKd2
-Dreamworks,tvbus://4RtQthJJhrCDyzXjZZgnUmxabYMfxkWLoSQaLL7m8gMfiLhH2v
-Nickelodeon,tvbus://3C3K3d4pNQtA2nZnnC5sBQzuWDbJv9nvvktp1wSQ6xCvrHEjjP
-MOMO亲子台,tvbus://3VV3Zk3KWmeWJH5dE88FmZKeuBp8jzx6sENZSLCeThtubfoNfm
-东森幼幼台,tvbus://4Luy2FdfRBuCdPZxkCJYiQRgrkHsk1WNiGUKujHnDt7qWH2CMG
-美亚电影台(粤),tvbus://3QMHnqkCFFUp33Jts963s3Bptx5SPcyveBfo2pQQyy7uYgN2yh
-美亚电影台(国),tvbus://2wvykSrcG6BjDZzz53br9cvvgeX4eSrc1mA2Mays8rrMtotKuw
-纬来电影台,tvbus://43HRfpwoSWhpLQmA6MWVaZ1xr4hnKxzaPbSa4oiM95k5Y1Lpkj
-东森电影台,tvbus://348orevWcpLkbQKQrQxJRQzVFZ7CrFfXtaxKC8FVoi9npVE6Tj
-NOW 爆谷台(粤),tvbus://4RFN772zTMwFpZvjEzt3Df5Te3QPbePC9p18isqEsXPGjqBPBW
-NOW 星影台(粤),tvbus://3cuTcjMXRpu79A6oMyPGQcxFg3Zxun9wLsGWWYcx4VpWUciVoB
-NOW 爆谷台(国),tvbus://3FzbCkmJiynjGjTeXVF5GX3pKxnCNfxND8fwDmFASidLuUfDA1
-NOW 星影台(国),tvbus://3PHiG1kFS6VzLYTcQUywBkZ6xxUTzujTvzdzu8uVvN2Ud2aixq
-天映频道,tvbus://34zdvA13ZUfU6nWZ3TZXoz9AxorzkDGPoAEqtWgyiXKsJRK7oD
-天映经典频道,tvbus://3sAjt3v4dCWw4Mo4zB7KH2TdeMX1Z6A2rG1LdBJxdy3g6eayEg
-三立台湾台,tvbus://4nkmoBq4HyJuT6Wus8jikZe3tGLHuChgPMSkRQ2sgPRipSSDtG
-Hub Premier 1,tvbus://3ScW5ud52kLRbUrHFq3aoYLdcW7gmo6iNgn5CGNUaGWsX8H6Aj
-NowSports英超1台,tvbus://34LpcoDN6YFeCkcKjidEa8mEq9Qq4vqWQA2henReAtzyZo8th7
-TNTSports 1,tvbus://3zC4inRhVgJHAsTzZeSjE2nAn1ivXTYD9wpkZPfvw8pGcanH9t
-TNTSports 2,tvbus://4dgZvs9FNHC3pmd8YnEi7GyUYQhq3WTXB9q67LzLkfcJyGQXPV
-TNTSports 3,tvbus://43J4BTsg8zeWCYcFXXRGJ593P8tHX5MANdH9WH5XaGywq3zVXt
-TNTSports 4,tvbus://3U3wtAv8sjHTDLVTC3rjvDWydiyTa2RUrJhCfnbtPpK5rg6kHg
-博斯无限台,tvbus://4LdJHPShwcdFpoCFkBWpfyjE4Sfam6WuTDUkBVeTG1ihaQMDpH
-ELTA体育1台,tvbus://4QDBFfLbnjJdoxbc7ZqW8Ssc2jwoLbQPLDS55tqXQnCQEERHbw
-ELTA体育2台,tvbus://4miUK2SiFdeyUG3detwN8X7qhzL4wvJeNd5bvkg9CWLeYZjP2d
-ELTA体育3台,tvbus://48dzHwkYta7JJNEFTQejMSuWXi88Taf2q3b6SUPcZmXeZjqUnv
-镜__新闻台,tvbus://4Fy11NHufGpbNFxUVRfU9dLwF9aoLCFtZMkBwcNdM2Xfn8D9s2
-台视新闻台,tvbus://3FrEoPYHD8a3qmU6gyRqsXLrAhqKbTL9L5VfAMU1Cm1KbRi2UT
-中视新闻台,tvbus://3GhBHADDzxQoGe48TALBuBzEQ5QnmwnsedBZLLRUTUoEGjzjBf
-民视新闻台,tvbus://4fkVA3fKkiGYfufmQ8CBki5jVmSdxf45Yk29PXdDaZf27uLJMc
-东森新闻台,tvbus://3axQp2q6k8BWbmfzH7q9FEpaZTennC7eKfouvat7wrFxfu5kES
-中天新闻台,tvbus://2z8mkJLwLddTaNVrZYXzW5iTNRZjtWpCco7AF96PEUce5rkEva
-中天新闻二,tvbus://3gZwNpAFXpqAC4R824sLgXRKDYmsLbmptR8Rhsw2weZhMQQEmd
-中天亚洲台,tvbus://3ggm9Vc9FBGDb1vaoRKBudGcHsRCsCqxY4FK62Xcqme8i6kRWR
-寰宇新闻台,tvbus://3vRrZL4okgTs1Jy91SzRBficqeCZuRwjdcZPqndBL5UYw1YNor
-亚洲新闻台,tvbus://42EcCJDpKkgGeANRTHHf92RiG9zqPFKeudGJUtXki5DaJFNj3A
-凤凰中文台,tvbus://4eo36T1aYocFEbbKgJE69a4MUdmVg6usyfamgxVUDmxUbwzvFa
-凤凰资讯台,tvbus://4nsBj7PY12TUvtsdvUUdxMEwabpYo5v3WqhW13YSkFny9v1Ycs
-寰宇新闻台湾台,tvbus://2zjhviTkR5hQ3k5TWh759EGnJEDryP18mFMDqvmp9XmTVi9JmK
-RT,tvbus://3cwLz9kFVTJpR5rbcji4Gw8pNRehjmccdkZ95QJDMYTJ27PGWz
-DW,tvbus://3ttekTRS5ejuVnAPfaqXMssBVpf4hhRv433DviHKr6nnb4dnRy
-Starbase Live,tvbus://4CDxyuv36HrLBmHL9ZWpRos5Twf583nVnhxH9MwGQNUUPgfk4P
-ABC News,tvbus://4mEBu1qDvnx17Nd8thxXjESnCcPuhjvGzetvvNHYkMZuUX5kCF
-Bloomberg,tvbus://3uRXEWfSCBiZNskuLmWD6MFcwmSFU563dNiKXhCr4PTVRrpWt2
-Россия-24,tvbus://3cXV7Ye4UGmQu9Zq6MYN4sRjx29E79SVhxjBAb4SJeVkByaVtq
-FRANCE 24,tvbus://3LBb9S1XpqRTgLemJoUwRqrJfz6sNnTM6eTZxjhF6856yvmt3f
-Euronews,tvbus://3am6JLJ1skF5EeicmtXAYJW82x8ZKs6r6Bugn3WAHmtHpgZLaS
-Al Jazeera,tvbus://3Qm6aeFQTHkwJEuTCnNdz9cwfXgkdUSYPCNFtwLYtR3k6fUoNP
-华藏卫视,tvbus://4gtmvBfKYSvtk3eDxzJeB2PtuWTXneBrSqro3ccmueGvgwnuFg
-大爱一台,tvbus://44Jfzxh5CtPs11bX8rNULecriUZCunuSEkwPXaGHbbWqxmHRay
-1_HD,tvbus://4DQGv5RpdrKn2CkMqR3Muk5PFyu2bH3GtdNWd7Vhc2CyHqzS9s
-World Fashion,tvbus://4Z15e3GvqLfPgQaj9L15zDxxSQdW2VH1x3pkAW4qQbyEDVTdeR
-Fashion TV,tvbus://3otHguMghHJYa7QdUMcs5JkGbYmbKWA8tL5XpmxZTtkVZ62xqN
-FashionBox,tvbus://3ftYnAo8ywgwnQAr3vSFGJz6ntoBtiPH898TA7V1CuT544B66k
+
 IPV6直播,#genre#
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
