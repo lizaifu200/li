@@ -1,59 +1,44 @@
 {
   "urls": [
+    {  
+      "name": "李明丨心动采集",
+      "url": "https://cloud.lxweb.cn/f/dpjRi2/xdcj.json"
+    },   
     {
-      "name": "在付丨小盒线路",
-      "url": "http://xhztv.top/xhz.json"
-    },
+      "name": "李明丨饭太硬",
+      "url": "http://饭太硬.top/tv"
+    },      
     {
-      "name": "在付丨春盈天下",
+      "name": "李明丨春盈天下",
       "url": "https://wds.ecsxs.com:443/230989.json"
     },    
     {
-      "name": "在付丨天微",
+      "name": "李明丨天微",
       "url": "https://tvkj888.cn/tvys/svip.json"
     },    
     {
-      "name": "在付丨小米暴脾气",
+      "name": "李明丨小米暴脾气",
       "url": "http://xhww.fun:63/小米/DEMO.json"
     },    
     {
-      "name": "在付丨胖鸭",
-      "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json"
-    },     
-    {
-      "name": "在付丨小白测试",
+      "name": "李明丨小白测试",
       "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json"
-    },    
+    },  
     {
-      "name": "在付丨蚂蚁(备用)",
-      "url": "https://pan.shangui.cc/f/Bq7zTp/%E8%9A%82%E8%9A%81%E6%8E%A5%E5%8F%A32.txt"
-    },    
-    {
-      "name": "在付丨蚂蚁",
-      "url": "https://pan.shangui.cc/f/kKGaHR/%E8%9A%82%E8%9A%81%E6%8E%A5%E5%8F%A3.txt"
-    },     
-    {
-      "name": "在付丨饭太硬",
-      "url": "http://饭太硬.top/tv"
-    },    
-    {  
-      "name": "在付丨心动采集",
-      "url": "https://cloud.lxweb.cn/f/dpjRi2/xdcj.json"
-    },   
-     {
-      "name": "在付丨影音天堂",
-      "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
-    },    
-    {
-      "name": "在付丨肥猫",
+      "name": "李明丨肥猫",
       "url": "http://肥猫.live"
     },    
     {
-      "name": "在付丨巧技",
+      "name": "李明丨巧技",
       "url": "http://pandown.pro/tvbox/tvbox.json"
     }    
    ] 
-} 
+}     
+  
+  
+
+ 
+
    
 
 
