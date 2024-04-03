@@ -14,7 +14,7 @@
     },    
     {
       "name": "李明丨天微线路",
-      "url": "https://atomgit.com/tvkj/tianwei/raw/main/svip.json"
+      "url": "https://gitee.com/tvkj/fl/raw/main/svip.json"
     },    
     {
       "name": "李明丨小米暴脾气线路",
@@ -24,11 +24,7 @@
       "name": "李明丨荷城茶秀",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
     },  
-    {
-      "name": "李明丨肥猫线路",
-      "url": "http://肥猫.live"
-    },    
-     {
+    {   
       "name": "李明丨浪里小白龙线路",
       "url": "http://39.101.135.137:8080"
     },    
@@ -36,23 +32,7 @@
       "name": "李明丨拾光线路",
       "url": "https://gitlab.com/xmbjm/zrj/-/raw/main/vip.json"
     },    
-    {
-      "name": "李明丨壹梦主力线路",
-      "url": "http://qrh.yimkj.cn/dj/%E7%9F%AD%E5%89%A7.json"
-    },     
-    {
-      "name": "李明丨文坤主力线路",
-      "url": "http://qrh.yimkj.cn/wk.php"
-    },   
-    {
-      "name": "李明丨千软汇主线路",
-      "url": "http://qrh.yimkj.cn/qrh.php"
-    },    
-    {
-      "name": "李明丨宝盒主力线路",
-      "url": "http://qrh.yimkj.cn/bh/宝盒.json"
-    },    
-    {
+       {
       "name": "李明丨毒盒线路",
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },    
@@ -69,7 +49,9 @@
       "url": "http://pandown.pro/tvbox/tvbox.json"
       }    
      ] 
-  }         
+  }   
+ 
+     
 
   
 
