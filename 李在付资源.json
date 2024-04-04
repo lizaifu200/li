@@ -21,12 +21,20 @@
       "url": "http://xhww.fun:63/小米/DEMO.json"
     },    
     {
-      "name": "李明丨荷城茶秀",
+      "name": "李明丨荷城茶秀线路",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
     },  
     {   
-      "name": "李明丨业余打发",
+      "name": "李明丨业余打发线路",
       "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json"
+    },    
+    {   
+      "name": "李明丨OK线路",
+      "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
+    },    
+    {   
+      "name": "李明丨爱尚影视线路",
+      "url": "https://gitee.com/hailin886/fty/raw/master/tvbox/aishang.json"
     },    
     {   
       "name": "李明丨浪里小白龙线路",
