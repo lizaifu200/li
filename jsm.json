@@ -660,9 +660,9 @@
 		}],
 		"lives":[
 			{
-				"name": "live.ipv6",
+				"name": "lizaifu",
 				"type": 0,
-				"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/%E7%A6%8F%E5%88%A9.txt",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
