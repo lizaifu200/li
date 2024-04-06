@@ -699,7 +699,7 @@
 				"name": "直播",
 				"type": 0,
 				"playerType": 1,
-				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+				"url": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/%E7%A6%8F%E5%88%A9.txt",
 				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
