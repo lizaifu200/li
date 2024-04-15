@@ -49,8 +49,8 @@
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },    
     {
-      "name": "李明丨音乐线路",
-      "url": "https://gitee.com/ziyuanbuluo/quanqiu4k/raw/master/%E9%9F%B3%E4%B9%90/t.json" 
+      "name": "李明丨天微VIP线路",
+      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json" 
     },    
     {
       "name": "李明丨肥猫线路",
@@ -60,6 +60,10 @@
       "name": "李明丨夜猫子线路",
       "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子"
     },    
+    {
+      "name": "李明丨讴歌线路",
+      "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&amp;mz=index2&amp;xl=&amp;jar=index2"
+    },     
     {
       "name": "李明丨宇静鸣线路",
       "url": "http://lin.ohphp.com/3/qg.json"
