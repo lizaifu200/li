@@ -39,7 +39,21 @@
 				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
 			}
 		},
-
+       {
+            "key": " 极速影院 ",
+            "name": "极速┃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://32d.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html}",
+                "分类": "电影&电视剧&综艺&动漫&短剧",
+                "分类值": "1&2&3&4&5"
+            },
+            "jar": "./Yoursmile.jar"
+        },
 		{
                 "key": "XBPQ_无忧短剧",
                 "name": "🌙李在付|短剧",
