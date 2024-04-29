@@ -52,7 +52,7 @@
                 "分类": "电影&电视剧&综艺&动漫&短剧",
                 "分类值": "1&2&3&4&5"
             },
-            "jar": "./Yoursmile.jar"
+            "jar": "./lib/Yoursmile.jar"
         },
 		{
                 "key": "XBPQ_无忧短剧",
