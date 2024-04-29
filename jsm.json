@@ -238,6 +238,19 @@
 		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
+	    {
+      "key": "XBPQ_cmgmall",
+      "name": "简影草民",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+	 "ext": {	   
+		 "分类url": "https://www.cmgmall.com/cvfrty/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+         "筛选": "1"
+		 "分类": "国产剧$13#港台剧$20#日韩剧$21#海外剧$22#欧美剧$16#犯罪片$23#悬疑片$25#纪录片$24#惊悚片$30#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#综艺$3#动漫$4"
+      }
+    },
+	
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
