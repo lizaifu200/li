@@ -39,7 +39,8 @@
 				"分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"
 			}
 		},
- {
+{"key":"潮湿秘境","name":"潮湿秘境","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar": "./lib/XBPQ.jar","filterable":1,"ext":{"发布地址":"http://chaoshi.info/","主页url":"https://61520af78a97.chaoshi4.xyz/","数组":"img-fluid lazy1&&video-page text-success","图片":"data-original=\"&&\"","标题":"alt=\"&&\"","副标题":"time\">&&</div>","简介":"description\" content=\"&&\"","链接":"href=\"/index.php/vod/play/id/&&/sid/1/nid/1.html\"","链接前缀":"https://61520af78a97.chaoshi4.xyz/index.php/vod/play/id/","链接后缀":"/sid/1/nid/1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","分类二次截取":"class=\"fas fa-fw fa-video&&</ul>","分类数组":"<li style=\"line-height&&</li>","分类标题":">&&</a >","分类ID":"/index.php/vod/type/id/&&.html","分类url":"https://61520af78a97.chaoshi4.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+		{
                 "key": "XBPQ_无忧短剧",
                 "name": "🌙李在付|短剧",
                 "type": 3,
