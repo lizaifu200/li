@@ -199,6 +199,17 @@
            "jar":"./lib/spider.jar",
 	   "ext": "https://www.baipiaoys.com:9092/"	
         },
+	 {       
+            "key": "酷看",
+            "name": "💡酷看┃秒播",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+           "jar":"./lib/spider.jar",
+	 },	
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
