@@ -221,30 +221,7 @@
             "playerType": 1,
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },	
-	        {
-            "key": "zxzj",
-            "name": "🍊在线┃外剧",
-            "type": 3,
-            "jar":"./lib/spider.jar",
-	    "api": "csp_Zxzj",		
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzja.com/"
-        },
-        {
-            "key": "Lib",
-            "name": "🌟立播┃直连",
-            "type": 3,
-            "jar":"./lib/spider.jar",
-	    "api": "csp_Libvio",	
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pw/"
-        },
+
         {
             "key": "Auete",
             "name": "🏝奥特┃直连",
@@ -269,18 +246,7 @@
             "jar":"./lib/spider.jar",
 	    "ext": "https://www.80yy3.com/"	 
         },	
-	 {       
-            "key": "糯米",
-            "name": "🍙糯米┃秒播",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-           "jar":"./lib/spider.jar",
-	   "ext": "./json/nmys.json"	 
-        },	
+	
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
@@ -424,14 +390,7 @@
 			"timeout": 60,
 			"ext": "./lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
-		{	
-			"key": "河马",
-			"name": "河马┃App",
-			"type": 3,
-			"api": "csp_Hmys",
-			"playerType": 1,
-			"ext": "https://m.jmzp.net.cn$$$null$$$1"
-		},	
+	
 		{
 			"key": "天天",
 			"name": "天天┃App",
