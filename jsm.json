@@ -211,6 +211,16 @@
             "jar":"./lib/spider.jar",
 	    "ext": "https://www.maolvys.com/"	
         },
+	{        
+            "key": "萌米",
+            "name": "👀萌米┃App",
+            "type": 3,
+             "jar":"./lib/spider.jar",
+	     "api": "csp_AppTT",	
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },	
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
