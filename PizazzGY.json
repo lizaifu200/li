@@ -163,55 +163,9 @@
       "searchable": 1,
       "changeable": 1
     },
-        {
-            "key": "zy_新浪",
-            "name": "新浪",
-            "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "categories": [
-                "动漫",
-                "综艺",
-                "纪录片",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "战争片",
-                "剧情片",
-                "恐怖片",
-                "喜剧片",
-                "大陆剧",
-                "港澳剧",
-                "台湾剧",
-                "欧美剧",
-                "动漫电影",
-                "韩剧",
-                "日剧",
-                "泰剧",
-                "体育"
-            ]
-        },
-        {
-            "key": "原创",
-            "name": "原创┃无广",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "苹果┃无广",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+{"key": "飞速","name": "️飞速云","type": 1,"api": "https://www.feisuzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产剧","综艺"]},
+{"key": "享看","name": "享看云","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod"},
+{"key": "1080","name": "1080云","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {
       "key": "素白白",
       "name": "素白白",
@@ -533,29 +487,8 @@
                "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
            }
        },     
-            {
-            "key": "Lib",
-            "name": "🌟立播┃直连",
-            "type": 3,
-            "api": "csp_Libvio",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pw/"
-        },
-	  {
-            "key": "Auete",
-            "name": "🏝奥特┃直连",
-            "type": 3,
-            "jar":"./lib/spider.jar",
-	    "api": "csp_Auete",	
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/"
-        },
+{"key": "淘片","name": "淘片云","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"quickSearch": 1},
+ {"key": "映迷","name": "映迷云","type": 0,"api": "https://www.inmi.app/api.php/provide/vod/at/xml"},
    { "key": "ppvod", "name": "泡泡┃切片", "type": 3, "searchable": 1, "changeable": 1, "jar": "./lib/XBPQ.jar", "api": "csp_XBPQ", "ext": { "分类": "国产剧$14#欧美剧$15#日韩剧$62#港台剧$16#国产动漫$75#日韩动漫$76#欧美动漫$77#剧情$37#动作$23#恐怖$36", "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", "导演": "vod_director\"*\"&&\"", "主演": "vod_actor\"*\"&&\"", "简介": "vod_content\"*\"&&\"", "数组": "{&&}", "图片": "vod_pic\":\"&&\"", "标题": "vod_name\":\"&&\"", "副标题": "+vod_remarks\":\"&&\"", "线路数组": "\"vod_play_from\":&&,[替换:dplayer>>李在付专享]", "线路标题": "\"&&\"", "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", "播放列表": "表&&表", "播放标题": "题&&题", "播放链接": "链&&链", "播放请求头": "Referer$https://www.sxbfxk.com/", "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", "嗅探词": ".m3u8" } },
     {
       "key": "网飞影视",
