@@ -132,12 +132,15 @@
       "changeable": 1
     },
     {
-      "key": "韩剧视频",
-      "name": "韩剧视频",
+      "key": "粉嫩影院",
+      "name": "粉嫩影院",
+      "jar": "./jar/XBPQ.jar",
       "type": 3,
-      "api": "csp_Wexhanjutv",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/粉嫩影院.json"
     },
     {
       "key": "酷云七七",
