@@ -1883,7 +1883,7 @@
     {	  
       "name": "NBY",
       "type": 0,
-      "url": "http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="
+      "url": "http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","flag": ["NBY"],"Referer":"http://122.228.84.103:5822"
     },   
    {	  
       "name": "线路7",
