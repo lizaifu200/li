@@ -169,7 +169,7 @@
 {"key": "飞速","name": "️飞速云","type": 1,"api": "https://www.feisuzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产剧","综艺"]},
 {"key": "享看","name": "享看云","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod"},
 {"key": "1080","name": "1080云","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key": "蚂蚁","name": "SR┃蚂蚁NBY","type": 3,"api": "csp_AppYsV2","ext":"http://122.228.84.103:5822/api.php/app/","playUrl": "json:http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url=","flag": ["NBY"],"Referer":"http://122.228.84.103:5822"},    
+{"key": "悠云看剧","name": "悠云看剧","type": 3,   "api": "csp_XBPQ","ext": {"简介":"小林子祝您观影愉快","分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
     {	  
       "key": "素白白",
       "name": "素白白",
