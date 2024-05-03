@@ -131,17 +131,17 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "粉嫩影院",
-      "name": "粉嫩影院",
-      "jar": "./lib/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/粉嫩影院.json"
-    },
+      {         
+        "key":"新片吧┃影院",
+        "name":"新片┃影院",
+        "jar": "./lib/XBPQ.jar",
+        "type":3,
+        "api":"csp_XBPQ",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"./lib/新片吧.json"
+    },           
     {
       "key": "酷云七七",
       "name": "酷云七七",
