@@ -170,8 +170,66 @@
 {"key": "享看","name": "享看云","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod"},
 {"key": "1080","name": "1080云","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "悠云看剧","name": "悠云看剧","type": 3,   "api": "csp_XBPQ","ext": {"简介":"小林子祝您观影愉快","分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
-
-   {	  	  
+{"key": "乐视采集","name": "🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 乐视采集","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"changeable": 1,"header": {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}},
+     {
+                "key": "XBPQ_brovod",
+                "name": "兄弟影视┃XBPQ",
+                "type": 3,
+                "changeable": 1,
+                "searchable": 1,
+                "quickSearch": 1,
+                "filterable": 1,
+                "api": "csp_XBPQ",
+                "ext": {
+                "主页url": "https://www.brovod.com/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": "https://api.xdys.vip/lx/video.php?r=",
+                "搜索url": "https://www.brovod.com/ss/-------------/?wd={wd}",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": "<span>&&</span>",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
+                "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"},
+        "jar": "./lib/XBPQ.jar"
+        },
+        {
+                "key": "XBPQ_XiWuTv",
+                "name": "西屋影视┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "searchable": 1,
+                "quickSearch": 1,
+                "changeable": 1,
+                "ext":  {
+                "分类url": "https://xiwutv.com/vodtype/{cateId}.html",
+                "分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}    
+        },
+        {
+                "key": "XBPQ_JQQZX",
+                "name": "剧圈在线┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "ext": {
+                        "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
+                        "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
+        },
+                     {
+                "key": "XBPQ_51KanJu",
+                "name": "51看剧网┃XBPQ",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "./lib/XBPQ.jar",
+                "ext": {
+                "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
+        },  
+    {	 	  	  
       "key": "素白白",
       "name": "素白白",
       "type": 3,
