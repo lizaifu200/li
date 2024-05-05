@@ -193,7 +193,7 @@
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
-                "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"},
+                "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"}
      },        
         
         {
