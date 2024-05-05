@@ -218,18 +218,18 @@
                         "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
                         "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
         },           
- {"key": "66影视","name": "66影视","type": 3,   "api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>","线路数组":"#playlist&&</li>","播放数组":"myui-content__list scrollbar sort-list clearfix\"&&</ul>","分类url": "https://www.6e6e.net/list/index_{cateId}{catePg}.html[https://www.6e6e.net/list/index_{cateId}.html]","分类": "国产剧$guochan#香港剧$xianggang#欧美剧$oumei#日剧$riben#韩剧$hanguo#海外剧$haiwai#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#剧情片$juqing#战争片$zhanzheng#综艺$zy#动漫$dm"}},
+ 
                     
 	  {
                 "key": "XBPQ_51KanJu",
                 "name": "51看剧网┃XBPQ",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar": "./lib/XBPQ.jar",
                 "ext": {
                 "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
-        },  
+        },
+  
     {	 	  	  
       "key": "素白白",
       "name": "素白白",
