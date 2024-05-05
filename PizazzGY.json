@@ -194,32 +194,33 @@
                 "主演": "主演：&&</div>",
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
                 "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"},
-        "jar": "./lib/XBPQ.jar"
-        },
+     },        
+        
         {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar": "./lib/XBPQ.jar",
-                "searchable": 1,
+                  "searchable": 1,
                 "quickSearch": 1,
                 "changeable": 1,
                 "ext":  {
                 "分类url": "https://xiwutv.com/vodtype/{cateId}.html",
                 "分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}    
-        },
+        },              
+
         {
                 "key": "XBPQ_JQQZX",
                 "name": "剧圈在线┃XBPQ",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "jar": "./lib/XBPQ.jar",
-                "ext": {
+                   "ext": {
                         "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
                         "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
-        },
-                     {
+        },           
+ {"key": "66影视","name": "66影视","type": 3,   "api": "csp_XBPQ","ext": {"简介":"小林子为您剧情介绍: +col-pd text-collapse content\">&&</div>","线路数组":"#playlist&&</li>","播放数组":"myui-content__list scrollbar sort-list clearfix\"&&</ul>","分类url": "https://www.6e6e.net/list/index_{cateId}{catePg}.html[https://www.6e6e.net/list/index_{cateId}.html]","分类": "国产剧$guochan#香港剧$xianggang#欧美剧$oumei#日剧$riben#韩剧$hanguo#海外剧$haiwai#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#剧情片$juqing#战争片$zhanzheng#综艺$zy#动漫$dm"}},
+                    
+	  {
                 "key": "XBPQ_51KanJu",
                 "name": "51看剧网┃XBPQ",
                 "type": 3,
