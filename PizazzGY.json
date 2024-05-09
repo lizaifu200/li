@@ -181,6 +181,8 @@
       "filterable": 1,
       "ext": "./lib/蓝光岛.json"
     },    
+{"key":"drpy_js_4k剧院","name":"影视 | 4k剧院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4k剧院.js"},	  
+{"key":"drpy_js_小白菜电影","name":"影视 | 小白菜电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/小白菜电影.js"},	  
 	  {
                 "key": "XBPQ_brovod",
                 "name": "兄弟影视┃XBPQ",
