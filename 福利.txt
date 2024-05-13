@@ -2008,7 +2008,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 白银综合,http://live.bygd.cn/byzh/sd/live.m3u8?gansu
 歌星金曲,#genre#
-
+未知名新歌,https://vd4.bdstatic.com/mda-ncg9dxe96d9039u2/sc/cae_h264_delogo/1647648778266965968/mda-ncg9dxe96d9039u2.mp4
 冷漠-古咖啡,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
 冷漠-时光海灣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
 冷漠-真不是闹着玩,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
