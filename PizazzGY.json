@@ -234,25 +234,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
                 "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"}
      },        
-        {
-            "key": "秒播短剧",
-            "name": "短剧🥰直连",
-            "type": 3,
-            "api": "csp_Wexduanjuvop",
-            "jar": "./jar/djuzl.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "星芽短剧",
-            "name": "星芽🍡短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "jar": "./jar/djuzl.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },        
+       
         {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
