@@ -234,7 +234,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
                 "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"}
      },        
-      
+ {"key":"csp_比卡比卡","name":"比卡比卡","type":3,"api":"csp_XBPQ","jar":"http://mgz.yc46.cn/down.php/fd3cefc7302f3a39a442682f802b11e5.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":{"请求头":"手机","站名":"比卡比卡","主页url":"https://pika.bikaq.cc/","数组":"hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>", "标题":"title=\"&&\"","图片":"data-original=\"&&\"","免嗅":"1","播放数组":"hl-plays-list hl-sort-list clearfix\"&&</ul>","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://pika.bikaq.cc/vodsearch/{wd}----------{pg}---.html","嗅探词":".m3u8#.mp4", "分类url":"https://pika.bikaq.cc/vodtype/{cateId}-{catePg}.html","分类数组":"<li&&</li>","分类标题": ">&&/a>", "分类ID":"/vodtype/&&.html"}},     
 //{"key":"巨怒影院","name":"巨怒影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/xyqxbpq.jar","ext":{"数组":"hl-item-thumb hl-lazy&&</a","图片":"data-original=\"&&\"","图片代理":"1","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://agnu.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://agnu.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://agnu.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"热播薄码$20#中文字幕$21#精品国产$22#丰满大胸$23#暴力乱伦$24#制服校生$25#人妻御姐$26#无码园地$27#动漫卡通$28#欧美系列$30"}}, 
         {
                 "key": "XBPQ_XiWuTv",
