@@ -234,7 +234,8 @@
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
                 "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"}
      },        
-       
+      {"key":"红A影视","name":"红A影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li><a&&</a ></li>","图片":"src=\"&&\"","图片代理":"1","标题":"title=\"&&\"","副标题":"<span>&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://red.redda.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://red.redda.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://red.redda.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文暴力$20#中文美胸$21#中字制服$22#中字伦理$23#中字人妻$24#中字调教$25#中字出轨$26#本土短片$28"}},
+{"key":"巨怒影院","name":"巨怒影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"hl-item-thumb hl-lazy&&</a","图片":"data-original=\"&&\"","图片代理":"1","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://agnu.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://agnu.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://agnu.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"热播薄码$20#中文字幕$21#精品国产$22#丰满大胸$23#暴力乱伦$24#制服校生$25#人妻御姐$26#无码园地$27#动漫卡通$28#欧美系列$30"}}, 
         {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
@@ -247,7 +248,35 @@
                 "分类url": "https://xiwutv.com/vodtype/{cateId}.html",
                 "分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}    
         },              
-
+ {
+            "key": "第9放映室",
+            "name": "第9放映室|全民影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "主页url": "https://www.9fy.cc/",
+                "数组": "class=\"stui-vodlist__box\">&&</li>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "简介": "<p class=\"col-pd\">&&</p",
+                "线路数组": "class=\"title\">&&</h3>",
+                "线路标题": "PYLB专享+< img src=\"/zzd/icon/icon_30.png\"/>&&<",
+                "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+                "播放列表": "<li >&&</li>",
+                "播放标题": ">&&</a",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                "搜索url": "/d9search/{wd}----------{pg}---.html",
+                "分类url": "https://www.9fy.cc/d9show/{cateId}--------{catePg}---.html[https://www.9fy.cc/type/{cateId}.html]",
+                "分类": "电影$20#电视剧$21#动漫$23#综艺$22"
+            }
+        },
         {
                 "key": "XBPQ_JQQZX",
                 "name": "剧圈在线┃XBPQ",
@@ -257,8 +286,57 @@
                         "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju",
                         "分类url":"https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}
         },           
- 
-                    
+ {
+            "key": "努可影院",
+            "name": "努可影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "数组": "stui-vodlist__thumb lazyload&&</a",
+                "图片": "data-original=\"&&\"",
+                "图片代理": "1",
+                "副标题": "pic-text text-right\">&&</span>",
+                "简介": "description\" content=\"&&\"",
+                "链接": "href=\"/voddetail/&&.html\"",
+                "链接前缀": "https://2n2.abcoob.one/vodplay/",
+                "链接后缀": "-1-1.html",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "搜索url": "https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html",
+                "分类url": "https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"
+            }
+        },
+       {
+            "key": "全民影院",
+            "name": "全民影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "http://www.sczyxxjc.com/",
+                "首页": "",
+                "起始页": "1",
+                "数组": "class=\"myui-vodlist__box\">&&</div>",
+                "链接": "href=\"&&\"",
+                "标题": "",
+                "副标题": "",
+                "简介": "",
+                "线路数组": "<h3&&</h3>",
+                "线路标题": "PYLB专享+>&&<",
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "http://www.sczyxxjc.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类": "电视剧$2#国产剧$13#香港剧$14#韩剧$15#欧美剧$16#台剧$20#日剧$21#其他剧$22#电影$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#动漫$4#伦理$21"
+            }
+        },
+ {"key":"沙咖影院","name":"沙咖影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
+{"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},                   
 	  {
                 "key": "XBPQ_51KanJu",
                 "name": "51看剧网┃XBPQ",
@@ -268,8 +346,53 @@
                 "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
         },
-  
-    {	 	  	  
+  {
+            "key": "零秒",
+            "name": "零秒在线",
+            "type": 3,
+            "jar": "./jar/xbpq1.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "筛选": "1",
+            "filterable": 1,
+            "ext": {
+                "直接播放": "1",
+                "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2&&</li>",
+                "标题": ".html\">&&</a >",
+                "图片": "https://0smm.xyz+data-original=\"&&\"",
+                "链接": "href=\"/voddetail/&&.html",
+                "链接前缀": "https://0smm.xyz/vodplay/",
+                "链接后缀": "-1-1.html",
+                "免嗅": "1",
+                "分类url": "https://0smm.xyz/vodtype/{cateId}-{catePg}.html",
+                "分类": "九一合集&Ⅲ级电影&麻逗系&星空系&蜜桃系&乐播系&天美系&精东系&果冻系&乌鸦系",
+                "分类值": "20&29&28&26&24&23&25&22&27&21"
+            }
+        },
+ {"key":"*博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*淫水机资源","name":"淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*香奶儿资源","name":"香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*老鸭","name":"老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}, 
+         {
+            "key": "lbapi9.com",
+            "name": "艾芭芘",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+            }
+        },  
+    {	  	 	  	  
       "key": "素白白",
       "name": "素白白",
       "type": 3,
