@@ -2031,7 +2031,12 @@
       "type": 0,
       "url": "https://jx.yangtu.top?url="
     },
-    {
+    {	 
+      "name": "线路11",
+      "type": 0,
+      "url": "http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url="
+    },    
+    {	 
       "name": "线路9",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
