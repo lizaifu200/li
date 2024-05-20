@@ -72,14 +72,16 @@
       "ext": "http://app.kzjtv.com"
     },
     {
-      "key": "厂长资源",
+      "key": "厂长",
       "name": "厂长资源",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.cz233.com/"
+      "changeable": 1,
+      "ext": "https://czzy.top/"
     },
     {
       "key": "低端影视",
