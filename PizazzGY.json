@@ -387,7 +387,7 @@
 "年份": "2000-2024",
 "排序": "最新$time#最热$hits#评分$score"}},
 {"key":"天龙高清","name":"天龙┃高清",
-"type":3,"api":"csp_XBPQ", "jar":"http://192.168.3.1:88/TVBox/pg/lib/XBPQ.jar",
+"type":3,"api":"csp_XBPQ", "jar":"./lib/xyqxbpq.jar",
 "ext":{"发布地址":"http://113276.xyz",
 "数组":"<li><a&&BR>分类",
 "图片":"src=\"&&\"",
