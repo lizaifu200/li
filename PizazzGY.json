@@ -378,7 +378,7 @@
             "分类url": "https://bzhanyy.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",     
 			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",		
            "搜索url":"https://bzhanyy.com/index.php/vod/search.html?wd={wd}",
-		   "标题":"class=\"movie-title txtHide\"*>&&</div"
+		   "标题":"class=\"movie-title txtHide\"*>&&</div",
 		   "副标题":"class=\"movie-rating cor4\">&&</div",
             "简介":"class=\"summary detailsTxt\"*>&&</div",
            "筛选":"1",
