@@ -239,7 +239,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6",
                 "分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"}
      },        
-{
+     {
 "key":"Tudou",
 "name":"独家4K-1",
 "playerType":1,
@@ -371,41 +371,7 @@
                 "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
         },
-{
-            "key": "B站影视xbpq",
-            "name": "简影B站影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/xyqxbpq.jar",
-	"ext": {
-             "主页url": "https://bzhanyy.com/",
-            "分类url": "https://bzhanyy.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",     
-			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",		
-           "搜索url":"https://bzhanyy.com/index.php/vod/search.html?wd={wd}",
-		   "标题":"class=\"movie-title txtHide\"*>&&</div"
-		   "副标题":"class=\"movie-rating cor4\">&&</div",
-            "简介":"class=\"summary detailsTxt\"*>&&</div",
-           "筛选":"1",
-          "类型": "1--喜剧$6#爱情$7#恐怖$8#科幻$9#剧情$10#战争$11#犯罪$12#武侠$21#纪录$20#理论片$26||2--国产剧$13#港台剧$14#日韩剧$15#欧美剧$16",   
-	     "年份":"2000-2024",
-	       "排序":"时间$time#人气$hits#评分$score"
-	 }
-},
 
-{
-            "key": "影映",
-            "name": "影映剧场",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./lib/xyqxbpq.jar",
-	    "ext": {
-                    "分类url":"https://www.bllibl.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-                "拾光畅谈出品": ""
-            }
-        },
   {
       "key": "毒舌电影",
       "name": "简影毒舌",
