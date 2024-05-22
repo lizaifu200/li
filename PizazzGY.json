@@ -322,21 +322,193 @@
                 "分类": "电视剧$2#国产剧$13#香港剧$14#韩剧$15#欧美剧$16#台剧$20#日剧$21#其他剧$22#电影$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#动漫$4#伦理$21"
             }
         },
-
-
-        
+{"key":"幺吉","name":"幺吉影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/xyqxbpq.jar","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","播放数组":"module-play-list-content&&</div></div>","播放列表":"<a&&/a>","播放标题":"<span>&&</span>","播放链接":"href=\"&&\"","线路数组":"class=\"module-tab-item tab-item&&<small>[替换:>>#云>>]","倒序":"0",
+//蓝光$https://vip.lianfaka.com/?url=#蓝光①$https://vip.lianfaka.com/?url=#蓝光②$https://vip.lianfaka.com/?url=#蓝光③$https://vip.lianfaka.com/?url=
+"跳转解析": "默认$空#极速$https://jx.fkpzw.com/?url=#极速①$https://jx.fkpzw.com/?url=#极速②$https://jx.fkpzw.com/?url=#极速③$https://jx.fkpzw.com/?url=#①线$https://app.fkpzw.com/?url=#②线$https://app.fkpzw.com/?url=#③线$https://app.fkpzw.com/?url=",
+"跳转播放链接":"解析+urlDecode(var player_*url\":\"&&\")",
+"分类url":"https://vip.yjitv.com/yjyy/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html[https://vip.yjitv.com/yjys/{cateId}/{catePg}.html];;mak","分类": "电影&电视剧&动漫&综艺",
+"分类值": "dianying&dianshiju&dongmna&zongyi",
+"筛选": "1",
+"类型": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp||国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj||空||空||空||空",
+"年份": "2000-2024",
+"排序": "最新$time#最热$hits#评分$score"}},
+ {
+      "key": "T4-djmv",
+      "name": "音乐-DJMV(T4)",
+      "type": 4,
+     "jar": "./lib/xyqxbpq.jar",
+     "api": "https://catbox.n13.club/t5/djmv.php"	 
+    },
+ {
+      "key": "gntv",
+      "name": "最简光年",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.gntv.cc/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3",
+        "图片": "data-src=\"&&\"",
+		"简介":"id=\"height_limit\" class=\"text cor3*\">&&</div",
+		"线路标题":"/i>&nbsp;&&<span"
+      }
+    },        
 	  {
                 "key": "XBPQ_51KanJu",
                 "name": "51看剧网┃XBPQ",
                 "type": 3,
                 "api": "csp_XBPQ",
-                "ext": {
+                 "jar": "./lib/xyqxbpq.jar",
+		  "ext": {
                 "分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}
         },
-
-  
-    {	  	 	  	  
+{
+            "key": "B站影视xbpq",
+            "name": "简影B站影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+	"ext": {
+             "主页url": "https://bzhanyy.com/",
+            "分类url": "https://bzhanyy.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",     
+			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",		
+           "搜索url":"https://bzhanyy.com/index.php/vod/search.html?wd={wd}",
+		   "标题":"class=\"movie-title txtHide\"*>&&</div"
+		   "副标题":"class=\"movie-rating cor4\">&&</div",
+            "简介":"class=\"summary detailsTxt\"*>&&</div",
+           "筛选":"1",
+          "类型": "1--喜剧$6#爱情$7#恐怖$8#科幻$9#剧情$10#战争$11#犯罪$12#武侠$21#纪录$20#理论片$26||2--国产剧$13#港台剧$14#日韩剧$15#欧美剧$16",   
+	     "年份":"2000-2024",
+	       "排序":"时间$time#人气$hits#评分$score"
+	 }
+},
+{
+            "key": "私人xbpq",
+            "name": "简影私人",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "./lib/xyqxbpq.jar",
+	"ext": {
+             "主页url": "https://www.siren93.com",
+            "分类url": "https://www.siren93.com/vodshow/{cateId}--{by}------{catePg}---{year}/",     
+			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",		
+           "搜索url":"https://www.siren93.com/vodsearch/-------------.html?wd={wd}",
+           "筛选":"1",
+     "类型": "1--动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$11#剧情片$12#动画片$34#歌舞片$20#历史片$21#谍战片$22||2--国产剧$13#香港剧$14#欧美剧$15#日本剧$16#海外剧$23#台湾剧$24#韩国剧$25#泰国剧$26#灾难片$27#奇幻片$28#冒险片$29#犯罪片$30#惊悚片$31#传记片$32#悬疑片$33||3--综艺$3||4--动漫$4",   
+	  "年份":"2004-2024",
+	  "排序":"时间排序$time#人气排序$hits#评分排序$score"
+	 }
+},
+{
+            "key": "影映",
+            "name": "影映剧场",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./lib/xyqxbpq.jar",
+	    "ext": {
+                    "分类url":"https://www.bllibl.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+                "拾光畅谈出品": ""
+            }
+        },
+  {
+      "key": "毒舌电影",
+      "name": "简影毒舌",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar": "./lib/xyqxbpq.jar",
+	  "ext": {
+      "主页url":"https://www.dushe1.app",
+  "数组":"class=\"module-item\">&&</div>",
+         "图片":"src=\"&&\"",
+         "标题":"title=\"&&\"",
+        "副标题": "<span>&&</span",
+        "简介": "<p>&&</p >",
+         "链接": "href=\"&&\"",
+        "线路数组": " class=\"swiper-slide source-swiper-slide*\">&&</div",
+        "线路标题": "class=\"source-item-label\">&&</span",
+        "搜索url": "https://www.dushe1.app/search?k={wd}",
+        "搜索数组":"class=\"search-result-list fs-margin-section\"&&</div",
+        "搜索图片": " src=\"&&\"",
+        "搜索标题":"class=\"title\">&&</div",
+         "搜索简介": "class=\"desc\">&&</div>",
+         "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.dushe1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",    
+        "排序": "综合$1#最新$2#最热$3#评分$4"
+      }
+    },
+{
+  "key":"天龙高清",
+  "name":"天龙┃高清",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "./lib/xyqxbpq.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"发布地址":"http://113276.xyz",
+  "数组":"<li><a&&BR>分类",
+  "图片":"src=\"&&\"",
+  "副标题":"BR>状态：&&<",
+  "简介":"</font></br>&&</div>",
+  "线路数组":"<i class=\"iconfont\"&&/font",
+  "线路标题":"</i>&&<",
+  "播放数组":"<div class=\"list playlist&&</div",
+  "播放链接":"http://www.82mao.com/+href=\"javascript:OpenWindow3(\'/&&\',window)\"",
+  "跳转播放链接":"http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"",
+  "搜索url":"http://www.82mao.com/Search/{wd}----------{pg}---.html",
+  "分类url":"http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+  "分类":"短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"}},   
+{
+            "key": "厂长",
+            "name": "┃1080┃厂长",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+             "jar": "./lib/xyqxbpq.jar",
+	"ext": {
+                "主页url": "https://www.czys.top",
+                "数组": "<li>&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "副标题": "span>&&</span>",
+                "搜索模式": "1",
+                "搜索url": "https://cn.bing.com/search?q={wd}+site%3Awww.czzy88.com/movie&qs=ds&form=QBRE",
+                "搜索二次截取": "<ol id=\"b_results&&</ol",
+                "搜索数组": "class=\"b_algoheader&&</a",
+                "搜索图片": "https://scdn.colabug.com/2022/05/nqifme-20220502.png",
+                "搜索标题": "<strong>&&</strong>",
+                "搜索副标题": "厂长资源",
+                "搜索链接": "href=\"&&\"",
+                "影片年代": "年份：&&</li>",
+                "影片地区": "地区：&&</li>",
+                "影片类型": "类型：&&</li>",
+                "导演": "导演：&&</li>",
+                "主演": "主演：&&</li>",
+                "简介": "class=\"yp_context\"&&</p >",
+                "线路数组": "<div class=\"mi_paly_box\">&&</div>",
+                "线路标题": "<span>&&</span>[替换:在线观看>>厂长资源]",
+                "播放数组": "<div class=\"paly_list_btn\">&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<[替换:立即播放>>空]",
+                "播放链接": "href=\"&&\"",
+                "分类": "豆瓣电影Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
+                "分类值": "dbtop250&zuixindianying&dongmanjuchangban&guochanju&mj&hj&fanju",
+                "分类url": "https://www.czys.top/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg};;a"
+            }
+        },
+{	  	 	  	  
       "key": "素白白",
       "name": "素白白",
       "type": 3,
