@@ -376,45 +376,7 @@
 	  "排序":"时间排序$time#人气排序$hits#评分排序$score"
 	 }
 },
-{
-            "key": "厂长",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "jar": "./lib/xyqxbpq.jar",
-	    "ext": {
-                "主页url": "https://www.czys.top",
-                "数组": "<li>&&</li>",
-                "图片": "data-original=\"&&\"",
-                "标题": "alt=\"&&\"",
-                "链接": "href=\"&&\"",
-                "副标题": "span>&&</span>",
-                "搜索模式": "1",
-                "搜索url": "https://cn.bing.com/search?q={wd}+site%3Awww.czzy88.com/movie&qs=ds&form=QBRE",
-                "搜索二次截取": "<ol id=\"b_results&&</ol",
-                "搜索数组": "class=\"b_algoheader&&</a",
-                "搜索图片": "https://scdn.colabug.com/2022/05/nqifme-20220502.png",
-                "搜索标题": "<strong>&&</strong>",
-                "搜索副标题": "厂长资源",
-                "搜索链接": "href=\"&&\"",
-                "影片年代": "年份：&&</li>",
-                "影片地区": "地区：&&</li>",
-                "影片类型": "类型：&&</li>",
-                "导演": "导演：&&</li>",
-                "主演": "主演：&&</li>",
-                "简介": "class=\"yp_context\"&&</p >",
-                "线路数组": "<div class=\"mi_paly_box\">&&</div>",
-                "线路标题": "<span>&&</span>[替换:在线观看>>厂长资源]",
-                "播放数组": "<div class=\"paly_list_btn\">&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<[替换:立即播放>>空]",
-                "播放链接": "href=\"&&\"",
-                "分类": "豆瓣电影Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
-                "分类值": "doubandianyingTop250&zuixindianying&juchangban&guochanju&mj&hj&fanju",
-                "分类url": "https://www.czys.top/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg};;a"
-            }
-        },
+
 
 {
       "key": "毒舌电影",
