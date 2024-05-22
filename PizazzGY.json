@@ -391,7 +391,8 @@
             "name": "简影B站影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
+            "jar": "./lib/xyqxbpq.jar", 
+	    "ext": {
              "主页url": "https://bzhanyy.com/",
             "分类url": "https://bzhanyy.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",     
 			"分类": "电影$1#电视剧$2#综艺$3#动漫$4",		
