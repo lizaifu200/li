@@ -81,10 +81,9 @@
       "api": "csp_TTian",
       "ext": "http://app.kzjtv.com"
     },
-
- {
-            "key": "changzhang",
-            "name": "李在付┃厂长",
+{
+            "key": "厂长",
+            "name": "厂长",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
@@ -117,7 +116,7 @@
                 "播放标题": ">&&<[替换:立即播放>>空]",
                 "播放链接": "href=\"&&\"",
                 "分类": "豆瓣电影Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧",
-                "分类值": "dbtop250&zuixindianying&dongmanjuchangban&guochanju&mj&hj&fanju",
+                "分类值": "doubandianyingTop250&zuixindianying&juchangban&guochanju&mj&hj&fanju",
                 "分类url": "https://www.czys.top/movie_bt/{class}/movie_bt_series/{cateId}/page/{catePg};;a"
             }
         },
