@@ -322,17 +322,7 @@
                 "分类": "电视剧$2#国产剧$13#香港剧$14#韩剧$15#欧美剧$16#台剧$20#日剧$21#其他剧$22#电影$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#动漫$4#伦理$21"
             }
         },
-{
-            "key": "Cally影视",
-            "name": "Cally影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://8756.kstore.space/tvbox/xbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://8756.kstore.space/tvbox/cally自建.json"
-        },
+
 {
             "key": "厂长",
             "name": "厂长",
@@ -372,8 +362,8 @@
             }
         },
         {
-            "key": "厂长",
-            "name": "┃1080┃厂长",
+            "key": "changzhang",
+            "name": "李在付┃厂长资源",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": "2",
