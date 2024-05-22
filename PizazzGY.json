@@ -41,20 +41,7 @@
       "searchable": 1,
       "changeable": 1
     },
-   {"key":"t5-douban","name":"影视-豆瓣(t5)","type":4,"api":"https://catbox.n13.club/t5/douban.php"},
-{"key":"t5-剧圈","name":"影视-剧圈(t5)","type":4,"api":"https://catbox.n13.club/t5/juquan.php"},
-{"key":"t5-黑狐","name":"影视-黑狐(t5)","type":4,"api":"https://catbox.n13.club/t5/heihu.php"},
-{"key":"t5-jp","name":"影视-荐片(t5)","type":4,"api":"https://catbox.n13.club/t5/jianpian.php"},
-{"key":"t5-南瓜","name":"影视-南瓜(t5)","type":4,"api":"https://catbox.n13.club/t5/nangua.php"},
-{"key":"t5-极光","name":"影视-极光(t5)","type":4,"api":"https://catbox.n13.club/t5/jiguang.php"},
-{"key":"t5-caiji","name":"影视-采集(t5)","type":4,"api":"https://catbox.n13.club/t5/caiji.php"},
-{"key":"t5-wencai","name":"影视-文才(t5)","type":4,"api":"https://catbox.n13.club/t5/wencai.php"},
-{"key":"t5-xinshijue","name":"影视-新视觉(t5)","type":4,"api":"https://catbox.n13.club/t5/xinshijue.php"},
-{"key":"t5-saohuo","name":"影视-骚火(t5)","type":4,"api":"https://catbox.n13.club/t5/saohuo.php"},
-{"key":"t5-jojo","name":"影视-jojo(t5)","type":4,"api":"https://catbox.n13.club/t5/jojo.php"},
-{"key":"t5-mingri","name":"影视-明日(t5)","type":4,"api":"https://catbox.n13.club/t5/mingri.php"},
-{"key":"t5-6v","name":"磁力-6V(t5)","type":4,"api":"https://catbox.n13.club/t5/6v.php"},
-{"key":"t5-哔嘀","name":"磁力-哔嘀(t5)","type":4,"api":"https://catbox.n13.club/t5/bdys.php"},
+
 {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
