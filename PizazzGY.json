@@ -324,7 +324,23 @@
                 "分类": "电视剧$2#国产剧$13#香港剧$14#韩剧$15#欧美剧$16#台剧$20#日剧$21#其他剧$22#电影$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#动漫$4#伦理$21"
             }
         },
-
+ {
+            "key": "ai-bahaoys",
+            "name": "8号影院",
+            "type": 3,
+            "jar": "./lib/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "语言": "中文",
+                "请求头": "手机",
+             "地址发布页": "http://www.bahaoys.com",
+                "主页url": "http://www.soutiyi.com/",
+                "分类url": "http://www.soutiyi.com/frim/{cateId}-{catePg}.html"
+            }
+        },
  {
       "key": "T4-djmv",
       "name": "音乐-DJMV(T4)",
