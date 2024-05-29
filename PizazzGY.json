@@ -45,7 +45,7 @@
       "key": "喵喵",
       "name": "😺喵喵┃影视",
       "type": 3,
-      "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./lib/喵喵.js"
     },
 {	  
