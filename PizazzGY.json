@@ -79,16 +79,14 @@
       "ext": "http://app.kzjtv.com"
     },
     {
-      "key": "FEIYUN",
-      "name": "🌤飞云┃切片",
+      "key": "csp_宇宙",
+      "name": "🌍宇宙┃影视",
       "type": 3,
-      "api": "./lib/AppysV2.js",
-      "ext": {
-        "host": "http://122.228.84.103:6117/api.php/app/",
-        "*": [
-          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
-        ]
-      }
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/宇宙.json"
     },
 
     {
