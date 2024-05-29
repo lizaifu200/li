@@ -41,7 +41,13 @@
       "searchable": 1,
       "changeable": 1
     },
-
+    {
+      "key": "喵喵",
+      "name": "😺喵喵┃影视",
+      "type": 3,
+      "api": "https://jihulab.com/cc7734437/svip/-/raw/main/lib/drpy2.min.js",
+      "ext": "./lib/喵喵.js"
+    },
 {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
@@ -72,7 +78,18 @@
       "api": "csp_TTian",
       "ext": "http://app.kzjtv.com"
     },
-
+    {
+      "key": "FEIYUN",
+      "name": "🌤飞云┃切片",
+      "type": 3,
+      "api": "./lib/AppysV2.js",
+      "ext": {
+        "host": "http://122.228.84.103:6117/api.php/app/",
+        "*": [
+          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+        ]
+      }
+    },
 
     {
       "key": "低端影视",
