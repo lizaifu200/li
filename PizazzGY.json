@@ -41,7 +41,16 @@
       "searchable": 1,
       "changeable": 1
     },
-{"key":"酷看影视","name":"酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar": "./jar/jar.php;md5;afadb80089d4e52d2360a8d0cf5555a9"},
+    {
+      "key": "酷看",
+      "name": "酷看💡直连",
+      "type": 3,
+      "api": "csp_Wexkukantv",
+      "jar": "./lib/kukanys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
