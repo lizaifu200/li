@@ -43,7 +43,7 @@
     },
     {
       "key": "酷看",
-      "name": "酷看💡直连",
+      "name": "酷看直连",
       "type": 3,
       "api": "csp_Wexkukantv",
       "jar": "./lib/kukanys.jar",
@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_宇宙",
-      "name": "宇宙┃影视",
+      "name": "宇宙影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
