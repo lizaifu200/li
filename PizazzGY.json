@@ -41,13 +41,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "喵喵",
-      "name": "😺喵喵┃影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/喵喵.js"
-    },
+
 {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
@@ -86,7 +80,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/宇宙.json"
+      "jar": "./jar/xhkw0420.jar;md5;b969cc277fe19f232f9418695d2d0b22",
+      "ext": "./lib/宇宙.json"	    
     },
 
     {
