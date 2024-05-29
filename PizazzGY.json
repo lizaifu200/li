@@ -206,7 +206,7 @@
       "ext": {
         "host": "http://122.228.84.103:6117/api.php/app/",
         "*": [
-          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+          "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
         ]
       }
     },       
