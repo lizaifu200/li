@@ -196,8 +196,7 @@
 {"key": "1080","name": "1080云","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key": "悠云看剧","name": "悠云看剧","type": 3,   "api": "csp_XBPQ","ext": {"简介":"小林子祝您观影愉快","分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
 {"key": "乐视采集","name": "🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 乐视采集","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"changeable": 1,"header": {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"}},
-{"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./lib/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},      
-{"key":"csp_无忧短剧","name":"🍡无忧短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"jar":"./lib/danmu.jar"},	  
+
 
 	  {
             "key": "飞刀",
