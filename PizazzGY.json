@@ -270,7 +270,7 @@
 "filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"https://syc.lvdoui.top/jar/tudou0417.jar"
 }, 
-//{"key":"巨怒影院","name":"巨怒影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/xyqxbpq.jar","ext":{"数组":"hl-item-thumb hl-lazy&&</a","图片":"data-original=\"&&\"","图片代理":"1","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://agnu.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://agnu.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://agnu.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"热播薄码$20#中文字幕$21#精品国产$22#丰满大胸$23#暴力乱伦$24#制服校生$25#人妻御姐$26#无码园地$27#动漫卡通$28#欧美系列$30"}}, 
+{"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./lib/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
         {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
