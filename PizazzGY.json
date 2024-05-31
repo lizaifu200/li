@@ -505,9 +505,17 @@
       "searchable": 1,
       "changeable": 1
     },
-{ "key": "官源", "name": "‍官源", "type": 3,"api": "AppysV2.js","ext": {"host": "http://122.228.84.103:6119/api.php/app/","*": ["http://121.62.61.51:6888/api/?key=BxzJDoznSIoiPuDrRm&url=","http://119.91.123.253:2345/Api/yun.php?url=","https://www.x-n.cc/api.php?url=","http://119.91.123.253:2345/Api/yun.php?url=","http://pan.qiaoji8.com/tvbox/gouzi.php?url=","https://jx.m3u8.tv/jiexi/?url=","https://jx.xmflv.com/?url=","https://jxxcc-cc1.dianshia.top/api/?key=RxSlfyMCzxKoFWMdv4&url=","http://110.42.2.247:8000/analysis/json/?uid=2594&my=degjnowzBCFHTY1278&format=json&url="]}},
-   {"key": "何以影视","name": "官源","type": 3,"api": "AppysV2.js","ext":{"host": "https://www.heyiys1.com:4433/api.php/app/","*": ["http://121.62.61.51:6888/api/?key=BxzJDoznSIoiPuDrRm&url=","http://119.91.123.253:2345/Api/yun.php?url=","https://www.x-n.cc/api.php?url=","http://119.91.123.253:2345/Api/yun.php?url=","http://pan.qiaoji8.com/tvbox/gouzi.php?url=","https://jx.m3u8.tv/jiexi/?url=","https://jx.xmflv.com/?url=","https://jxxcc-cc1.dianshia.top/api/?key=RxSlfyMCzxKoFWMdv4&url=","http://110.42.2.247:8000/analysis/json/?uid=2594&my=degjnowzBCFHTY1278&format=json&url="]}},
-   {"key": "微笑","name": "官源","type": 3, "api": "AppysV2.js","ext":{"host": "http://app.vipwxys.cn/mogai_api.php/v1.vod","*": ["http://121.62.61.51:6888/api/?key=BxzJDoznSIoiPuDrRm&url=","http://119.91.123.253:2345/Api/yun.php?url=","https://www.x-n.cc/api.php?url=","http://119.91.123.253:2345/Api/yun.php?url=","http://pan.qiaoji8.com/tvbox/gouzi.php?url=","https://jx.m3u8.tv/jiexi/?url=","https://jx.xmflv.com/?url=","https://jxxcc-cc1.dianshia.top/api/?key=RxSlfyMCzxKoFWMdv4&url=","http://110.42.2.247:8000/analysis/json/?uid=2594&my=degjnowzBCFHTY1278&format=json&url="]}},    
+    {
+      "key": "Bdys_spider",
+      "name": "哔滴💧直连",
+      "api": "csp_Bdys01",
+      "jar": "./lib/fix140412.jar",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": ""
+    },
 {
       "key": "新视觉",
       "name": "新视觉",
