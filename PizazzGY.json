@@ -332,7 +332,7 @@
         "链接": "href=\"&&\"",
         "播放链接": "href=\"&&\"",
         "搜索url": "https://www.ncat2.com/search?os=pc&k={wd}",
-        "分类url":"https://www.ncat2.com/show/{cateId}-{class}-{area}--{lang}-{year}-3-{catePg}.html",
+        "分类url":"https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
          "分类":"短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},     
 
 	  {
