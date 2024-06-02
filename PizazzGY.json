@@ -319,7 +319,22 @@
 		  "筛选":"1"
 	 }
 },
-        {
+   {        "key":"网飞猫影视",
+         "name":"🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 网飞猫",
+         "type":3,"api":"csp_XBPQ", 
+         "jar":"./lib/XBPQ.jar",
+         "ext":{
+         "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+         "主页url": "https://www.ncat2.com/",
+         "数组":"module-item\">&&</div>",
+        "图片": "https+://61.147.93.252:15002+data-original=\"&&\"",
+       "标题":"title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "播放链接": "href=\"&&\"",
+        "搜索url": "https://www.ncat2.com/search?os=pc&k={wd}",
+        "分类url":"https://www.ncat2.com/show/{cateId}-{class}-{area}--{lang}-{year}-3-{catePg}.html",
+         "分类":"短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},     
+	  {
                 "key": "XBPQ_JQQZX",
                 "name": "剧圈在线┃XBPQ",
                 "type": 3,
