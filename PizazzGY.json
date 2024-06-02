@@ -334,7 +334,6 @@
         "搜索url": "https://www.ncat2.com/search?os=pc&k={wd}",
         "分类url":"https://www.ncat2.com/show/{cateId}-{class}-{area}--{lang}-{year}-3-{catePg}.html",
          "分类":"短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},     
-{"key":"dr_布雷蓝光","name":"┃布布┃官源","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/布雷蓝光.jsd"},
 
 	  {
                 "key": "XBPQ_JQQZX",
