@@ -339,7 +339,7 @@
       "name": "🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 酷茶",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"./lib/XBPQ.jar",
+      "jar":"./jar/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
