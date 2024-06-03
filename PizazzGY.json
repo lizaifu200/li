@@ -343,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     "jar":"./jar/fty.jar;md5;6adeb73add2066fe62257d2337084da2",  
+     "jar":"./jar/XBPQ.jar",  
       "ext": { 	    	   
 "主页url": "https://www.kcys.top",
 "分类url":"https://www.kcys.top/vod/index.html?page={catePg}&type_id={cateId};;ak",
