@@ -195,12 +195,40 @@
       "changeable": 1
     },
     {
-      "key": "白嫖影视",
-      "name": "白嫖影视",
-      "type": 3,
-      "api": "csp_Wexbaipiao",
+      "key": "业余采集A",
+      "name": "♻业余无广",
+      "type": 1,
+      "api": "http://127.0.0.1:10079/p/0/proxy/https://yyff.540734621.xyz/api.php/provide/vod/",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "热播短剧",
+        "国产电影",
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "战争片",
+        "恐怖片",
+        "欧美剧",
+        "港台剧",
+        "日韩剧",
+        "海外剧",
+        "国内动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "国内综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "纪录片",
+        "音乐",
+        "体育"
+      ]
     },
 {"key": "飞速","name": "️飞速云","type": 1,"api": "https://www.feisuzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","国产剧","综艺"]},
 {"key": "享看","name": "享看云","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://xkanzy10.com/api.php/provide/vod"},
@@ -367,11 +395,12 @@
       "quickSearch": 1,
       "filterable": 1,
      "jar": "./lib/spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
-     "ext": "./lib/七新影视.json"	    
+     "ext":{ "host":"./lib/七新影视.json"	    
          "*": [
           "https://leige9042.tpddns.cn:88/qxys/jiexi/qixikey?url="
         ]
-},
+      }
+     },
 	    {
       "key": "csp_DiDuan",
       "name": "🏌 低调直连 ",
