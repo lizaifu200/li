@@ -343,7 +343,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": { 	   
+     "jar":"./jar/fty.jar;md5;6adeb73add2066fe62257d2337084da2",  
+      "ext": { 	    	   
 "主页url": "https://www.kcys.top",
 "分类url":"https://www.kcys.top/vod/index.html?page={catePg}&type_id={cateId};;ak",
 "分类": "电影&电视剧&动漫&综艺&短剧",
