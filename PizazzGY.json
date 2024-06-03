@@ -334,36 +334,27 @@
         "搜索url": "https://www.ncat2.com/search?os=pc&k={wd}",
         "分类url":"https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
          "分类":"短剧$6#电影$1#电视剧$2#综艺$4#动漫$3"}},     
-         
-    {
+{
       "key": "XBPQ_酷茶",
-      "name": "酷茶",
+      "name": "🧨ˎˊ˗ 𝐘𝐞𝐞𝐞𝐞 酷茶",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar":"./lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     "jar":"./jar/XBPQ.jar",  
-      "ext": { 	    	   
-"主页url": "https://www.kcys.top",
-"分类url":"https://www.kcys.top/vod/index.html?page={catePg}&type_id={cateId};;ak",
-"分类": "电影&电视剧&动漫&综艺&短剧",
-"分类值": "1&2&4&3&39",
-"数组":"<li class=\"mb&&</li>",
-"图片":"img src=\"&&\"",
-"标题": "title=\"&&\"",
-"链接": "href=\"&&\"",
-"线路数组":"<a class=\"play-btn&&/a>",
-"线路标题":">&&<",
-"播放数组":"<ul class=\"play-plays-list&&</ul>",
-"播放列表":"<a&&/a>",
-"播放标题":">&&<",
-"播放链接":"href=\"&&\"",
-"搜索url":"https://www.kcys.top/search/index.html?keyword={wd}&page={pg}"
-}
+      "ext": {
+        "图片": "src=\"&&\"",
+       "标题":"title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "播放链接": "href=\"&&\"",
+        "立即播放":"1",
+        "搜索url": "https://www.kcys.top/search/index.html?keyword={wd}",
+        "分类url": "https://www.kcys.top/vod/index.html?page={catePg}&type_id={cateId}",
+        //"分类url": "https://www.kcys.top/vod/player.html?cate_id={cateId}&id={cateId}&type_id={cateId}",
+         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$39"
+      }
     },
-
-
 	  {
                 "key": "XBPQ_JQQZX",
                 "name": "剧圈在线┃XBPQ",
