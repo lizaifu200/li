@@ -368,7 +368,10 @@
       "filterable": 1,
      "jar": "./lib/spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
      "ext": "./lib/七新影视.json"	    
-    },	
+         "*": [
+          "https://leige9042.tpddns.cn:88/qxys/jiexi/qixikey?url="
+        ]
+},
 	    {
       "key": "csp_DiDuan",
       "name": "🏌 低调直连 ",
