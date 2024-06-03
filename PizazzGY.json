@@ -339,7 +339,7 @@
       "name": "👶白嫖者联盟",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
+      "jar": "./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69",
       "ext": {
         "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
