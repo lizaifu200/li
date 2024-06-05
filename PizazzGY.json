@@ -280,8 +280,18 @@
 {"key":"csp_无忧短剧","name":"🍡无忧短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"jar":"./lib/danmu.jar"},
 {"key":"csp_星芽短剧","name":"🍡星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./lib/spider_0523.jar"},	  
 {"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./lib/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},	  
-	  {"key":"短剧网","name":"🔴短剧网","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},"jar":"./lib/XBPQ.jar"},	 
-        {
+{"key":"短剧网","name":"🔴短剧网","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},"jar":"./lib/XBPQ.jar"},	 	  
+  {
+      "key": "短剧",
+      "name": "上头┃短剧",
+      "type": 3,
+      "api": "csp_Djuu",
+      "jar": "./jar/isz.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },     
+	  {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
                 "type": 3,
