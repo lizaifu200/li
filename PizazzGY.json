@@ -291,6 +291,32 @@
       "quickSearch": 1,
       "changeable": 1
     },     
+{
+            "key": "龙伊短剧",
+            "name": "┃龙伊┃短剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://apple.xn--kwr743m.top/api.php/app/"
+        },
+        {
+            "key": "龙伊4K",
+            "name": "┃龙伊┃4K",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "jar": "https://api.xn--qoqw77q.top/longyi-spider-4k.json",
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "cookie": "file://TV/quark_cookie.txt",
+                "site": "https://tudou.lvdoui.top"
+            },
+            "timeout": 25
+        },	 
 	  {
                 "key": "XBPQ_XiWuTv",
                 "name": "西屋影视┃XBPQ",
