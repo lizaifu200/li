@@ -1192,7 +1192,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/XBPQ.jar" 
+            "jar": "./jar/XBPQ.jar",
 	    "ext": {
                 "主页url": "https://www.ahwsgy.com/",
                 "搜索url": "https://www.ahwsgy.com/vodsearch/-------------.html?wd={wd}",
