@@ -1655,7 +1655,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/4k4k.json",
-            "jar": "./jar/XBPQ.jar"
+            "jar": "./lib/XBPQ.jar"
         },
     {
       "key": "酷奇",
