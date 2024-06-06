@@ -1192,7 +1192,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
+            "jar": "./jar/XBPQ.jar" 
+	    "ext": {
                 "主页url": "https://www.ahwsgy.com/",
                 "搜索url": "https://www.ahwsgy.com/vodsearch/-------------.html?wd={wd}",
                 "分类url": "https://www.ahwsgy.com/show/{cateId}-{area}-{by}------{catePg}---.html",
@@ -1655,7 +1656,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/4k4k.json",
-            "jar": "./lib/xbpq.jar"
+            "jar": "./jar/XBPQ.jar"
         },
     {
       "key": "酷奇",
