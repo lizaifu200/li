@@ -1630,7 +1630,16 @@
       "filterable": 1,
       "ext": "./lib/哔哩相声.json"
     },
-
+            "key": "csp_4K_4",
+            "name": "4K┃4K",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/4k4k.json",
+            "jar": "./jar/XBPQ.jar"
+        },
     {
       "key": "酷奇",
       "name": "🇹┃酷奇MV┃资源",
