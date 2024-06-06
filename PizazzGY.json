@@ -1630,18 +1630,7 @@
       "filterable": 1,
       "ext": "./lib/哔哩相声.json"
     },
-    {
-      "key": "MV_vod",
-      "name": "🇹┃20万MV┃资源",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "酷奇",
       "name": "🇹┃酷奇MV┃资源",
@@ -1657,20 +1646,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "Bili",
-      "name": "🇹┃哔哩哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/bilibili.json"
-    },  
+  
     {
       "key": "dr_兔小贝",
       "name": "🇹┃教育区┃启蒙",
