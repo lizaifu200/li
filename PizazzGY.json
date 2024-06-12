@@ -1628,7 +1628,21 @@
       "changeable": 0,
       "ext": "./lib/MTV.json"
     },
-    {
+      {
+      "key": "Biliych",
+      "name": "拾光┃热门歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/biliych.json"
+    },  
+{
       "key": "戏曲杂苑",
       "name": "🇹┃戏曲网┃大全",
       "type": 3,
