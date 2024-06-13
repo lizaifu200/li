@@ -1475,28 +1475,28 @@
       "key": "AnFuns",
       "name": "AnFuns",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/AnFuns.js"
     },
     {
       "key": "Anime1",
       "name": "Anime1",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/Anime1.js"
     },
     {
       "key": "NT动漫",
       "name": "NT动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/NT动漫.js"
     },
     {
       "key": "58动漫",
       "name": "58动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/58动漫.js"
     },
     {
@@ -1559,14 +1559,14 @@
       "key": "曲奇动漫",
       "name": "曲奇动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/曲奇动漫.js"
     },
     {
       "key": "妮可动漫",
       "name": "妮可动漫",
       "type": 3,
-      "api": "./lib/drpy.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/妮可动漫.js"
     },
     {
