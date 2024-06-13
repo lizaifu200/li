@@ -341,8 +341,8 @@
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/爱奇艺.js"
     },
     {
       "key": "三六零",
