@@ -341,7 +341,7 @@
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/lizaifu200/li/main/js/drpy2.min.js",
       "ext": "./js/爱奇艺.js"
     },
     {
