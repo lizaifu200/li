@@ -148,7 +148,7 @@
       "searchable": 1,
       "changeable": 1
     },
-		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar",
+		{"key":"XBPQ_文才","name":"文才|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
 			"ext":{
 				"滤词": "",
 				"直接播放": "0",
