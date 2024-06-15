@@ -10,29 +10,20 @@
       "searchable": 0
     },
     {
-      "key": "云盘登录",
-      "name": "云盘登录",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "配置中心",
-      "name": "配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
-    },
+            "key": "https://www.kukuda.com",
+            "name": "酷酷哒┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/XBPQ.jar",
+	    "ext": {
+                "搜索url": "https://www.kukuda.com/index.php/vod/search.html?keyword={wd}",
+                "分类url": "https://www.kukuda.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5#体育$20"
+            }
+        },
     {
       "key": "韩小圈",
       "name": "韩小圈",
@@ -195,6 +186,17 @@
 				}
 		},
     {
+            "key": "https://tv.012023.xyz/",
+            "name": "鲨鱼影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "ext": {            
+                "分类url": "https://tv.012023.xyz/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$5"
+            }
+        },
+    {	 
       "key": "地瓜影视",
       "name": "地瓜影视",
       "type": 3,
