@@ -141,9 +141,10 @@
     },
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "文采┃秒播",
       "type": 3,
-      "api": "csp_Jpys",
+      "jar": "./jar/fty.jar;md5;5ee96d541532306c3acc8c0fc229acbf",
+      "api": "csp_Jpys",	    
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
