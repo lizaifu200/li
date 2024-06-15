@@ -139,7 +139,52 @@
       "searchable": 1,
       "changeable": 1
     },
+       {
+      "key": "Wexhuaruitv",
+      "name": "花蕊┃影视┃App",
+      "type": 3,
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
+      "api": "csp_Wexhuaruitv",	       
+      "searchable": 1,
+      "changeable": 1
+    },
     {
+      "key": "Wexjiazitv",
+      "name": "甲子┃影视┃App",
+      "type": 3,
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
+      "api": "csp_Wexjiazitv",	    
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxiongdiys",
+      "name": "基友┃影视┃App",
+      "type": 3,
+     "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
+     "api": "csp_Wexxiongdiys",	    
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexyuyueys",
+      "name": "⛈雨落┃影视┃App",
+      "type": 3,
+     "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+     "api": "csp_Wexyuyueys",	    
+      "searchable": 1,
+      "changeable": 1
+    }, 
+       {
+      "key": "Wexwencai",
+      "name": "🎇文才┃影视┃直连",
+      "type": 3,
+     "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+     "api": "csp_Wexwencai",	       
+      "searchable": 1,
+      "changeable": 1
+    }, 
+    {	  	  
       "key": "文采",
       "name": "文采┃秒播",
       "type": 3,
