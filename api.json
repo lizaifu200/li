@@ -1540,20 +1540,10 @@
       "type": 0,
       "url": "https://www.ckplayer.vip/jiexi/?url="
     }，
-   {
-      "name": "土豆①",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
-    },
     {
       "name": "土豆②",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-    {
-      "name": "土豆③",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
     },
     {
       "name": "xmflv",
@@ -1978,3 +1968,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
+
