@@ -359,7 +359,36 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+        {
+      "key": "MTV",
+      "name": "🇹┃热门歌┃大全",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/MTV.json"
+    },
+      {
+      "key": "Biliych",
+      "name": "李在付┃热门歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/biliych.json"
+    },
+    {	  
       "key": "耐看影视",
       "name": "耐看影视",
       "type": 3,
