@@ -1539,36 +1539,6 @@
       "name": "线路10",
       "type": 0,
       "url": "https://www.ckplayer.vip/jiexi/?url="
-    }，
-{
-      "name": "土豆①",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
-    },
-    {
-      "name": "土豆②",
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
-    {
-      "name": "土豆③",
-      "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
-    },
-    {
-      "name": "xmflv",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "看看",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    }, 
-   {
-      "name": "李在付",
-      "type": 1,
-      "url":"https://leige9042.tpddns.cn:88/qxys/jiexi/qixikey?url="       
     }
   ],
   "rules": [
