@@ -168,7 +168,7 @@
     },
     {
       "key": "Wexyuyueys",
-      "name": "⛈雨落┃影视┃App",
+      "name": "雨落┃影视┃App",
       "type": 3,
      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
      "api": "csp_Wexyuyueys",	    
@@ -177,7 +177,7 @@
     }, 
        {
       "key": "Wexwencai",
-      "name": "🎇文才┃影视┃直连",
+      "name": "文才┃影视┃直连",
       "type": 3,
      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
      "api": "csp_Wexwencai",	       
@@ -1539,6 +1539,56 @@
       "name": "线路10",
       "type": 0,
       "url": "https://www.ckplayer.vip/jiexi/?url="
+    }，
+   {
+      "name": "土豆①",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+    },
+    {
+      "name": "土豆②",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "土豆③",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    }, 
+   {
+      "name": "李在付",
+      "type": 1,
+      "url":"https://leige9042.tpddns.cn:88/qxys/jiexi/qixikey?url="       
+    }, 
+    {	 
+      "name": "王",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    },
+    {
+      "name": "二",
+      "type": 1,
+      "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    },
+    {
+      "name": "小",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    },
+    {
+      "name": "帅",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
     }
   ],
   "rules": [
