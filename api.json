@@ -17,7 +17,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/XBPQ.jar",
+            "jar": "./jar/xbpq.jar",
 	    "ext": {
                 "搜索url": "https://www.kukuda.com/index.php/vod/search.html?keyword={wd}",
                 "分类url": "https://www.kukuda.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html",
