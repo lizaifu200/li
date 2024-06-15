@@ -195,24 +195,15 @@
       "searchable": 1,
       "changeable": 1
     }, 
-      {
-      "key": "Wexbaipiao",
-      "name": "星星┃影视┃直连",
+    {
+      "key": "csp_Nmys",
+      "name": "伯伯┃影视┃直连",
       "type": 3,
-      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
-      "api": "csp_Wexbaipiao",	     
+      "jar": "./jar/fty.jar;md5;5ee96d541532306c3acc8c0fc229acbf",
+      "api": "csp_WexNmys",	    
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "Subaibai",
-      "name": "拜拜┃影视┃直连",
-      "type": 3,
-      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
-      "api": "csp_Subaibai",	    
-      "searchable": 1,
-      "changeable": 1
-    }, 
     {	 	  	  
       "key": "文采",
       "name": "文采┃秒播",
@@ -319,7 +310,8 @@
       "key": "Wexduanjuquark",
       "name": "短劇┃夸克┃直连",
       "type": 3,
-      "api": "csp_Wexduanjuquark",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+      "api": "csp_Wexduanjuquark",	       
       "searchable": 1,
       "changeable": 1,
       "style": {
@@ -330,7 +322,8 @@
       "key": "Wexduanjuvop",
       "name": "短劇┃秒播┃直连",
       "type": 3,
-      "api": "csp_Wexduanjuvop",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+      "api": "csp_Wexduanjuvop",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -338,7 +331,8 @@
       "key": "Wexduanjuhema",
       "name": "短劇┃仙品┃直连",
       "type": 3,
-      "api": "csp_Wexduanjuhema",
+     "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+     "api": "csp_Wexduanjuhema",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -346,7 +340,8 @@
       "key": "Wexduanjuv1mp",
       "name": "短劇┃极品┃直连",
       "type": 3,
-      "api": "csp_Wexduanjuvmp",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+	"api": "csp_Wexduanjuvmp",    
       "searchable": 1,
       "changeable": 1
     },
@@ -354,7 +349,8 @@
       "key": "vipWexduanju",
       "name": "短劇┃精品┃直连",
       "type": 3,
-      "api": "csp_Wexvipduanju",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+      "api": "csp_Wexvipduanju",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -362,7 +358,8 @@
       "key": "Wexduanjuvip",
       "name": "短劇┃良品┃直连",
       "type": 3,
-      "api": "csp_Wexduanjuvip",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
+      "api": "csp_Wexduanjuvip",	    
       "searchable": 1,
       "changeable": 1
     }, 
