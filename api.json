@@ -388,7 +388,29 @@
       "changeable": 0,
       "ext": "./lib/biliych.json"
     },
-    {	  
+    {       
+      "key": "相声小品",
+      "name": "🇹┃58相声┃小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/哔哩相声.json"
+    },
+{
+            "key": "爱你短剧",
+            "name": "爱你短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/爱你短剧.json",
+            "jar": "./jar/xyqxbpq.jar"
+        },	  
+    {	  	  
       "key": "耐看影视",
       "name": "耐看影视",
       "type": 3,
