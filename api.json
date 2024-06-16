@@ -219,7 +219,7 @@
       "key": "毛驴",
       "name": "毛驴┃影视",
       "type": 3,
-      
+      "jar": "./jar/PandaQ240614.jar;md5;a9a06f6598ae5feb1517b7d4cfa7dfee",
       "api": "csp_MaoLv",	    
       "searchable": 1,
       "quickSearch": 1,
@@ -372,7 +372,7 @@
     },
         {
       "key": "MTV",
-      "name": "🇹┃热门歌┃大全",
+      "name": "热门歌┃大全",
       "type": 3,
       "ua": "okhttp/3.15",
       "api": "csp_Bili",
@@ -401,7 +401,7 @@
     },
     {       
       "key": "相声小品",
-      "name": "🇹┃58相声┃小品",
+      "name": "58相声┃小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
