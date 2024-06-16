@@ -79,17 +79,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_厂厂",
-      "name": "📦小盒┃在线",
-      "type": 3,
-      "jar": "./jar/xhkw0518.jar",
-      "api": "csp_XBPQ",	    
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/厂厂.json"
-    },
+{"key": "火狐","name": "火狐云","type": 1,"style": {"type": "rect","ratio": 0.8},"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
     {
       "key": "低端影视",
       "name": "低端影视",
@@ -512,16 +502,35 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "csp_厂长",
-      "name": "厂长┃专属 ",
+{
+      "key": "毒舌电影",
+      "name": "简影毒舌",
       "type": 3,
-      "jar": "./jar/xhkw0518.jar",
-      "api": "csp_XBPQ",	    
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/厂长.json"
+      "jar": "./lib/xyqxbpq.jar",
+	"ext": {
+      "主页url":"https://www.dushe1.app",
+  "数组":"class=\"module-item\">&&</div>",
+         "图片":"src=\"&&\"",
+         "标题":"title=\"&&\"",
+        "副标题": "<span>&&</span",
+        "简介": "<p>&&</p >",
+         "链接": "href=\"&&\"",
+        "线路数组": " class=\"swiper-slide source-swiper-slide*\">&&</div",
+        "线路标题": "class=\"source-item-label\">&&</span",
+        "搜索url": "https://www.dushe1.app/search?k={wd}",
+        "搜索数组":"class=\"search-result-list fs-margin-section\"&&</div",
+        "搜索图片": " src=\"&&\"",
+        "搜索标题":"class=\"title\">&&</div",
+         "搜索简介": "class=\"desc\">&&</div>",
+         "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.dushe1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6",    
+        "排序": "综合$1#最新$2#最热$3#评分$4"
+      }
     },
     {
       "key": "素白白",
@@ -881,7 +890,40 @@
         "欧美综艺"
       ]
     },
-   
+   		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
+			"ext": {
+				"站名": "黑狐影院",
+				"主页url": "http://fagmn.com",
+				"数组": "class=\"stui-vodlist__box\"&&</a",
+				"图片": "data-original=\"&&\"",
+				"标题": "title=\"&&\"",
+				"链接": "href=\"&&\"",
+				"嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+				"过滤词": "/hls/#php",
+				"副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+				"搜索模式": "1",
+				"搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+				"搜索图片": "data-original=\"&&\"",
+				"搜索标题": "title=\"&&\"",
+				"搜索链接": "href=\"&&\"",
+				"搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+				"搜索后缀": "/view/",
+				"线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+				"线路标题": ">&&<",
+				"播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+				"状态": "地区：&&</p>",
+				"导演": "导演：&&</p>",
+				"主演": "主演：&&</p>",
+				"简介": "简介：&&</div>",
+				"播放列表": "<a&&/a>",
+				"播放标题": ">&&<",
+				"播放链接": "href=\"&&\"",
+				"免嗅": "0",
+				"分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+				"分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+			}
+		},
     {
       "key": "暮暮动漫",
       "name": "暮暮动漫",
