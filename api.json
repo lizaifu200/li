@@ -246,7 +246,8 @@
     "key": "小城影视",
       "name": "流畅┃小城",
       "type": 3,
-      "api": "csp_NanGua",
+      "jar": "./jar/svip.jar",
+      "api": "csp_NanGua",	
       "searchable": 1,
       "changeable": 1
     },
