@@ -205,7 +205,30 @@
       "searchable": 1,
       "changeable": 1
     },
-    {	 	  	  
+       {
+      "key": "zxzj",
+      "name": "在线┃外剧",
+      "type": 3,
+      "jar": "./jar/fty.jar;md5;5ee96d541532306c3acc8c0fc229acbf",
+      "api": "csp_Zxzj",	       
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+       {
+      "key": "小点",
+      "name": "小点┃多线",
+      "type": 3,
+      "jar": "./jar/fty.jar;md5;5ee96d541532306c3acc8c0fc229acbf",
+      "api": "csp_Xdys",	       
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {	  	  	 	  	  
       "key": "文采",
       "name": "文采┃秒播",
       "type": 3,
