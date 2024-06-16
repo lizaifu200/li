@@ -215,7 +215,29 @@
       "quickSearch": 1,
       "changeable": 1
     },
+     {
+      "key": "哔嘀",
+      "name": "哔嘀┃影视",
+      "type": 3,
+      "jar": "./jar/PandaQ240614.jar;md5;a9a06f6598ae5feb1517b7d4cfa7dfee",
+      "api": "csp_Bdys",	     
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
+      "key": "胖虎",
+      "name": "胖虎┃影视",
+      "type": 3,
+      "jar": "./jar/PandaQ240614.jar;md5;a9a06f6598ae5feb1517b7d4cfa7dfee",
+      "api": "csp_Panghu",	    
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "https://physvod.com"
+    },   
+    {	  
       "key": "毛驴",
       "name": "毛驴┃影视",
       "type": 3,
@@ -852,7 +874,17 @@
       "api": "csp_XBPQ",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
-    {
+       {
+      "key": "csp_xifan",
+      "name": "稀饭┃动漫",
+      "type": 3,
+      "jar": "./jar/PandaQ240614.jar;md5;a9a06f6598ae5feb1517b7d4cfa7dfee",
+      "api": "csp_Xifan",	       
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {	  
       "key": "南瓜弹幕",
       "name": "弹幕｜南瓜",
       "type": 3,
