@@ -80,14 +80,15 @@
       "filterable": 1
     },
     {
-      "key": "厂长资源",
-      "name": "厂长资源",
+      "key": "csp_厂厂",
+      "name": "📦小盒┃在线",
       "type": 3,
-      "api": "csp_Czsapp",
+      "jar": "./jar/xhkw0518.jar",
+      "api": "csp_XBPQ",	    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": "./lib/厂厂.json"
     },
     {
       "key": "低端影视",
@@ -489,14 +490,15 @@
       "filterable": 0
     },
     {
-      "key": "视频库",
-      "name": "视频库",
+      "key": "csp_厂长",
+      "name": "厂长┃专属 ",
       "type": 3,
-      "api": "csp_WebVidHub",
+      "jar": "./jar/xhkw0518.jar",
+      "api": "csp_XBPQ",	    
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://vidhub1.cc"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/厂长.json"
     },
     {
       "key": "素白白",
