@@ -641,6 +641,19 @@
       "ext": "./lib/奇趣影视.json"
     },
     {
+      "key": "西夏影视",
+      "name": "西夏影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jar/c (1).txt"
+      "ext": {	    
+        "简介": "西夏为您剧情介绍: +video-info-content vod_content\">&&</div>",
+        "分类url": "http://www.namefamous.top/vshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
+    },    
+	 
+	  {
       "key": "四九资源",
       "name": "四九资源",
       "type": 1,
