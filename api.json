@@ -645,7 +645,7 @@
       "name": "李在付影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/c (1).txt"
+      "jar": "./jar/c (1).txt",
       "ext": {	    
         "简介": "李在付为您剧情介绍: +video-info-content vod_content\">&&</div>",
         "分类url": "http://www.namefamous.top/vshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -657,7 +657,7 @@
       "name": "茶杯狐",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "jar": "./jar/c (1).txt"
+      "jar": "./jar/c (1).txt",
       "searchable": 1,	    
       "quickSearch": 0,
       "filterable": 1,
