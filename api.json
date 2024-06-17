@@ -640,19 +640,7 @@
       "filterable": 1,
       "ext": "./lib/奇趣影视.json"
     },
-    {
-      "key": "李在付影视",
-      "name": "李在付影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./jar/c (1).txt",
-      "ext": {	    
-        "简介": "李在付为您剧情介绍: +video-info-content vod_content\">&&</div>",
-        "分类url": "http://www.namefamous.top/vshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
-      }
-    },    
-    {
+     {
       "key": "火狐",
       "name": "茶杯狐",
       "type": 1,
@@ -2218,6 +2206,7 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ]
-}
+} 
+
 
 
