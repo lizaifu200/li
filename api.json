@@ -229,7 +229,14 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
+    {
+      "key": "csp_SP360",
+      "name": "360┃官源",
+      "type": 3,
+      "jar": "./jar/PandaQ240614.jar;md5;a9a06f6598ae5feb1517b7d4cfa7dfee",
+      "api": "csp_SP360"	    
+    },    
+    {	 
       "key": "哔嘀",
       "name": "哔嘀┃影视",
       "type": 3,
