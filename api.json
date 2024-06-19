@@ -379,7 +379,8 @@
   "name": "免费爽短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": {
+  "jar": "./jar/xyqxbpq.jar"
+  "ext": {	
     "数组": "item\">&&</div>",
     "标题": "title=\"&&\"",
     "图片": "src=\"&&\"",
