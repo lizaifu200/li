@@ -353,22 +353,32 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-    {	  	 
-      "key": "地瓜影视",
-      "name": "地瓜影视",
-      "type": 3,
-      "api": "csp_Wexdiguatv",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "闪电影视",
-      "name": "闪电影视",
-      "type": 3,
-      "api": "csp_Wexshandian",
-      "searchable": 1,
-      "changeable": 1
-    },
+     {
+            "key": "周六影库",
+            "name": "周六┃影库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/周六影库.json",
+            "jar": "./jar/xyqxbpq.jar"
+        },
+{
+  "key": "免费爽短剧",
+  "name": "免费爽短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+    "数组": "item\">&&</div>",
+    "标题": "title=\"&&\"",
+    "图片": "src=\"&&\"",
+    "直接播放": "1",
+    "搜索url": "https://www.mianfeishuangju.com/search/{wd}/",
+    "分类url": "https://www.mianfeishuangju.com/categories/{cateId}/{catePg}/",
+    "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"
+  }
+},
 {
     "key": "小城影视",
       "name": "流畅┃小城",
