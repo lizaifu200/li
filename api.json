@@ -44,15 +44,14 @@
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
     {
-      "key": "csp_Bili短剧",
-      "name": "哔哩🅱️短剧",
+      "key": "两个BT",
+      "name": "BT2🥪秒播",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/Bili短剧.json"
-    },    
+      "api": "csp_Wexbttwo",
+      "jar": "./lib/nmys.jar",
+      "searchable": 1,
+      "changeable": 1
+    },   
     {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
@@ -374,22 +373,16 @@
             "ext": "./lib/周六影库.json",
             "jar": "./jar/xyqxbpq.jar"
         },
-{
-  "key": "免费爽短剧",
-  "name": "免费爽短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "./jar/xyqxbpq.jar"
-  "ext": {	
-    "数组": "item\">&&</div>",
-    "标题": "title=\"&&\"",
-    "图片": "src=\"&&\"",
-    "直接播放": "1",
-    "搜索url": "https://www.mianfeishuangju.com/search/{wd}/",
-    "分类url": "https://www.mianfeishuangju.com/categories/{cateId}/{catePg}/",
-    "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"
-  }
-},
+    {
+      "key": "短剧天堂",
+      "name": "短剧🥰天堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./lib/duanjutt.json"
+    },
 {
     "key": "小城影视",
       "name": "流畅┃小城",
