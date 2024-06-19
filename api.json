@@ -231,7 +231,7 @@
     },
   	{
    "key": "360",
-   "name": "🛝360┃秒播┃采集",
+   "name": "360┃秒播┃采集",
    "type": 1,
    "api": "https://360zy.com/api.php/provide/vod?",
    "searchable": 1,
@@ -547,7 +547,7 @@
     },
     {
       "key": "乐视",
-      "name": "乐视🏜蓝光",
+      "name": "乐视蓝光",
       "type": 1,
       "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
       "playUrl": "",
@@ -599,8 +599,7 @@
       "name": "茶杯狐",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "jar": "./jar/c (1).txt",
-      "searchable": 1,	    
+      "searchable": 1,        	    
       "quickSearch": 0,
       "filterable": 1,
       "categories": [
@@ -630,7 +629,8 @@
         "日本动漫",
         "欧美动漫"
       ]
-    },	   
+    },
+	   
     {	  	
       "key": "素白白",
       "name": "素白白",
