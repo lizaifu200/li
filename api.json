@@ -381,7 +381,8 @@
       "playerType": 1,
       "searchable": 1,
       "changeable": 1,
-      "ext": "./lib/duanjutt.json"
+      "jar": "./jar/dongchen.jar",
+      "ext": "./lib/duanjutt.json"	    
     },
 {
     "key": "小城影视",
