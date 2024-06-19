@@ -114,7 +114,17 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
+     {
+      "key": "剧圈影视",
+      "name": "剧圈🔥蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/jqqzx.json"
+    },  
+   {	  
       "key": "明日影视",
       "name": "明日影视",
       "type": 3,
