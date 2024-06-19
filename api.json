@@ -44,6 +44,16 @@
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
     {
+      "key": "csp_Bili短剧",
+      "name": "哔哩🅱️短剧",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/Bili短剧.json"
+    },    
+    {	  
       "key": "南瓜影视",
       "name": "南瓜影视",
       "type": 3,
