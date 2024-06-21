@@ -189,27 +189,23 @@
         "喜剧"
       ]
     },
-{
-      "key": "飞云资源",
-      "name": "自营蓝光",
-      "playerType": 2,
+    {
+      "key": "賤賤",
+      "name": "📓賤片┃盒子┃P2P",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",       
+      "api": "csp_WexJianpian",	    
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.84.103:6117/api.php/app/"
+      "changeable": 1
     },
     {
-      "key": "蚂蚁资源",
-      "name": "自营高清",
-      "playerType": 2,
+      "key": "Subaibai",
+      "name": "🐇拜拜┃影视┃直连",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",    
+      "api": "csp_Subaibai",	    
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.84.103:5822/api.php/app/"
+      "changeable": 1
     },
     {
       "key": "Wexxiongdiys",
