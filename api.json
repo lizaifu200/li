@@ -1,7 +1,8 @@
 {
   "spider": "./spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
   "wallpaper": "https://api.likepoems.com/img/bing",
-  "sites": [
+  "logo": "https://leige9042.tpddns.cn:88/logo/YS",      
+  "sites": [   	
     {
       "key": "豆瓣",
       "name": "李在付提醒您，此软件只是学习与娱乐之用",
