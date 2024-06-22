@@ -36,6 +36,24 @@
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
     {
+      "key": "csp_蚂蚁",
+      "name": "🐜蚂蚁┃无广",
+      "type": 1,
+      "jar": "./jar/0818.jar"
+      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",	    
+      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
+      "filterable": 1
+    },    
+    {
+      "key": "csp_官采",
+      "name": "🍑官采┃采集",
+      "type": 1,
+      "jar": "./jar/0818.jar"
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",	    
+      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",
+      "filterable": 1
+    },	  
+    {	  
       "key": "无忧短剧",
       "name": "无忧短剧",
       "type": 3,
