@@ -1,6 +1,13 @@
 {
   "urls": [
-  
+    {
+      "name": "李明丨PizazzGY线路",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+    },   
+    {
+      "name": "李明丨饭太硬线路",
+      "url": "http://www.饭太硬.com/tv/"
+    },   
     {
       "name": "李明丨饭太硬线路",
       "url": "http://www.饭太硬.com/tv/"
@@ -40,7 +47,7 @@
      {
       "name": "李明丨肥猫线路",
       "url": "http://肥猫.com"
-    },  
+     },  
       {
       "name": "李明丨欧歌线路",
       "url": "http://xn--176-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌176"
@@ -53,11 +60,15 @@
       "name": "李明丨摸鱼线路",
       "url": "http://我不是.摸鱼儿.top"
       },
-       {       
+     {            
       "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",      
       "name": "李明┃东辰线路"      
+     } ,
+     {       
+      "name": "李明丨三林线路",
+      "url": "https://4026.kstore.space/file.json"
      } 
-    ] 
+   ] 
   } 
    
 
