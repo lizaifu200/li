@@ -1208,10 +1208,13 @@
       "name": "🍑官采┃采集",
       "type": 1,
       "api": "https://vipcj.timizy.top/api.php/provide/vod/",
-      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",
+      "jar": "./jar/0818.jar",      
+      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",	    
       "filterable": 1
     },    
-    {	  	 	 
+      
+       
+    {	  	  	 	 
       "key": "酷看弹幕",
       "name": "弹幕｜酷看",
       "type": 3,
