@@ -1212,8 +1212,6 @@
       "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",	    
       "filterable": 1
     },    
-      
-       
     {	  	  	 	 
       "key": "酷看弹幕",
       "name": "弹幕｜酷看",
@@ -3441,7 +3439,9 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ]
-} 	  
+} 	      
+       
+  
 
    
 
