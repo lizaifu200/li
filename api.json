@@ -1148,24 +1148,62 @@
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
     {
-      "key": "csp_蚂蚁",
-      "name": "🐜蚂蚁┃无广",
+      "key": "mayi",
+      "name": "蚂蚁┃资源",
       "type": 1,
-      "jar": "./jar/0818.jar",
-      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",	    
-      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=",
-      "filterable": 1
-    },    
+      "searchable": 1,
+      "changeable": 1,
+      "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+      "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+    },   
     {
-      "key": "csp_官采",
-      "name": "🍑官采┃采集",
-      "type": 1,
-      "jar": "./jar/0818.jar",
-      "api": "https://vipcj.timizy.top/api.php/provide/vod/",	    
-      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",
-      "filterable": 1
-    },    
-    {	 
+      "key": "4kvm",
+      "name": "四千┃影视",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.gitcode.com/xiaohubig/xiaohu/blobs/b42ab8c077179ea49504a2cfc3c877137047b8ee/xb.txt",
+      "api": "csp_XBPQ",
+      "ext": "https://4180.kstore.space/4k.json"
+    },  
+    {
+      "key": "saohuo",
+      "name": "骚火┃电影",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.gitcode.com/xiaohubig/xiaohu/blobs/b42ab8c077179ea49504a2cfc3c877137047b8ee/xb.txt",
+      "api": "csp_XBPQ",
+      "ext": "https://4180.kstore.space/骚火.json"
+    },   
+    {
+      "key": "paopao",
+      "name": "泡泡┃切片",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.gitcode.com/xiaohubig/xiaohu/blobs/b42ab8c077179ea49504a2cfc3c877137047b8ee/xb.txt",
+      "api": "csp_XBPQ",
+      "ext": "https://4180.kstore.space/泡泡.json"
+    },	 
+    {
+      "key": "dmbs",
+      "name": "动漫┃巴士",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://raw.gitcode.com/xiaohubig/xiaohu/blobs/b42ab8c077179ea49504a2cfc3c877137047b8ee/xb.txt",
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "<div class=\"item\">&&</div>",
+        "图片": "data-bg=\"&&\"",
+        "标题": "\"title\"*>&&</a>",
+        "副标题": "<span class=\"desc\">&&</span>",
+        "分类url": "https://dm84.tv/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
+        "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#电影$4"
+      }
+    },	 
+     {	 	 
       "key": "酷看弹幕",
       "name": "弹幕｜酷看",
       "type": 3,
