@@ -1203,7 +1203,15 @@
         "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#电影$4"
       }
     },	 
-     {	 	 
+    {
+      "key": "csp_官采",
+      "name": "🍑官采┃采集",
+      "type": 1,
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",
+      "filterable": 1
+    },    
+    {	  	 	 
       "key": "酷看弹幕",
       "name": "弹幕｜酷看",
       "type": 3,
