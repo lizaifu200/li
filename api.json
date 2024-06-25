@@ -1204,15 +1204,24 @@
       }
     },	 
     {
-      "key": "csp_官采",
-      "name": "🍑官采┃采集",
-      "type": 1,
-      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
-      "jar": "./jar/0818.jar",      
-      "playUrl": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",	    
-      "filterable": 1
-    },    
-    {	  	  	 	 
+      "key": "Diduanys",
+      "name": "🙈深渊┃影视┃直连",
+      "type": 3,
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
+      "api": "csp_WexDiduanys",      	    
+      "searchable": 1,
+      "changeable": 1
+    },   
+     {
+      "key": "Wexbttwo",
+      "name": "🐸大鼻涕┃影视┃直连",
+      "type": 3,
+      "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49",
+      "api": "csp_Wexbttwo",	     
+      "searchable": 1,
+      "changeable": 1
+    },   
+    {	  	  	  	 	 
       "key": "酷看弹幕",
       "name": "弹幕｜酷看",
       "type": 3,
