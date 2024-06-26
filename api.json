@@ -243,16 +243,32 @@
       "searchable": 1,
       "changeable": 1
     }, 
-       {
-      "key": "Wexwencai",
-      "name": "文才┃影视┃直连",
+    {
+      "key": "文才影视",
+      "name": "文才影视",
       "type": 3,
-     "jar": "./jar/wex.txt;md5;6622c38b0681db3f6636ed592fbe9b49", 
-     "api": "csp_Wexwencai",	       
+      "api": "csp_Wexwencai",
       "searchable": 1,
       "changeable": 1
-    }, 
+    },
     {
+      "key": "星辰影视",
+      "name": "星辰影视",
+      "type": 3,
+      "api": "csp_WexXingchen",
+      "searchable": 1,
+      "changeable": 1
+    },   
+    {
+      "key": "FreeOK",
+      "name": "FreeOK",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	 
+	  {
       "key": "csp_Nmys",
       "name": "伯伯┃影视┃直连",
       "type": 3,
@@ -273,7 +289,7 @@
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
     },
-       {
+    {       
       "key": "小点",
       "name": "小点┃多线",
       "type": 3,
