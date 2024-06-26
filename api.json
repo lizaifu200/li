@@ -11,6 +11,19 @@
       "searchable": 0
     },
     {
+      "key": "配置中心",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "./lib/danmu.jar;md5;7e44f7c132a6130974ddb22d5fffc742"
+    },   
+       { 	  
             "key": "https://www.kukuda.com",
             "name": "酷酷哒┃影视",
             "type": 3,
