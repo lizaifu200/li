@@ -60,10 +60,14 @@
       "name": "李明丨摸鱼线路",
       "url": "http://我不是.摸鱼儿.top"
       },
-     {            
+     {                  
+      "url": "https://ghproxy.net/raw.githubusercontent.com/kunkka1986/my.img/main/frjbox.json",      
+      "name": "李明┃缝纫机线路"      
+     },    
+    {            
       "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",      
       "name": "李明┃东辰线路"      
-     } ,
+     }, 
      {       
       "name": "李明丨三林线路",
       "url": "https://4026.kstore.space/file.json"
