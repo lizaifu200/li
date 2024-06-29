@@ -57,7 +57,8 @@
       "changeable": 0,
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
-    {
+      { "key": "耐看观影",  "name": "耐看观影", "type": 3,"api": "csp_XBPQ", "ext": {"分类url":"https://www.nkvod.com/type/{cateId}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},                                        
+	  {
       "key": "两个BT",
       "name": "BT2🥪秒播",
       "type": 3,
