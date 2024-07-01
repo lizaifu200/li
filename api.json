@@ -1220,7 +1220,8 @@
       "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
       "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
     },   
-    {
+{"key": "UM电影","name": "🧲┃um影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.umvod.cc/mogai_api.php/v1.vod"},    
+   {	  
       "key": "4kvm",
       "name": "四千┃影视",
       "type": 3,
