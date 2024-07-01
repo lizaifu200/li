@@ -69,7 +69,14 @@
             "ext": {
                 "分类url":"https://nkvod.me/show/{cateId}--------{catePg}---{year}.html",
                 "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-                                       
+     {
+      "key": "啾啾影视",
+      "name": "啾啾影视",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1
+    },                                      
 	  {
       "key": "两个BT",
       "name": "BT2🥪秒播",
@@ -642,14 +649,29 @@
             "ext": "./lib/爱你短剧.json",
             "jar": "./jar/xyqxbpq.jar"
         },	  
-    {	  	  
-      "key": "耐看影视",
-      "name": "耐看影视",
+    {
+      "key": "愉悦影视",
+      "name": "愉悦影视",
       "type": 3,
-      "api": "csp_AppNK",
+      "api": "csp_Wexyuyueys",
       "searchable": 1,
-      "changeable": 1,
-      "ext": "wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
+      "changeable": 1
+    },
+    {
+      "key": "花蕊影视",
+      "name": "花蕊影视",
+      "type": 3,
+      "api": "csp_Wexhuaruitv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "甲子影视",
+      "name": "甲子影视",
+      "type": 3,
+      "api": "csp_Wexjiazitv",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "圣城影视",
