@@ -66,10 +66,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "./jar/xbpq.jar",
             "ext": {
                 "分类url":"https://nkvod.me/show/{cateId}--------{catePg}---{year}.html",
-                "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},                                       
+                "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
+                                       
 	  {
       "key": "两个BT",
       "name": "BT2🥪秒播",
