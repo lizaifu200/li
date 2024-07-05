@@ -802,7 +802,21 @@
         "欧美综艺"
       ]
     },
-    {
+  {
+            "key": "雨林",
+            "name": "雨林影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://www.ylsp11.com/index.php/vod/show/by/hits/id/{cateId}/page/{catePg}.html;;ar1",
+ "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5",
+                "公众号卫华正能量大爱学堂出品": ""
+            }
+        },    
+    {	 
       "key": "茶狐影视",
       "name": "茶狐🍹影视",
       "type": 3,
