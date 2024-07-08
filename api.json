@@ -645,7 +645,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
+            "jar": "./jar/",           
+	   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "主页url": "https://www.ainidj.com",
                 "数组": "<div class=\"module-item-pic&&</div>[替换:amp;>>]",
