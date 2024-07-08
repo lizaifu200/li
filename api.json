@@ -637,19 +637,37 @@
       "filterable": 1,
       "ext": "./lib/哔哩相声.json"
     },
-{
-            "key": "爱你短剧",
+   {
+            "key": "爱你",
             "name": "爱你短剧",
             "type": 3,
             "api": "csp_XBPQ",
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./lib/爱你短剧.json",
-            "jar": "./jar/xyqxbpq.jar"
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "主页url": "https://www.ainidj.com",
+                "数组": "<div class=\"module-item-pic&&</div>[替换:amp;>>]",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "副标题": "module-item-text\">&&</div",
+                "线路数组": "<div class=\"module-tab-item tab-item&&</div",
+                "线路标题": ">&&</span",
+                "播放数组": "module-blocklist scroll-box scroll-box-y&&</div>",
+                "播放列表": "<a&&</a >",
+                "播放标题": ">&&</span>",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "<script type=\"text/javascript*url\":\"&&\"",
+                "分类url": "https://www.ainidj.com/vodshwo/{cateId}--{by}-{class}-----{catePg}---{year}.html;;rc",
+                "分类": "穿越&战神&重生&爱情&萌娃&神医&古代&玄幻&横屏短剧",
+
+"分类值": "fenle&fenlei2&fenlei3&fenlei4&gudai&shenyi&gudai&xuanhuan&hengpingduanju"
+            }
         },	  
-    {
+{"key":"网","name":"┃影视猫","type":1,"api":"http://ysm.tkbot.fun/api.php/provide/vod/"},   
+    {	  
       "key": "愉悦影视",
       "name": "愉悦影视",
       "type": 3,
