@@ -176,33 +176,16 @@
       "filterable": 1,
       "ext": "./lib/jqqzx.json"
     },  
-{
-            "key": "Buleitv",
-            "name": "布蕾┃TV┃App",
-            "type": 3,
-            "api": "csp_Buleitv",
-            "jar": "./jar/追忆影探布蕾带自动追踪.jar",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Yingtantv",
-            "name": "影探┃TV┃App",
-            "type": 3,
-            "api": "csp_Yingtantv2",
-            "jar": "./jar/追忆影探布蕾带自动追踪.jar",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Zhuiyitv",
-            "name": "追忆┃TV┃App",
-            "type": 3,
-            "api": "csp_Zhuiyitv",
-            "jar": "./jar/追忆影探布蕾带自动追踪.jar",
-            "searchable": 1,
-            "changeable": 0
-        },   
+    {
+      "key": "追忆影视",
+      "name": "追忆影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://110.42.7.101:1122/api.php/app/"
+    },  
     {	 	  
       "key": "明日影视",
       "name": "明日影视",
