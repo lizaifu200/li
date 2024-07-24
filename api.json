@@ -57,7 +57,7 @@
       "changeable": 0,
       "jar": "./lib/danmu.jar;md5;7c068ecb361701115b06427aead99448"
     },
-{"key":"番茄短剧","name":"番茄短剧꧁一起看꧂","type":3,"api":"csp_XBPQ","jar": "./jar/XBPQ.jar","ext":{"分类url":"https://www.fanghuashijia.com/fqsw/5---{cateId}-----{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类": "女频恋爱$女频恋爱#反转爽$反转爽#脑洞悬疑$脑洞悬疑#年代穿越$年代穿越#古装仙侠$古装仙侠#现代都市$现代都市"}},
+{"key":"番茄短剧","name":"番茄短剧꧁一起看꧂","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.fanghuashijia.com/fqsw/5---{cateId}-----{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类": "女频恋爱$女频恋爱#反转爽$反转爽#脑洞悬疑$脑洞悬疑#年代穿越$年代穿越#古装仙侠$古装仙侠#现代都市$现代都市"}},
 	  {
             "key": "耐看点播",
             "name": "耐看✪点播",
