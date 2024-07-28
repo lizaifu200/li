@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "name": "李明丨PizazzGY线路",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
-    },   
-    {
       "name": "李明丨饭太硬线路",
       "url": "http://www.饭太硬.com/tv/"
     },   
@@ -86,6 +82,7 @@
      } 
    ] 
   }    
+
 
 
  
