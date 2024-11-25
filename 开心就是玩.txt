@@ -262,8 +262,8 @@ NEWTV超级综艺,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLT
 NEWTV金牌综艺,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 
 
-5680[1920x1080],http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-6437[1920x1080],http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+体育,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+齐齐哈尔新闻综合,http://[2409:8087:1a0a:df::4016]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 
 少儿,#genre#
 少儿动画001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3823b0a397454309b1b9c6118a335f08/1200.m3u8
