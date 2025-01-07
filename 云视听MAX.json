@@ -24,7 +24,7 @@
     },
     {
       "key": "浪酷弹幕",
-      "name": "浪酷｜弹幕",
+      "name": "浪酷影视",
       "type": 3,
       "api": "csp_TianTian",
       "searchable": 1,
@@ -37,7 +37,7 @@
     },
     {
       "key": "云视听",
-      "name": "APP•视听",
+      "name": "云视听影视",
       "type": 3,
       "api": "./lib/AppYsV2.js",
       "ext": {
@@ -100,7 +100,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "骚火｜影视",
+      "name": "骚火影视",
       "type": 3,
       "api": "csp_SaoHuo",
       "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "韩小圈",
-      "name": "韩小圈｜APP",
+      "name": "韩小圈APP",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "searchable": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "新感觉",
-      "name": "APP•新感觉",
+      "name": "新感觉影视",
       "type": 3,
       "api": "./lib/AppYsV2.js",
       "ext": {
@@ -268,7 +268,7 @@
     },
     {
       "key": "HG影视",
-      "name": "HG影视｜APP",
+      "name": "HG影视APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -278,7 +278,7 @@
     },
     {
       "key": "优质",
-      "name": "优质｜App",
+      "name": "优质App",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -461,7 +461,7 @@
     },
     {
       "key": "卧龙",
-      "name": "影院┃WL",
+      "name": "卧龙影院",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "jar": "./fan.txt;md5;e5331c586bf5835734be13338cecf00d",
@@ -621,7 +621,7 @@
     },
     {
       "key": "酷奇",
-      "name": "拾光☪酷奇MV",
+      "name": "酷奇MV",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
