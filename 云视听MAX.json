@@ -174,8 +174,8 @@
       "filterable": 0
     },    
     {
-      "key": "新视觉PY",
-      "name": "新视觉",
+      "key": "新视觉",
+      "name": "新视觉py",
       "type": 3,
       "api": "./lib/新视觉.py",
       "searchable": 1,
@@ -193,6 +193,42 @@
       "quickSearch": 1,
       "filterable": 0
     },   
+    {
+      "key": "py_hitv",
+      "name": "HitvPY",
+      "type": 3,
+      "api": "./lib/py_hitv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
+      "key": "首映网",
+      "name": "首映网py",
+      "type": 3,
+      "api": "./lib/首映网.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
+      "key": "映播.py",
+      "name": "映播PY",
+      "type": 3,
+      "api": "./lib/映播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },   
+    {
+      "key": "py_荐片py",
+      "name": "荐片PY",
+      "type": 3,
+      "api": "./lib/荐片.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
     {
       "key": "文才弹幕",
       "name": "文才",
