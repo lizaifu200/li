@@ -165,6 +165,35 @@
       }
     },
     {
+      "key": "py_素白白",
+      "name": "素白白PY",
+      "type": 3,
+      "api": "./lib/素白白.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
+      "key": "新视觉PY",
+      "name": "新视觉",
+      "type": 3,
+      "api": "./lib/新视觉.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },   
+    {
+      "key": "py猎手",
+      "name": "猎手PY",
+      "type": 3,
+      "api": "./lib/py_电影猎手.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },   
+    {
       "key": "文才弹幕",
       "name": "文才",
       "type": 3,
