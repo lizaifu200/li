@@ -620,6 +620,20 @@
       "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/演唱会.json"
     },
     {
+      "key": "酷奇",
+      "name": "拾光☪酷奇MV",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },    
+    {
       "key": "IKTV",
       "name": "KTV音乐",
       "type": 3,
