@@ -238,8 +238,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        
-        {
+          {
             "key": "光速py",
             "name": "光速PY",
             "type": 3,
@@ -247,27 +246,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        
-        {
-            "key": "py_黑料py",
-            "name": "黑暗PY",
-            "type": 3,
-            "api": "./lib/黑料.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        
-        {
-            "key": "py_黑料",
-            "name": "黑料PY",
-            "type": 3,
-            "api": "./lib/py_黑料.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },   
+        },      
     {
       "key": "文才弹幕",
       "name": "文才",
@@ -1278,3 +1257,6 @@
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
 }
+        
+ 
+
