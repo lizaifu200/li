@@ -229,6 +229,45 @@
       "quickSearch": 1,
       "filterable": 0
     },    
+         {
+            "key": "酷云py",
+            "name": "酷云PY",
+            "type": 3,
+            "api": "./lib/酷云.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        
+        {
+            "key": "光速py",
+            "name": "光速PY",
+            "type": 3,
+            "api": "./lib/光速.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        
+        {
+            "key": "py_黑料py",
+            "name": "黑暗PY",
+            "type": 3,
+            "api": "./lib/黑料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        
+        {
+            "key": "py_黑料",
+            "name": "黑料PY",
+            "type": 3,
+            "api": "./lib/py_黑料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },   
     {
       "key": "文才弹幕",
       "name": "文才",
