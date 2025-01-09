@@ -65,13 +65,24 @@
       "key": "白嫖者",
       "name": "白嫖者",
       "type": 3,
-      "jar": "./xmbjm.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
         "副标题": "class=\"pic-text text-right\"&&</span>",
         "简介": "请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+      }
+    },
+    {
+      "key": "厂长弹幕",
+      "name": "厂长｜弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
       }
     },
     {
