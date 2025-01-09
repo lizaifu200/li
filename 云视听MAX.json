@@ -285,6 +285,17 @@
       "api": "./js/drpy2.min.js",
       "ext": "./lib/皮皮虾.js"
     },
+ {
+            "key": "皮皮虾",
+            "name": "皮皮虾",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "线路标题": "module-tab-value\">&&</span>",
+                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$1#电影$2#动漫番剧$3"
+            }
+        },   
     {
       "key": "HG影视",
       "name": "HG影视APP",
