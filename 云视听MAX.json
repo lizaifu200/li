@@ -59,18 +59,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "南瓜",
-      "name": "南瓜影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext": "",
-      "jar": "./lib/dd.jar"
-    },
+ {"key":"南瓜","name":"南瓜影视","type":3, "jar":"http://cdn.qiaoji8.com/fix250009.jar","api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+ {"key":"nmtv","name":"nmtv","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://nm.xxxc137.top/api.php/app/"},   
+ {"key":"橙子","name":"橙子影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://193.134.208.21:18/api.php/app/"},  
     {
       "key": "cspMiTuApp",
       "name": "米兔影视",
