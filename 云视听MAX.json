@@ -278,20 +278,12 @@
       "filterable": 1
     },
     {
-      "key": "皮皮虾4k",
+      "key": "ppx4k",
       "name": "皮皮虾4K",
       "type": 3,
       "playerType": 2,
-      "api": "./lib/AppYsV2.js",
-      "ext": {
-        "host": "http://38.55.250.149:1314/api.php/app/",
-        "*": [
-          "http://45.207.215.101:5423/index.php?url="
-        ],
-        "header": {
-          "User-Agent": "okhttp/3.12.11"
-        }
-      }
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/皮皮虾.js"
     },
     {
       "key": "HG影视",
