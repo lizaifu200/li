@@ -107,7 +107,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+   {
+      "key": "雷电",
+      "name": "雷电蓝光秒播",
+      "type": 3,
+      "api": "csp_Slys",
+      "playerType": 1,
+      "jar": "./lib/laohu1030.jar",
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    }, 
+    {
       "key": "忍者影视",
       "name": "忍者APP",
       "type": 3,
