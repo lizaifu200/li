@@ -61,7 +61,19 @@
     },
  {"key":"南瓜","name":"南瓜影视","type":3, "jar":"http://cdn.qiaoji8.com/fix250009.jar","api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
  {"key":"nmtv","name":"nmtv","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"https://nm.xxxc137.top/api.php/app/"},   
- {"key":"橙子","name":"橙子影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_AppYsV2","ext":"http://193.134.208.21:18/api.php/app/"},  
+{
+      "key": "白嫖者",
+      "name": "拾光☪白嫖者",
+      "type": 3,
+      "jar": "./xmbjm.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+        "简介": "请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+      }
+    },
     {
       "key": "cspMiTuApp",
       "name": "米兔影视",
