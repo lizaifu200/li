@@ -554,9 +554,10 @@
     },
 {
       "key": "YY影视",
-      "name": "关注 拾光趣乐屋",
+      "name": "YY影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./xmbjm.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
