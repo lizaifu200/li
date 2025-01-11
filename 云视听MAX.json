@@ -226,6 +226,17 @@
       "filterable": 0
     },   
     {
+      "key": "csp_九龙趣看",
+      "name": "九龙趣看py",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "./lib/jlqk.py",
+      "playerType": 2,
+      "filterable": 1
+    },   
+    {
       "key": "py_hitv",
       "name": "HitvPY",
       "type": 3,
