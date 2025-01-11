@@ -74,18 +74,13 @@
         "简介": "请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
-    {
-      "key": "厂长弹幕",
-      "name": "厂长｜弹幕",
-      "type": 3,
-      "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+   {"key": "人人",
+           "name": "人人影视",
+           "type": 3,
+           "api": "csp_Xdai",
+           "playerType": 1,
+           "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+       },
     {
       "key": "cspMiTuApp",
       "name": "米兔影视",
