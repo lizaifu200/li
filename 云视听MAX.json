@@ -60,7 +60,7 @@
     },
         {
             "key": "小熊弹幕",
-            "name": "小熊｜弹幕",
+            "name": "小熊线路",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./lib/小熊弹幕.js"
