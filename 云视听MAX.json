@@ -65,7 +65,7 @@
             "api": "./js/drpy2.min.js",
             "ext": "./lib/小熊弹幕.js"
         },
-    {"key":"南瓜","name":"南瓜影视","type":3, "api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+  {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
     {"key":"世纪","name":"世纪App","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
       {"key":"星河","name":"星河App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="},   
     {
