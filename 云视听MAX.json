@@ -69,7 +69,17 @@
   {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","jar": "./fix250111.jar","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
     {"key":"世纪","name":"世纪App","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
- {"key": "河狸","name": "河狸影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},  
+    	{
+			"key": "青龙影视",
+			"name": "龙影app",
+			"type": 3,
+			"api": "./js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./lib/天龙影院.js"
+		},
     {
       "key": "白嫖者",
       "name": "白嫖者",
