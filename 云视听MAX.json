@@ -466,7 +466,7 @@
     },
     {
       "key": "客星",
-      "name": "客星┃App",
+      "name": "客星App",
       "type": 3,
       "api": "csp_Xdai",
       "jar": "./fix250111.jar",
