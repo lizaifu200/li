@@ -68,14 +68,8 @@
   {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
   {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","jar": "./fix250111.jar","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
     {"key":"世纪","name":"世纪App","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
-   {
-      "key": "csp_DUODUO",
-      "name": "多多app",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MITU2",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
-    },   
+{"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
+ {"key": "河狸","name": "河狸影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},  
     {
       "key": "白嫖者",
       "name": "白嫖者",
