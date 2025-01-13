@@ -466,11 +466,12 @@
     },
     {
       "key": "客星",
-      "name": "客星｜App",
+      "name": "客星┃App",
       "type": 3,
       "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+      "jar": "./fix250111.jar",
+      "playerType": 1, 	   
+      "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
     },
     {
       "key": "顾我",
