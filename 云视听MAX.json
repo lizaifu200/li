@@ -220,7 +220,18 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },
-    {
+            {
+            "key": "多多视频",
+            "name": "多多视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./xmbjm.jar",
+	    "ext": {	    
+                "分类url": "http://www.duoduotv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "Netflix$20#电影$1#追剧$2#综艺$4#动漫$3"
+            }
+        },    
+    {	  
       "key": "py_素白白",
       "name": "素白白PY",
       "type": 3,
