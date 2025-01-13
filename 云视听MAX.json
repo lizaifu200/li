@@ -76,7 +76,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_MiTuApp",
-            "spider": "./ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51",
+            "jar": "./ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51",
 	    "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I=" 	
         },   	
 	  {
