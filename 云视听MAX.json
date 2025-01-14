@@ -1148,17 +1148,17 @@
         }
       }
     },
-    {
-      "name": "皮皮虾",
-      "type": "1",
-      "url": "http://45.207.215.101:5423/index.php?url=",
-      "ext": {
-        "flag": [
-          "PPXLG",
-          "皮皮虾4K"
-        ]
-      }
-    },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://jiexi.52ppx.top/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
+            }
+        },
     {
       "name": "新感觉",
       "type": 1,
