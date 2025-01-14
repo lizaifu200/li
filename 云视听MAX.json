@@ -355,8 +355,8 @@
       "ext": "./lib/皮皮虾.js"
     },
  {
-            "key": "皮皮虾",
-            "name": "皮皮虾",
+            "key": "虾爬子",
+            "name": "虾爬子app",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -512,17 +512,10 @@
       "playerType": 1, 	   
       "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
     },
-    {
-      "key": "剧评",
-      "name": "剧评App",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
-    },   
+ 
     {
       "key": "木叶",
-      "name": "木叶┃App",
+      "name": "木叶App",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
