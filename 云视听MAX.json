@@ -365,7 +365,35 @@
                 "分类": "剧集$1#电影$2#动漫番剧$3"
             }
         },   
-    {
+        {
+            "key": "酷影视",
+            "name": "酷影视APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
+            "key": "皮皮虾",
+            "name": "皮皮虾APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.ppxys.vip/api.php/app/"
+        },    
+        {
+            "key": "永夜",
+            "name": "永夜App",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+        },
+{	  	  
       "key": "HG影视",
       "name": "HG影视APP",
       "type": 3,
