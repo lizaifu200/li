@@ -512,7 +512,7 @@
       "playerType": 1, 	   
       "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
     },
- {"key":"悠悠","name":"悠悠App","type":3,"api":"csp_Xdai","jar": "./fix250111.jar","playerType":2,"ext":"saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="},
+ {"key":"悠悠","name":"悠悠App","type":3,"api":"csp_Xdai","jar": "./jar/spider.jar","playerType":2,"ext":"saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="},
     {
       "key": "木叶",
       "name": "木叶App",
