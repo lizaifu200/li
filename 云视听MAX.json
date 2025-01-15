@@ -69,7 +69,62 @@
   {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","jar": "./fix250111.jar","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
     {"key":"世纪","name":"世纪App","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
+            {
+            "key": "hipy_js_如意影视",
+            "name": "如意影视",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/如意影视.js"
+        },    
         {
+            "key": "hipy_js_热片网",
+            "name": "热片网",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/热片网.js"
+        },	 
+        {
+            "key": "hipy_js_河狸影视[V2]",
+            "name": "河狸影视",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/河狸影视[V2].js"
+        },	 
+        {
+            "key": "hipy_js_冠建影视",
+            "name": "冠建影视",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/冠建影视.js"
+        },	 
+        {
+            "key": "hipy_js_臭蛋蛋",
+            "name": "臭蛋蛋",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/臭蛋蛋.js"
+        },	 
+	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
             "type": 3,
@@ -512,7 +567,17 @@
       "playerType": 1, 	   
       "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
     },
- 
+        {
+            "key": "hipy_js_小白菜电影",
+            "name": "小白菜电影",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./lib/小白菜电影.js"
+        }, 
     {
       "key": "木叶",
       "name": "木叶App",
