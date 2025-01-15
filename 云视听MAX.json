@@ -71,7 +71,7 @@
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
         {
             "key": "奇趣影视",
-            "name": "奇趣｜影视",
+            "name": "奇趣影视app",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
