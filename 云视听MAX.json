@@ -80,17 +80,7 @@
             "order_num": 0,
             "ext": "./lib/如意影视.js"
         },    
-        {
-            "key": "hipy_js_热片网",
-            "name": "热片网",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./lib/热片网.js"
-        },	 
+	 
         {
             "key": "hipy_js_河狸影视[V2]",
             "name": "河狸影视",
@@ -102,17 +92,7 @@
             "order_num": 0,
             "ext": "./lib/河狸影视[V2].js"
         },	 
-        {
-            "key": "hipy_js_冠建影视",
-            "name": "冠建影视",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./lib/冠建影视.js"
-        },	 
+	 
         {
             "key": "猫猫影视",
             "name": "猫猫APP",
@@ -591,15 +571,7 @@
       "playerType": 2,
       "jar": "./11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
     },
-    {
-      "key": "客星",
-      "name": "客星App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./fix250111.jar",
-      "playerType": 1, 	   
-      "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
-    },
+
         {
             "key": "hipy_js_小白菜电影",
             "name": "小白菜电影",
