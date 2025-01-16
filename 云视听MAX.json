@@ -115,7 +115,7 @@
         },	 
         {
             "key": "猫猫影视",
-            "name": "猫猫｜APP",
+            "name": "猫猫APP",
             "type": 3,
             "api": "csp_AppGetApp",
             "jar": "./jar/spider.jar",
