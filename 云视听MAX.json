@@ -114,16 +114,15 @@
             "ext": "./lib/冠建影视.js"
         },	 
         {
-            "key": "hipy_js_臭蛋蛋",
-            "name": "臭蛋蛋",
+            "key": "猫猫影视",
+            "name": "猫猫｜APP",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "csp_AppGetApp",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./lib/臭蛋蛋.js"
-        },	 
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoGrCqMKiwqzCqsKrYWFgYcKnwqXCrcKwwqhlYmBqwrDCqsKywrHCqcKswp3CqcKjwqfDp8Oyw63CnF9SecKew6LDp8ORw6jDrMKXUmpSwpvCn8Kcw63Do8KjUmpSw5Tlh7jphaLmkJ7lkZ1f5Yac5L2H5ZCnwrPlv6ToqYDotr3mvIrnrIzCjVJcwpvCtMOfw6zDhcKYwqlSasKbwqTDsMOfw6DCpsKUwpHCo8Odw5TDrcOdw5vCpsKUYlLCpcKVwrvDnsOtfMKmUmrCm8Kkw7DDn8OgwqbClMKRwqPDncOUw63DncObwqbClGJSwqXClcONw6LDrsKYwoXCosKcwpvCrcKcwpvDtw=="
+        }, 
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
