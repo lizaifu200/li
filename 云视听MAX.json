@@ -92,15 +92,16 @@
             "order_num": 0,
             "ext": "./lib/河狸影视[V2].js"
         },	 
-	{                
-            "key": "py_幕启py",
-            "name": "幕启PY",
+        {
+            "key": "奇优影视",
+            "name": "奇优影视APP",
             "type": 3,
-            "api": "./lib/py_幕启.py",
+            "api": "csp_Qiyou",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
-        }, 
+            "filterable": 1,
+            "ext": "http://www.dyxz2.com/"
+        },
         {
             "key": "猫猫影视",
             "name": "猫猫APP",
