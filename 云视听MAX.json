@@ -92,7 +92,15 @@
             "order_num": 0,
             "ext": "./lib/河狸影视[V2].js"
         },	 
-	 
+	{                
+            "key": "py_幕启py",
+            "name": "幕启PY",
+            "type": 3,
+            "api": "./lib/py_幕启.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }, 
         {
             "key": "猫猫影视",
             "name": "猫猫APP",
