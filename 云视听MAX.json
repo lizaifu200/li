@@ -509,7 +509,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
+       {
+      "key": "csp_Nmys",
+      "name": "伯伯秒播",
+      "type": 3,
+      "api": "csp_WexNmysGuard",
+      "jar": "./jar/a.jar", 
+      "searchable": 1,	       
+      "changeable": 1
+    },    
+	  {
             "key": "DFun动漫",
             "name": "DFun动漫",
             "type": 3,
