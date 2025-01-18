@@ -184,13 +184,15 @@
         "简介": "请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
     },
-   {"key": "人人",
-           "name": "人人影视",
-           "type": 3,
-           "api": "csp_Xdai",
-           "playerType": 1,
-           "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
-       },
+    {
+      "key": "荣荣",
+      "name": "荣荣App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix250118.jar",
+      "playerType": 1,	    
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+    },
    {"key":"图图","name":"图图App","type":3,"api":"csp_APPTT","jar": "./jar/fix250118.jar","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},    
     {	 
       "key": "cspMiTuApp",
