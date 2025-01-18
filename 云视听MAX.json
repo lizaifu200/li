@@ -644,13 +644,14 @@
             "ext": "./lib/小白菜电影.js"
         }, 
     {
-      "key": "木叶",
-      "name": "木叶App",
+      "key": "玉米",
+      "name": "玉米┃App",
       "type": 3,
       "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cDovL3R4dC55eXlzLm5ld3MvdjQudHh0fGlsYnZ6d3o1MGthZ3U5eHR8aWxidnp3ejUwa2FndTl4dHw1NDQ="
-    },	 
+      "jar": "./jar/fix250118.jar",
+      "playerType": 1,	    
+      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
+    },
 {	  
       "key": "顾我",
       "name": "顾我",
