@@ -133,14 +133,15 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
     {
-      "key": "csp_麻花",
-      "name": "麻花1080P",
+      "key": "lvdou",
+      "name": "华文APP",
       "type": 3,
-      "jar": "./jar/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "searchable": 1,	    
+      "api": "csp_AppYsV2",
+      "playerType": "1",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+      "filterable": 1,
+      "ext": "http://zytv.eztv.video/api.php/app/"
     },	 
     {
       "key": "客星",
