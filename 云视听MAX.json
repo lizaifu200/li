@@ -352,7 +352,16 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-         {
+              {
+            "key": "游子py",
+            "name": "游子PY",
+            "type": 3,
+            "api": "./lib/游子.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },    
+	  {
             "key": "酷云py",
             "name": "酷云PY",
             "type": 3,
