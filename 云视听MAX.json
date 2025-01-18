@@ -143,14 +143,14 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
     },	 
     {
-      "key": "csp_DUODUO",
-      "name": "多多1080P",
+      "key": "客星",
+      "name": "客星┃App",
       "type": 3,
-      "jar": "./jar/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "quickSearch": 0,	    
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-    },	 
+      "api": "csp_Xdai",
+      "jar": "./jar/fix250118.jar",
+      "playerType": 1,	    
+      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
+    }, 
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
@@ -645,7 +645,7 @@
         }, 
     {
       "key": "玉米",
-      "name": "玉米┃App",
+      "name": "玉米App",
       "type": 3,
       "api": "csp_Xdai",
       "jar": "./jar/fix250118.jar",
