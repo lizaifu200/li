@@ -113,25 +113,7 @@
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoGrCqMKiwqzCqsKrYWFgYcKnwqXCrcKwwqhlYmBqwrDCqsKywrHCqcKswp3CqcKjwqfDp8Oyw63CnF9SecKew6LDp8ORw6jDrMKXUmpSwpvCn8Kcw63Do8KjUmpSw5Tlh7jphaLmkJ7lkZ1f5Yac5L2H5ZCnwrPlv6ToqYDotr3mvIrnrIzCjVJcwpvCtMOfw6zDhcKYwqlSasKbwqTDsMOfw6DCpsKUwpHCo8Odw5TDrcOdw5vCpsKUYlLCpcKVwrvDnsOtfMKmUmrCm8Kkw7DDn8OgwqbClMKRwqPDncOUw63DncObwqbClGJSwqXClcONw6LDrsKYwoXCosKcwpvCrcKcwpvDtw=="
         }, 
-    {
-      "key": "csp_AppDrama2",
-      "name": "虎虎1080P",
-      "type": 3,
-      "quickSearch": 0,
-      "api": "csp_AppDrama",
-      "jar": "./jar/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-      "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-    },	  
-    {
-      "key": "csp_良人",
-      "name": "良人1080P",
-      "type": 3,
-      "jar": "./jar/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959", 
-      "searchable": 1,	    
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
-    },
+
     {
       "key": "lvdou",
       "name": "华文APP",
