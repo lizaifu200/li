@@ -6,7 +6,7 @@
     {
       "name": "开心",
       "type": 0,
-      "url": "",
+      "url": "http://ttkx.cc:6266/lib/kx2025.nzk",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
