@@ -172,7 +172,7 @@
       "name": "荣荣App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./JAR/spider.jar",
+      "jar": "./json/spider.jar",
       "playerType": 1,	    
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
