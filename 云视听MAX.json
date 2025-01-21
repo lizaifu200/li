@@ -66,7 +66,7 @@
             "ext": "./lib/小熊弹幕.js"
         },
   {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
-  {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","jar": "./fix250111.jar","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
+  {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
     {"key":"世纪","name":"世纪App","type":3,"api":"csp_Drama","playerType":2,"ext":"saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="},
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
             {
