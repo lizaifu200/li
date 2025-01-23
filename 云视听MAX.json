@@ -80,7 +80,13 @@
             "order_num": 0,
             "ext": "./lib/如意影视.js"
         },    
-	 
+        {
+      "key": "csp_Wetv",
+      "name": "尘落1080P",
+      "type": 3,
+      "jar": "./0124.jar",
+      "api": "csp_Wetv"		
+       },	 
         {
             "key": "hipy_js_河狸影视[V2]",
             "name": "河狸影视",
