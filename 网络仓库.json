@@ -12,10 +12,6 @@
       "name": "巧计线路",
       "url": "http://cdn.qiaoji8.com/tvbox.json"
     },      
-      {
-      "name": "天天开心线路",
-      "url": "http://ttkx.cc:6266/天天开心"
-    },   
     {   
       "name": "王二小线路",
       "url": "https://d.kstore.dev/download/9280/wex.json"
@@ -37,7 +33,8 @@
       "name": "小米线路"      
      }     
    ] 
-  }        
+  }   
+       
 
     
 
