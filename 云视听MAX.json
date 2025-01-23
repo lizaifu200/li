@@ -431,25 +431,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "ppx4k",
-      "name": "皮皮虾4K",
-      "type": 3,
-      "playerType": 2,
-      "api": "./js/drpy2.min.js",
-      "ext": "./lib/皮皮虾.js"
-    },
- {
-            "key": "虾爬子",
-            "name": "虾爬子app",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "线路标题": "module-tab-value\">&&</span>",
-                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
-                "分类": "剧集$1#电影$2#动漫番剧$3"
-            }
-        },   
+
+  
         {
             "key": "酷影视",
             "name": "酷影视APP",
@@ -460,16 +443,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "皮皮虾",
-            "name": "皮皮虾APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.ppxys.vip/api.php/app/"
-        },    
+   
         {
             "key": "永夜",
             "name": "永夜App",
