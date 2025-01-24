@@ -1279,15 +1279,34 @@
         }
       }
     },
-        {
-            "name": "皮皮虾",
-            "type": "1",
-            "url": "http://jiexi.52ppx.top/lxjson.php?url=",
+{
+            "name": "影视超级4k解析",
+            "type": 1,
+            "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=abfgjnwxEGJTVXZ569&url=",
             "ext": {
                 "flag": [
-                    "PPXLG",
-                    "皮皮虾4K"
-                ]
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905",
+                    "NetFilx"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
             }
         },
     {
