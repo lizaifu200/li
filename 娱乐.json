@@ -144,7 +144,7 @@
       "name": "虎虎1080P",
       "type": 3,
       "quickSearch": 1,	    
-      "api": "csp_AppDrama",
+      "api": "csp_AppDrama1",
       "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
     },
 
@@ -153,7 +153,7 @@
       "name": "眼镜1080P",
       "type": 3,
       "quickSearch": 1,
-      "api": "csp_AppDrama",	    
+      "api": "csp_AppDrama1",	    
       "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
     },
 
@@ -163,7 +163,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_MiTuApp",	    
+      "api": "csp_MiTuApp1",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
 
@@ -173,7 +173,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_MiTuApp",	    
+      "api": "csp_MiTuApp1",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
     },
 	 
