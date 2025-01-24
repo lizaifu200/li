@@ -1,5 +1,5 @@
 {
-  "spider": "./JAR/spider.jar",
+  "spider": "./jar/spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "./logo.gif",
   "lives": [
