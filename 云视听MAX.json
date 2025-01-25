@@ -457,15 +457,19 @@
         "danmu": true
       }
     },
-    {
-      "key": "天天影视",
-      "name": "天天",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+        {
+            "key": "天天弹幕",
+            "name": "天天",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+            }
+        },
 
   
         {
@@ -532,15 +536,19 @@
       "playerType": 2,
       "ext": "https://subaibai.com/"
     },
-    {
-      "key": "热播影视",
-      "name": "热播",
-      "type": 3,
-      "api": "csp_AppRB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+        {
+            "key": "热播弹幕",
+            "name": "热播",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YucmJvdHYuY24="
+            }
+        },
     {
       "key": "瓜子影视",
       "name": "瓜子",
