@@ -938,7 +938,7 @@
     },
         {
             "key": "哔哩合集",
-            "name": "哔哩合集｜弹幕",
+            "name": "哔哩合集",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
