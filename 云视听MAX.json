@@ -3,13 +3,12 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "./logo.gif",
   "lives": [
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "timeout": 10
-        }
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "./lib/ipv6.m3u",
+      "playerType": 2
+    },
   ],
   "sites": [
     {
