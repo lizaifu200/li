@@ -878,17 +878,21 @@
       "ext": "./lib/4kav.json"
     },
     {
-      "key": "演唱会",
-      "name": "演唱会",
+      "key": "Biliych",
+      "name": "哔哩┃歌曲",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "searchable": 0,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
       "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "./lib/演唱会.json"
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.xyz/api/moyu.php?file=mtv"
+      }
     },
-{"key": "MV","name": "歌曲","type": 3,"api": "./js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"./lib/歌曲MV.json"},
     {
       "key": "酷奇",
       "name": "酷奇MV",
