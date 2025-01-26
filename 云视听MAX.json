@@ -881,13 +881,13 @@
       "key": "演唱会",
       "name": "演唱会",
       "type": 3,
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/drpy2.min.js",
-      "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
+      "api": "./js/drpy2.min.js",
+      "jar":"https://tv.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 142,
-      "ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/js/我的哔哩.js?type=url&params=https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/演唱会.json"
+      "ext": "./lib/演唱会.json"
     },
     {
       "key": "酷奇",
