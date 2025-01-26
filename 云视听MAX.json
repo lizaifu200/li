@@ -878,21 +878,14 @@
       "ext": "./lib/4kav.json"
     },
     {
-      "key": "Biliych",
-      "name": "哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "./moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "style": {	    
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "http://我不是.摸鱼儿.xyz/api/moyu.php?file=mtv"
-      }
+      "key": "MV大全",
+      "name": "MV音乐",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp/",
+      "jar": "./ihuZV2kj97ng",
+      "searchable": 1,	    
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "酷奇",
