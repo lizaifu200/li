@@ -882,13 +882,13 @@
       "name": "演唱会",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "jar":"https://tv.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 142,
       "ext": "./lib/演唱会.json"
     },
+{"key": "MV","name": "歌曲","type": 3,"api": "./js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"./lib/歌曲MV.json"},
     {
       "key": "酷奇",
       "name": "酷奇MV",
