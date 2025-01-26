@@ -3,15 +3,13 @@
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "logo": "./logo.gif",
   "lives": [
-    {
-      "name": "开心",
-      "type": 0,
-      "url": "http://ttkx.cc:6266/lib/kx2025.nzk",
-      "playerType": 2,
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "timeout":10
-    }
+        {
+            "name": "范明明",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "playerType": 2,
+            "timeout": 10
+        }
   ],
   "sites": [
     {
