@@ -983,6 +983,63 @@
       "ext": "./lib/AQYDM.js"
     },
     {
+      "key": "lltv_360DH",
+      "name": "360🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/360donghua.js"
+    },
+    {
+      "key": "lltv_MGDH",
+      "name": "芒果🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/mangguo.js"
+    },
+    {
+      "key": "lltv_QYDH",
+      "name": "奇艺🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/qiyi.js"
+    },
+    {
+      "key": "lltv_SGDH",
+      "name": "搜狗🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/sougou.js"
+    },
+    {
+      "key": "lltv_TXDH",
+      "name": "腾讯🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/tengxun.js"
+    },
+    {
+      "key": "lltv_YKDH",
+      "name": "优酷🔥动画",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./lib/youku.js"
+    },   
+    {	  
       "key": "js_蓝莓短剧",
       "name": "蓝莓短剧",
       "type": 3,
