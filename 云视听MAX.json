@@ -882,7 +882,8 @@
       "name": "哔哩┃歌曲",
       "type": 3,
       "api": "csp_Bili",
-      "style": {
+      "jar": "./moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "style": {	    
         "type": "rect",
         "ratio": 1.597
       },
