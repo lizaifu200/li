@@ -908,15 +908,16 @@
       "quickSearch": 0,
       "changeable": 0
     },    
-    {
-      "key": "IKTV",
-      "name": "KTV音乐",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./lib/wex.txt;md5;7b01bf222a41cd3ef5edf810e688da37"
-    },
+        {
+            "key": "短剧合集",
+            "name": "短剧｜合集",
+            "type": 3,
+            "api": "./js/quark.min.js",
+            "ext": "./lib/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
+        },
     {
       "key": "巨人弹幕",
       "name": "巨人",
