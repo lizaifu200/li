@@ -104,8 +104,24 @@
             "filterable": 1,
             "ext": "http://www.dyxz2.com/"
         },
-
-
+    {
+      "key": "世纪",
+      "name": "世纪app",
+      "type": 3,
+      "api": "csp_Drama",
+      "jar": "./jar/fix250118.jar",
+      "playerType": 2,	    
+      "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
+    },
+    {
+      "key": "时常",
+      "name": "时常App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./jar/fix250118.jar",
+      "playerType": 1,	    
+      "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
+    },
     {
       "key": "csp_Xlys",
       "name": "哔嘀1080P",
