@@ -104,15 +104,7 @@
             "filterable": 1,
             "ext": "http://www.dyxz2.com/"
         },
-    {
-      "key": "世纪",
-      "name": "世纪app",
-      "type": 3,
-      "api": "csp_Drama",
-      "jar": "./jar/fix250118.jar",
-      "playerType": 2,	    
-      "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
-    },
+
     {
       "key": "时常",
       "name": "时常App",
