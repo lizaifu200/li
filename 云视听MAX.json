@@ -488,23 +488,7 @@
       "filterable": 1,
       "ext": "https://cs.hgyx.vip/api2/api.php/app/"
     },
-    {
-      "key": "优质",
-      "name": "优质App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
-    },
-    {
-      "key": "洽洽影视",
-      "name": "洽洽",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ {"key": "csp_Fantuan","name": "饭团1080P","type": 3,"searchable": 1,"api": "csp_Fantuan"},
     {
       "key": "移动云盘",
       "name": "移动急速",
