@@ -1066,7 +1066,8 @@
       "api": "./js/16万hys.js",
       "ext": "./js/2400部恐怖电影.js"
     },
-    {
+ { "key": "番茄短剧", "name": "番茄短剧", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+content__desc\">&&</div>","分类url":"https://www.weimakj.com/weitype/{cateId}-{catePg}.html","分类":"短剧$27"}},    
+   {	  
       "key": "星芽短剧",
       "name": "星芽短剧",
       "type": 3,
