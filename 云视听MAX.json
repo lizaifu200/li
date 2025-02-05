@@ -104,7 +104,24 @@
             "filterable": 1,
             "ext": "http://www.dyxz2.com/"
         },
-
+        {
+            "key": "来看影视",
+            "name": "来看影视",
+            "type": 3,
+            "api": "csp_Lkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "樱花影视",
+            "name": "樱花影视",
+            "type": 3,
+            "api": "csp_Lggys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
       "key": "时常",
       "name": "时常App",
