@@ -1,4 +1,4 @@
-辽宁移动直播测试（支持回看与时移）,#genre#
+辽宁移动直播（支持回看与时移）,#genre#
 CCTV1高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 CCTV2高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226711/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
 CCTV3高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227402/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
