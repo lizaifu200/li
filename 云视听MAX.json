@@ -917,15 +917,7 @@
                 "type": "list"
             }
         },
-  		{
-			"key": "米搜",
-			"name": "🔍米搜┃4K4K",
-			"type": 3,
-			"searchable": 1,
-			"api": "csp_MiSou",
-			"jar": "./012403.jar",
-			"changeable": 0
-		}, 
+
     {	  
       "key": "巨人弹幕",
       "name": "巨人",
