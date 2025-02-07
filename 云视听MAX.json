@@ -448,17 +448,7 @@
             "quickSearch": 1,
             "filterable": 0
         },      
-      {
-      "key": "Zxzj",
-      "name": "在线之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
-      "searchable": "1",	      
-      "filterable": "0",
-      "changeable": 0,
-      "ext": {}
-    }, 
+
     {
       "key": "文才弹幕",
       "name": "文才",
