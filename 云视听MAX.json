@@ -365,7 +365,6 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-   
     {
       "key": "py猎手",
       "name": "猎手PY",
@@ -449,6 +448,17 @@
             "quickSearch": 1,
             "filterable": 0
         },      
+      {
+      "key": "Zxzj",
+      "name": "在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
+      "searchable": "1",	      
+      "filterable": "0",
+      "changeable": 0,
+      "ext": {}
+    }, 
     {
       "key": "文才弹幕",
       "name": "文才",
@@ -474,8 +484,50 @@
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
             }
         },
-
-  
+    {
+      "key": "FourKTV",
+      "name": "4k影视",
+      "type": 3,
+      "api": "csp_FourKTV",
+      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
+      "playerType": 2,	    
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Dyds",
+      "name": "电影大师",
+      "type": 3,
+      "api": "csp_Dyds",
+      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
+      "playerType": 2,	    
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "FuJvTv",
+      "name": "腐剧app",
+      "type": 3,
+      "api": "csp_FuJvTv",
+      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
+      "playerType": 2,	     
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AGE",
+      "name": "AGE动漫app",
+      "type": 3,
+      "api": "csp_AGE",
+      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
+      "playerType": 2,	    
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    }, 
         {
             "key": "酷影视",
             "name": "酷影视APP",
