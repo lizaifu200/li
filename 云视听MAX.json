@@ -80,7 +80,7 @@
       "key": "csp_Wetv",
       "name": "尘落1080P",
       "type": 3,
-      "jar": "./012403.jar",
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
       "api": "csp_Wetv"		
        },	 
         {
@@ -135,7 +135,7 @@
       "key": "csp_Xlys",
       "name": "哔嘀1080P",
       "api": "csp_Xlys",
-      "jar": "./012403.jar",
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
       "searchable": 1,	    
       "type": 3,
       "playerType": 2
@@ -164,7 +164,7 @@
       "key": "csp_AppDrama2",
       "name": "虎虎1080P",
       "type": 3,
-      "jar": "./012403.jar",
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
       "quickSearch": 1,	    
       "api": "csp_AppDrama",
       "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
@@ -174,7 +174,7 @@
       "name": "眼镜1080P",
       "type": 3,
       "quickSearch": 1,
-      "jar": "./012403.jar",
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
       "api": "csp_AppDrama",	    
       "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
     },
@@ -184,7 +184,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./012403.jar",
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
@@ -194,9 +194,9 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./012403.jar",
-      "api": "csp_MiTuApp",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",     
+      "api": "csp_YuDi",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XBU5Prcv6yXYl+buEHnrog7tDJv0Oruu3XbWiSeYcmXyu0bWlgyI7I+ExxK+yX2Fm4="
     },	 
 	  {
             "key": "奇趣影视",
@@ -242,12 +242,14 @@
 
    {"key":"图图","name":"图图App","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},    
     {
-      "key": "csp电影",
-      "name": "电影影视",
+      "key": "csp_电影",
+      "name": "电影1080P",
       "type": 3,
-      "api": "csp_MITU",
-      "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-      "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
+      "searchable": 1,
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
+       "quickSearch": 1,	    
+      "api": "csp_MiTuApp",
+      "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
     },
     {
       "key": "音乐仓",
@@ -345,17 +347,15 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },
-            {
-            "key": "多多视频",
-            "name": "多多视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./xmbjm.jar",
-	    "ext": {	    
-                "分类url": "http://www.duoduotv.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "Netflix$20#电影$1#追剧$2#综艺$4#动漫$3"
-            }
-        },    
+    {
+      "key": "csp_DUODUO",
+      "name": "多多1080P",
+      "type": 3,
+      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
+       "quickSearch": 1,	    
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
+    },   
     {	  
       "key": "py_素白白",
       "name": "素白白PY",
