@@ -528,7 +528,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-   
+   {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
         {
             "key": "永夜",
             "name": "永夜App",
