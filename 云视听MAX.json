@@ -351,15 +351,7 @@
         ]
       }
     },
-    {
-      "key": "农民影视",
-      "name": "农民无敌",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_XYQHiker_农民影视",
       "name": "农民影视",
@@ -565,18 +557,7 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
    {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
-    {
-      "key": "csp_sbb",
-      "name": "布布直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
-       "searchable": 1,	    
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="
-    },
+
 {	  	  
       "key": "HG影视",
       "name": "HG影视APP",
