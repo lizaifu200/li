@@ -32,7 +32,16 @@
         "site": "aHR0cDovL3YubGt1eXMuY24="
       }
     },
-    {
+       {
+      "key": "世纪",
+      "name": "世纪App",
+      "type": 3,
+      "api": "csp_Drama",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "playerType": 2,	       
+      "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
+    }, 
+	  {
       "key": "云视听",
       "name": "云视听影视",
       "type": 3,
