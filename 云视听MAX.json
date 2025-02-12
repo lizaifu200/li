@@ -41,6 +41,15 @@
       "playerType": 2,	       
       "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
     }, 
+    {
+      "key": "优质",
+      "name": "优质App",
+      "type": 3,
+      "api": "csp_Xdai",
+     "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+     "playerType": 1	    ,
+      "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },	 
 	  {
       "key": "云视听",
       "name": "云视听影视",
