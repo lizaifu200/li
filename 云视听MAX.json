@@ -50,6 +50,24 @@
      "playerType": 1	    ,
       "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },	 
+ {
+      "key": "永夜",
+      "name": "永夜App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "playerType": 2,	 
+      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
+    },
+    {
+      "key": "星河",
+      "name": "星河App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "playerType": 2,	    
+      "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
+    },	  
 	  {
       "key": "云视听",
       "name": "云视听影视",
