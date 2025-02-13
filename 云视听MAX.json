@@ -310,7 +310,8 @@
       "key": "csp_AppRR",
       "name": "人人1080P",
       "type": 3,
-      "api": "csp_AppRR",
+      "jar": "./0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56",
+      "api": "csp_AppRR",	    
       "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
     {
