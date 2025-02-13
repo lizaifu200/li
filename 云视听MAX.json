@@ -149,7 +149,32 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+    {
+      "key": "csp_UC",
+      "name": "MIUC4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "api": "csp_Duopan",
+      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
+      "filterable": 1,	   
+      "ext": {
+        "site_urls": [
+          "http://mucpan.cc",
+          "https://www.mucpan.cc",
+          "http://54271.fun/",
+          "http://milvdou.fun"
+        ],
+        "url_key": "uc",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 256,
+          "threads": 10
+        }
+      }
+    },
     {
       "key": "时常",
       "name": "时常App",
