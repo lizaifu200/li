@@ -68,6 +68,36 @@
       "playerType": 2,	    
       "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
     },	  
+    {
+      "key": "追剧",
+      "name": "追剧App",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+       "playerType": 1,	    
+      "ext": "daHR0cDovL3YubGt1eXMuY24="
+    },	  
+    {
+      "key": "柠檬",
+      "name": "柠檬App",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "playerType": 2,	    
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },	 
+    {
+      "key": "csp_xlys",
+      "name": "修罗影视",
+      "type": 3,
+      "api": "csp_Bdys01",
+      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "searchable": 1,	    
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cuc3ViYWliYWl5cy5jb20="
+    },	  
 	  {
       "key": "云视听",
       "name": "云视听影视",
@@ -99,7 +129,7 @@
             "ext": "./lib/小熊弹幕.js"
         },
   {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
-  {"key":"柠檬","name":"柠檬App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="}, 
+
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
             {
             "key": "hipy_js_如意影视",
