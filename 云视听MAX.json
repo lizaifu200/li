@@ -586,15 +586,7 @@
                 "site": "aHR0cDovL3YucmJvdHYuY24="
             }
         },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "1905",
       "name": "1905影视",
@@ -738,11 +730,11 @@
       "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
     },
     {
-      "key": "流光影视",
-      "name": "流光影视",
+      "key": "csp_Lgyy",
+      "name": "流光1080P",
       "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/LGYS.json"
+      "jar": "./0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56",
+      "api": "csp_Lgyy"	    
     },
     {
       "key": "光速资源",
