@@ -958,7 +958,15 @@
                 "type": "list"
             }
         },
-
+{
+           "key": "py_剧多",
+           "name": "剧多短剧py",
+           "filterable": 1,
+           "quickSearch": 1,
+           "searchable": 1,
+           "type": 3,
+           "api": "./lib/剧多短剧.py"
+       }, 
     {	  
       "key": "巨人弹幕",
       "name": "巨人",
