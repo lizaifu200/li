@@ -314,7 +314,16 @@
       "api": "csp_AppRR",	    
       "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
-    {
+     {
+      "key": "︎酷云",
+      "name": "米兔1080P",
+      "type": 3,
+      "quickSearch": 0,
+      "jar": "./0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56",
+	"api": "csp_MiTuApp",     
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk="
+    },  
+    {	  
       "key": "小猫",
       "name": "小猫1080P",
       "type": 3,
