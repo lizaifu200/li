@@ -50,15 +50,7 @@
      "playerType": 1	    ,
       "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },	 
- {
-      "key": "永夜",
-      "name": "永夜App",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
-      "playerType": 2,	 
-      "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+ays3w0LjEuOA=="
-    },
+
     {
       "key": "星河",
       "name": "星河App",
@@ -315,12 +307,11 @@
       }
     },
     {
-      "key": "荣荣",
-      "name": "荣荣App",
+      "key": "csp_AppRR",
+      "name": "人人1080P",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,	    
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+      "api": "csp_AppRR",
+      "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
     },
     {
       "key": "小猫",
