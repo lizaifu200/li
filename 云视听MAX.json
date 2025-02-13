@@ -292,7 +292,15 @@
       "playerType": 1,	    
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
     },
-
+    {
+      "key": "小猫",
+      "name": "小猫1080P",
+      "type": 3,
+      "quickSearch": 0,
+      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
+      "api": "csp_MiTuApp",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
+    },
    {"key":"图图","name":"图图App","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},    
     {
       "key": "csp_电影",
@@ -368,7 +376,18 @@
         ]
       }
     },
-
+    {
+      "key": "csp_Wwys",
+      "name": "农民1080P",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
+       "changeable": 1,	    
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn/"
+    },
     {
       "key": "csp_XYQHiker_农民影视",
       "name": "农民影视",
@@ -401,7 +420,18 @@
       "api": "csp_MiTuApp",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
     },   
-  
+      {
+      "key": "瓜子",
+      "name": "瓜子1080P",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",	      
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
+    },
    
  
     {
@@ -469,16 +499,17 @@
         },      
 
     {
-      "key": "文才弹幕",
-      "name": "文才",
+      "key": "wencai",
+      "name": "文采1080P",
       "type": 3,
       "api": "csp_Jpys",
-      "searchable": 1,
+      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
+       "searchable": 1,	    
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://www.hkybqufgh.com"
     },
         {
             "key": "天天弹幕",
