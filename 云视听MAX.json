@@ -149,15 +149,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "樱花影视",
-            "name": "樱花影视",
-            "type": 3,
-            "api": "csp_Lggys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
     {
       "key": "时常",
       "name": "时常App",
@@ -384,35 +376,9 @@
       "api": "csp_MiTuApp",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
     },   
-    {	  
-      "key": "py_素白白",
-      "name": "素白白PY",
-      "type": 3,
-      "api": "./lib/素白白.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },    
-    {
-      "key": "py猎手",
-      "name": "猎手PY",
-      "type": 3,
-      "api": "./lib/py_电影猎手.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },   
-    {
-      "key": "csp_九龙趣看",
-      "name": "九龙趣看py",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "./lib/jlqk.py",
-      "playerType": 2,
-      "filterable": 1
-    },   
+  
+   
+ 
     {
       "key": "py_hitv",
       "name": "HitvPY",
@@ -502,39 +468,7 @@
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
             }
         },
-    {
-      "key": "FourKTV",
-      "name": "4k影视",
-      "type": 3,
-      "api": "csp_FourKTV",
-      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
-      "playerType": 2,	    
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Dyds",
-      "name": "电影大师",
-      "type": 3,
-      "api": "csp_Dyds",
-      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
-      "playerType": 2,	    
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-     {
-      "key": "FuJvTv",
-      "name": "腐剧app",
-      "type": 3,
-      "api": "csp_FuJvTv",
-      "jar": "./custom_spider.jar;md5;d74fc805c7f4324f10343f2ba8416e0c",
-      "playerType": 2,	     
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
     {
       "key": "AGE",
       "name": "AGE动漫app",
@@ -546,28 +480,10 @@
       "quickSearch": 1,
       "changeable": 1
     }, 
-        {
-            "key": "酷影视",
-            "name": "酷影视APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.tvkuys.xyz/api.php/app/"
-        },
+
    {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
 
-{	  	  
-      "key": "HG影视",
-      "name": "HG影视APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    },
+
  {"key": "csp_Fantuan","name": "饭团1080P","type": 3,"searchable": 1,"api": "csp_Fantuan"},
     {
       "key": "移动云盘",
@@ -578,15 +494,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_SuBaiBai",
-      "name": "白白",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "jar": "./xmwd.jar;md5;3ef54a7eb1e4488a7f10e12c41b08ea0",
-      "playerType": 2,
-      "ext": "https://subaibai.com/"
-    },
+
         {
             "key": "热播弹幕",
             "name": "热播",
