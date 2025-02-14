@@ -44,7 +44,7 @@
       "api": "csp_qiao2",
       "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
       "playerType": 2,	   
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
+      "ext": "./lib/cksp.txt"
      },
     {	    
       "key": "现代",
