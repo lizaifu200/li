@@ -193,7 +193,24 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
+    {
+      "key": "剧评",
+      "name": "剧评App",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "playerType": 1,	    
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+    },
+    {
+      "key": "木头",
+      "name": "木头App",
+      "type": 3,
+      "api": "csp_Shark",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "playerType": 1,	    
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+    },
     {
       "key": "时常",
       "name": "时常App",
