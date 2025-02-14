@@ -6,7 +6,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://www.freetv.top/migu.m3u",
       "playerType": 2
     },
   ],
