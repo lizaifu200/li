@@ -216,7 +216,7 @@
       "name": "时常App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./jar/fix250118.jar",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
       "playerType": 1,	    
       "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
