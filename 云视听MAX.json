@@ -19,28 +19,8 @@
       "jar": "./spider.jar",
       "searchable": 0
     },
-    {
-      "key": "浪酷弹幕",
-      "name": "浪酷影视",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YubGt1eXMuY24="
-      }
-    },
-       {
-      "key": "世纪",
-      "name": "世纪App",
-      "type": 3,
-      "api": "csp_Drama",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
-      "playerType": 2,	       
-      "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
-    }, 
+
+
     {
       "key": "优质",
       "name": "优质App",
@@ -171,32 +151,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    {
-      "key": "csp_UC",
-      "name": "MIUC4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 0,
-      "api": "csp_Duopan",
-      "jar": "./0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
-      "filterable": 1,	   
-      "ext": {
-        "site_urls": [
-          "http://mucpan.cc",
-          "https://www.mucpan.cc",
-          "http://54271.fun/",
-          "http://milvdou.fun"
-        ],
-        "url_key": "uc",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 256,
-          "threads": 10
-        }
-      }
-    },
+
     {
       "key": "时常",
       "name": "时常App",
@@ -226,33 +181,7 @@
       "filterable": 1,
       "ext": "http://zytv.eztv.video/api.php/app/"
     },	 
-    {
-      "key": "客星",
-      "name": "客星App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "./fix250111.jar",
-      "playerType": 1,	    	    
-      "ext": "caHR0cDovLzIxMS45OS45OC40Nzo5OTk5L2FwaS50eHR8ZTQ2MWM3YzBlZjBiNmNkMXxlNDYxYzdjMGVmMGI2Y2QxfDEwNg=="
-    },
-    {
-      "key": "csp_AppDrama2",
-      "name": "虎虎1080P",
-      "type": 3,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
-      "quickSearch": 1,	    
-      "api": "csp_AppDrama",
-      "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-    },
-    {
-      "key": "csp_AppDrama3",
-      "name": "眼镜1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
-      "api": "csp_AppDrama",	    
-      "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
-    },
+
     {
       "key": "csp_良人",
       "name": "良人1080P",
@@ -263,16 +192,7 @@
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
-    {
-      "key": "csp_麻花",
-      "name": "麻花1080P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",     
-      "api": "csp_YuDi",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XBU5Prcv6yXYl+buEHnrog7tDJv0Oruu3XbWiSeYcmXyu0bWlgyI7I+ExxK+yX2Fm4="
-    },	 
+ 
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
@@ -332,17 +252,7 @@
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
     },
-   {"key":"图图","name":"图图App","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},    
-    {
-      "key": "csp_电影",
-      "name": "电影1080P",
-      "type": 3,
-      "searchable": 1,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
-       "quickSearch": 1,	    
-      "api": "csp_MiTuApp",
-      "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
-    },
+
     {
       "key": "音乐仓",
       "name": "音乐仓库",
@@ -372,16 +282,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-            "key": "忍者影视",
-            "name": "忍者APP",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "KhY021WelCEl+6MsvwnzaLK5sgGhHBhBszPP7EvqSfdVqJTIDGrV0xPZiB/0I8O9mrMKS+cdzxqKP83dFJJyyyb8D0J0ZVtM/ds4xb/4dA=="
-        },
+
     {
       "key": "韩小圈",
       "name": "韩小圈APP",
@@ -442,15 +343,7 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },
-    {
-      "key": "csp_DUODUO",
-      "name": "多多1080P",
-      "type": 3,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
-       "quickSearch": 1,	    
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-    },   
+   
       {
       "key": "瓜子",
       "name": "瓜子1080P",
@@ -501,15 +394,7 @@
       "quickSearch": 1,
       "filterable": 0
     },    
-              {
-            "key": "游子py",
-            "name": "游子PY",
-            "type": 3,
-            "api": "./lib/游子.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },    
+  
 	  {
             "key": "酷云py",
             "name": "酷云PY",
@@ -571,7 +456,7 @@
    {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
 
 
- {"key": "csp_Fantuan","name": "饭团1080P","type": 3,"searchable": 1,"api": "csp_Fantuan"},
+
     {
       "key": "移动云盘",
       "name": "移动急速",
@@ -689,14 +574,7 @@
             "order_num": 0,
             "ext": "./lib/小白菜电影.js"
         }, 
-    {
-      "key": "玉米",
-      "name": "玉米App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,	    
-      "ext": "jaHR0cDovLzIxMS4xMDEuMjM3LjIyMDo3Nzg4L3lteXMudHh0fDF2ZmZzZGFzZGFzZGFzZDJ8MXZmZnNkYXNkYXNkYXNkMnwxMDU="
-    },
+
 
 {	  
       "key": "顾我",
@@ -722,22 +600,7 @@
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
-    {
-      "key": "雨滴",
-      "name": "雨滴App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
-    {
-      "key": "现代",
-      "name": "现代App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
-    },
+
     {
       "key": "csp_Lgyy",
       "name": "流光1080P",
