@@ -47,15 +47,32 @@
       "ext": "aFf6CtOZP2iF9ueviiRBhmN4KupODb6WltLf/bzAw9cU7odZbSJYpyYDnyVLOcNhQ6tAnmXfKiXfVjt+2GYfyyjmYqMLjeWyALVbwZ4Cy7fSSkxFDT0Jq4Jut19zVB/2Izi2Rp+fKTe2J5Wr1HJBdlJCv7laQGz+4ERSCe9TVlpBN60wAdbbZca5CFa/1mWgo5N0gBLw0/VCKq4rfxKXFuTyvLxwpV1n/rMR7eCwrlkfTBTLOUq6ISvv2elORYKV/LuZnJqtNL9DBeAMCkxQ7NmDs+CZqfQmnkTAUm8zkIC9upaCcW247DSDZ50kLeKsR0iZ+EyY0ifcnPTRPsYpaTyfMZKpTyhhQnWonLGg/gIDsjRI+0Blbru6uBtfRI+r4Bb3q3/xy5UrFETI3ewAt8EHbZQea54INpM7yIOJomGwqm1SJ6cnjj+y8WIC52y4jNl8DvtXjaUjg5aDLGEUUodhBvaxahh0+JGAJ3J0JmINS5+3PCV1p2K/2GqGl0eo77qkECX+/T914IFzQGd5GHKA9ej7ZgUeX7tX8pE3gKpcpAXB6c0GJCce4jJcEGo5PwUJVHuTY6BUBLoDX2sZjoc/Mm1TpVzxe2uTjtB3N47gX+aH5XvW9qRziY2dFYrG6Js6W+qlIEhIX/kOhH4TsJKj6MLLa5mx4lwzn5vHZPfo="
     },
     {
+      "key": "现代",
+      "name": "现代App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "playerType": 1,	
+      "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
+    },
+    {
+      "key": "玉米",
+      "name": "玉米App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "playerType": 1,	    
+      "ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="
+    },
+    {
       "key": "优质",
       "name": "优质App",
       "type": 3,
       "api": "csp_Xdai",
-     "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
-     "playerType": 1	    ,
-      "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-    },	 
-
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "playerType": 1,	    
+      "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },
     {
       "key": "星河",
       "name": "星河App",
