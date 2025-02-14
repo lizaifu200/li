@@ -144,7 +144,6 @@
             "ext": "./lib/小熊弹幕.js"
         },
   {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
-
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
             {
             "key": "hipy_js_如意影视",
@@ -240,9 +239,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://zytv.eztv.video/api.php/app/"
-    },	 
-
-    {
+    },	
+     {
       "key": "csp_良人",
       "name": "良人1080P",
       "type": 3,
@@ -252,7 +250,6 @@
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
- 
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
@@ -312,7 +309,6 @@
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo="
     },
-
     {
       "key": "音乐仓",
       "name": "音乐仓库",
@@ -342,7 +338,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
     {
       "key": "韩小圈",
       "name": "韩小圈APP",
@@ -403,7 +398,6 @@
         "分类url": "https://www.xyxy.live/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html[]"
       }
     },
-   
       {
       "key": "瓜子",
       "name": "瓜子1080P",
@@ -415,9 +409,7 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0
-    },
-   
- 
+    }, 
     {
       "key": "py_hitv",
       "name": "HitvPY",
@@ -453,8 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },    
-  
+    },
 	  {
             "key": "酷云py",
             "name": "酷云PY",
@@ -472,8 +463,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },      
-
+        },
     {
       "key": "wencai",
       "name": "文采1080P",
@@ -500,7 +490,6 @@
                 "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
             }
         },
-
     {
       "key": "AGE",
       "name": "AGE动漫app",
@@ -511,12 +500,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }, 
-
-   {"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
-
-
-
+    },
+{"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
     {
       "key": "移动云盘",
       "name": "移动急速",
@@ -525,8 +510,7 @@
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1
-    },
-
+    },   
         {
             "key": "热播弹幕",
             "name": "热播",
@@ -540,8 +524,7 @@
                 "site": "aHR0cDovL3YucmJvdHYuY24="
             }
         },
-
-    {
+     {
       "key": "1905",
       "name": "1905影视",
       "type": 3,
@@ -558,8 +541,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-   
+    },  
 	  {
             "key": "DFun动漫",
             "name": "DFun动漫",
@@ -569,9 +551,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDsmFlZsKlw7HDnMKow5zDqcKgX8Kpwp3Cp8Onw7LDrcKcX1LCg8KZw63DmMOPw6vDplVqUlLCpcKVw67DosOqVWpSwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFJcUsK6w5jDrcOEw5/CrFJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSXMKbwrTDn8Osw4PCqVJqUsOsw5TCr8Odwq7CpmXCkWbCrcOXwq/DqsOxaWFSwq0="
-        },
-
-        {
+        }, 
+          {
             "key": "曼波动漫",
             "name": "曼波动漫",
             "type": 3,
@@ -580,8 +561,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-        },
-
+        },  
         {
             "key": "稀饭动漫",
             "name": "稀饭动漫",
@@ -592,7 +572,6 @@
             "filterable": 0,
             "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw7HDoMKUwqDCoF3CqsKmwqrCrsKtbGBgZsKuwqHDncOow61hwpHCoF3DoMOow5vDp8Ohwq3CmMKfwqXCp8Ogw7PDqsOdwp/Cn8KlwpTCp8OWw6nDpsKpwprClcKkwpHDqcOjwqjDrcOywqdSXFLDgsOhw6PDrcORwqLCosKUUsKzwpXCnMKlwpzCp8KZwqBSwrPClcOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3Cm8KfwpzCusOfwqZ7wpXCqcKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8K7wpjCo3nCpsKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8ONwpzCpMKVwoXDq8OfwpzCs8KcVcKt"
         },  
-  
    {	 
       "key": "路漫漫",
       "name": "路漫漫动漫",
@@ -622,7 +601,6 @@
       "playerType": 2,
       "jar": "./11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
     },
-
         {
             "key": "hipy_js_小白菜电影",
             "name": "小白菜电影",
@@ -633,9 +611,7 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "./lib/小白菜电影.js"
-        }, 
-
-
+        },       
 {	  
       "key": "顾我",
       "name": "顾我",
@@ -660,7 +636,6 @@
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
-
     {
       "key": "csp_Lgyy",
       "name": "流光1080P",
@@ -1741,6 +1716,31 @@
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
 }
+ 
+
+   
+
+
+
+
+
+
+
+
+   
+
+
+
+
+  
+  
+
+
+
+
+
+
+
         
  
 
