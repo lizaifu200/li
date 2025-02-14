@@ -122,7 +122,8 @@
         "*": [
           "http://analysis.tucheng.xyz:789/api/skappjson.php?url=",
           "http://121.62.61.51:6888/api/?key=Ktix9ammfJh3QRqCXt&url=",
-          "https://vip.liuliyun.vip:8686/api/?key=fde5a569f2b8a77c57c6a79dfff8227b&url="
+          "http://43.248.100.135:9874/?url=",
+	  "https://vip.liuliyun.vip:8686/api/?key=fde5a569f2b8a77c57c6a79dfff8227b&url="	
         ]
       }
     },
