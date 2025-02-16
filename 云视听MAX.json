@@ -70,7 +70,7 @@
       "name": "星河App",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
       "playerType": 2,	    
       "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
     },	  
@@ -79,7 +79,7 @@
       "name": "追剧App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
        "playerType": 1,	    
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },	  
@@ -88,7 +88,7 @@
       "name": "柠檬App",
       "type": 3,
       "api": "csp_Nmvod",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
       "playerType": 2,	    
       "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },	 
@@ -97,7 +97,7 @@
       "name": "修罗影视",
       "type": 3,
       "api": "csp_Bdys01",
-      "jar": "./fix250211.jar;md5;d7b990618d74b1696dadfdeeb0c89aa7",
+      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
       "searchable": 1,	    
       "playerType": 1,
       "quickSearch": 1,
