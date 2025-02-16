@@ -19,15 +19,7 @@
       "jar": "./spider.jar",
       "searchable": 0
     },
-    {
-      "key": "csp_兄弟",
-      "name": "兄弟1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "spider": "./0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae",
-      "api": "csp_MiTuApp",	    
-      "ext": "N/01JeZBCBEQ0wOXNuAI/jeUk7bpi30NvBNgvAW4dT/HHOQROzrjiDRCRItK641e3/kKZGcOce7l7TMU/c5wNJE7mwb3+X/Rn5DH1v2dUQ+x/cBZ6DqUekN861vp2GPOOT2P8AHXVVtTkHRXwCKgbvIwhmfeuvRW/jfyKIO/sbxp6wiZa2ZSeBA235TRBm615UZcnHPpOAGL4rXjqRDbfH06Q+7JJ+hjUBleGGS22uI="
-    },
+
     {
       "key": "电影",
       "name": "电影1080P",
