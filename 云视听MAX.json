@@ -146,7 +146,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
-        {
+         {
+            "key": "全网影视",
+            "name": "全网影视",
+            "type": 3,
+            "api": "csp_Quanwk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.91qkw.com"
+        },      
+	  {
             "key": "小熊弹幕",
             "name": "小熊影视",
             "type": 3,
