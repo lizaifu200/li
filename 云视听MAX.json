@@ -43,7 +43,7 @@
       "name": "巧技App",
       "type": 3,
       "api": "csp_qiao2",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 2,	   
       "ext": "./lib/cksp.txt"
      },
@@ -52,7 +52,7 @@
       "name": "现代App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	
       "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
     },
@@ -61,7 +61,7 @@
       "name": "玉米App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "jaHR0cDovL3NkeXMudXMvc2QudHh0fDdmOWI0OWRhZjkyOGNjZTd8N2Y5YjQ5ZGFmOTI4Y2NlN3w0NDI="
     },
@@ -70,7 +70,7 @@
       "name": "优质App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
@@ -79,7 +79,7 @@
       "name": "星河App",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 2,	    
       "ext": "caHR0cHM6Ly9odC5tb3liay5jbnzphZLlrqLlvbHop4Z8NC4xLjg="
     },	  
@@ -88,7 +88,7 @@
       "name": "追剧App",
       "type": 3,
       "api": "csp_TTian",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
        "playerType": 1,	    
       "ext": "daHR0cDovL3YubGt1eXMuY24="
     },	  
@@ -97,16 +97,25 @@
       "name": "柠檬App",
       "type": 3,
       "api": "csp_Nmvod",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 2,	    
       "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },	 
-    {
+     {
+      "key": "永夜",
+      "name": "永夜App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
+      "playerType": 2,	     
+      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+    },   
+	  {
       "key": "csp_xlys",
       "name": "修罗影视",
       "type": 3,
       "api": "csp_Bdys01",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "searchable": 1,	    
       "playerType": 1,
       "quickSearch": 1,
@@ -199,7 +208,7 @@
       "name": "剧评App",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
@@ -208,7 +217,7 @@
       "name": "木头App",
       "type": 3,
       "api": "csp_Shark",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
@@ -217,7 +226,7 @@
       "name": "时常App",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "./fix250214.jar;md5;f07718fab3dd6ee00dfbb1e0c53f2778",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
     },
