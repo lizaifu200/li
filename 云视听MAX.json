@@ -241,6 +241,15 @@
       "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
     },
     {
+      "key": "雨滴",
+      "name": "雨滴App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
+      "playerType": 1,	    
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },   
+	  {
       "key": "木头",
       "name": "木头App",
       "type": 3,
@@ -539,7 +548,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{"key": "南瓜影视","name": "南瓜影视","type": 3,"api": "csp_NanGua","jar": "./JAR/spider.jar","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
+
     {
       "key": "移动云盘",
       "name": "移动急速",
