@@ -57,6 +57,24 @@
       "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
     },
     {
+      "key": "23ys",
+      "name": "二三App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
+      "playerType": 2,	    
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+    {
+      "key": "主角",
+      "name": "主角App",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
+      "playerType": 2,	    
+      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
+    },    
+   {	 
       "key": "玉米",
       "name": "玉米App",
       "type": 3,
