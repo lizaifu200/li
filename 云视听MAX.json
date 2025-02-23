@@ -112,18 +112,7 @@
       "playerType": 2,	     
       "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
     },   
-	  {
-      "key": "csp_xlys",
-      "name": "修罗影视",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
-      "searchable": 1,	    
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-       "ext": "maHR0cHM6Ly93d3cueGx5czAyLmNvbQ=="
-    },	  
+  
 	  {
       "key": "云视听",
       "name": "云视听影视",
@@ -159,7 +148,6 @@
             "ext": "https://www.91qkw.com"
         },      
 
-  {"key":"小姨子","name":"小姨子app","type":3,"api":"csp_AppYsV2","ext":"https://www.xiaoyizj.com/mogai_api.php/v1.vod"},
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
   
         {
