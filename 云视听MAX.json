@@ -19,8 +19,7 @@
       "jar": "./spider.jar",
       "searchable": 0
     },
-      
-	  { "key": "农民影视",  "name": "农民影视XBPQ", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","编码": "UTF-8","简介":"剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组":"javascript:;\">&&</a>", "数组":"<li>&&</li>","图片": "data-echo=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+{ "key": "农民影视",  "name": "农民影视XBPQ", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","编码": "UTF-8","简介":"剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组":"javascript:;\">&&</a>", "数组":"<li>&&</li>","图片": "data-echo=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},      
     {
       "key": "电影",
       "name": "电影1080P",
@@ -83,8 +82,7 @@
       "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
       "playerType": 1,	    
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
-    },
-	  
+    },	  
     {
       "key": "追剧",
       "name": "追剧App",
@@ -112,7 +110,6 @@
       "playerType": 2,	     
       "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
     },   
-  
 	  {
       "key": "云视听",
       "name": "云视听影视",
@@ -146,10 +143,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.91qkw.com"
-        },      
-
+        }, 	  
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
-  
         {
       "key": "csp_Wetv",
       "name": "尘落1080P",
@@ -262,9 +257,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/奇趣影视.json"
-        },  	
-
-     {
+        },   
+       {
       "key": "︎酷云",
       "name": "米兔1080P",
       "type": 3,
@@ -335,8 +329,7 @@
           "https://zy.qiaoji8.com/gouzi.php?url="
         ]
       }
-    },
-
+    },   
     {
       "key": "csp_XYQHiker_农民影视",
       "name": "农民影视",
@@ -371,8 +364,7 @@
       "filterable": 1,
       "order_num": 0,
       "changeable": 0
-    }, 
- 
+    },
     {	  
       "key": "py_hitv",
       "name": "HitvPY",
@@ -464,7 +456,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
     {
       "key": "移动云盘",
       "name": "移动急速",
@@ -504,8 +495,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },  
-
+    },    
           {
             "key": "曼波动漫",
             "name": "曼波动漫",
@@ -532,8 +522,7 @@
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./lib/LMM.js"
-    },
-
+    }, 	
     {
       "key": "csp_Dm84",
       "name": "动漫",
@@ -542,7 +531,6 @@
       "playerType": 2,
       "jar": "./11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
     },
-       
 {	  
       "key": "顾我",
       "name": "顾我",
@@ -772,7 +760,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    
         {
             "key": "短剧合集",
             "name": "短剧合集",
@@ -792,7 +779,6 @@
            "type": 3,
            "api": "./lib/剧多短剧.py"
        }, 
-
     {
       "key": "csp_Bili_xiangsh",
       "name": "相声小品",
@@ -1627,7 +1613,21 @@
     "cms.qdwght.com",
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
-}
+} 
+ 
+
+
+
+
+
+
+
+       
+
+    
+
+
+
  
 
    
