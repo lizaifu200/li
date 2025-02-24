@@ -314,7 +314,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key": "ruyi",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},   
+
     {
       "key": "csp_XYQHiker_农民影视",
       "name": "农民影视",
