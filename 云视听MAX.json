@@ -326,16 +326,7 @@
       "filterable": 1,
       "ext": "./lib/农民影视.json"
     },
-{
-      "key": "csp_光棍",
-      "name": "光棍影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/光棍影视.json"
-    }, 
+
 	  {
       "key": "夕云",
       "name": "夕云影视",
