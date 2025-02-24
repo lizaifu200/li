@@ -314,7 +314,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key": "ruyi",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},   
     {
       "key": "csp_XYQHiker_农民影视",
       "name": "农民影视",
@@ -325,17 +324,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/农民影视.json"
-    },
-{
-      "key": "csp_光棍",
-      "name": "光棍影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/光棍影视.json"
-    },
+    }, 
 	  {
       "key": "夕云",
       "name": "夕云影视",
@@ -1610,6 +1599,8 @@
   ]
 } 
  
+
+
 
 
 
