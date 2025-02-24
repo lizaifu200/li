@@ -145,7 +145,6 @@
             "ext": "https://www.91qkw.com"
         }, 	  
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
-{"key": "ruyi",  "name": "如意资源网",  "type": 0,  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",  "searchable": 1,  "changeable": 1},       
       {	  
       "key": "csp_Wetv",
       "name": "尘落1080P",
@@ -1644,3 +1643,4 @@
         
  
 
+     
