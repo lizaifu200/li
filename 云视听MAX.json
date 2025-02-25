@@ -30,14 +30,17 @@
       "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
     },
     {
-      "key": "巧技一",
-      "name": "巧技App",
-      "type": 3,
-      "api": "csp_qiao2",
+      "key": "360_spider",
+      "name": "360解析",
+      "api": "csp_SP360",
       "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
-      "playerType": 2,	   
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
-     },
+      "type": 3,	    
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "ext": ""
+    },
       {
       "key": "巧技",
       "name": "巧技专线",
