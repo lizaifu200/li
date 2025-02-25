@@ -1,4 +1,4 @@
-辽宁移动直播（支持回看与时移）,#genre#
+辽宁移动直播ipv4（支持回看与时移）,#genre#
 CCTV1高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 CCTV2高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226703/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226711/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
 CCTV3高清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227402/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
@@ -163,7 +163,7 @@ CGTN标清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226172/index.m3u8
 央广购物标清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227105/index.m3u8
 西藏藏语频道标清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227157/index.m3u8
 优购物标清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227335/index.m3u8
-新辽宁移动直播（支持回看与时移）,#genre#
+新辽宁移动直播ipv4（支持回看与时移）,#genre#
 CCTV-1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 CCTV-2,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227206/index.m3u8
 CCTV-3,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8
@@ -379,7 +379,7 @@ CETV4标清,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226953/index.m3u8
 嘉佳卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226744/index.m3u8
 优漫卡通,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226768/index.m3u8
 家庭理财,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-辽宁移动（支持回看与时移）,#genre#
+辽宁移动ipv4（支持回看与时移）,#genre#
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226556/index.m3u8
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226748/index.m3u8
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226750/index.m3u8
@@ -717,7 +717,7 @@ CCTV17HD,http://39.134.61.219/PLTV/88888888/224/3221226857/index.m3u8
 新动漫HD,http://39.134.61.219/PLTV/88888888/224/3221226501/index.m3u8
 咪咕视频HD,http://39.134.61.219/PLTV/88888888/224/3221226899/index.m3u8
 咪咕视频HD,http://39.134.61.219/PLTV/88888888/224/3221226901/index.m3u8
-辽宁移动标清（支持回看与时移）,#genre#
+辽宁移动标清ipv4（支持回看与时移）,#genre#
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226556/index.m3u8
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226748/index.m3u8
 CCTV1,http://39.134.61.219/PLTV/88888888/224/3221226750/index.m3u8
@@ -910,7 +910,7 @@ CGTN,http://39.134.61.219/PLTV/88888888/224/3221226972/index.m3u8
 咪咕视频,http://39.134.61.219/PLTV/88888888/224/3221227120/index.m3u8
 咪咕视频,http://39.134.61.219/PLTV/88888888/224/3221227122/index.m3u8
 咪咕视频,http://39.134.61.219/PLTV/88888888/224/3221227124/index.m3u8
-辽宁移动备用（支持回看与时移）,#genre#
+辽宁移动备用ipv4（支持回看与时移）,#genre#
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
 CCTV-1综合,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
@@ -1223,7 +1223,7 @@ CCTV-7国防军事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226905/ind
 中国教育-1,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
 中央新影-老故事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227438/index.m3u8
 重庆卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226868/index.m3u8
-黑龙江移动IPV4,#genre#
+黑龙江移动IPV4（支持时移和回看）,#genre#
 CCTV1 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV1 5M1080HEVC,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV3 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
@@ -1434,7 +1434,7 @@ CGTN阿语 4M576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226517
 齐齐哈尔经济法治 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226493
 节目暂时不可用 1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
 北京家有购物 720,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225682
-北京移动ipv6,#genre#
+北京移动ipv6（支持时移和回看）,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
