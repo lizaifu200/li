@@ -98,7 +98,7 @@
     },	  
         {
             "key": "浪酷弹幕",
-            "name": "浪酷｜弹幕",
+            "name": "浪酷弹幕",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
