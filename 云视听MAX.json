@@ -83,15 +83,19 @@
       "playerType": 1,	    
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },	  
-    {
-      "key": "追剧",
-      "name": "追剧App",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
-       "playerType": 1,	    
-      "ext": "daHR0cDovL3YubGt1eXMuY24="
-    },	  
+        {
+            "key": "浪酷弹幕",
+            "name": "浪酷｜弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        }, 
     {
       "key": "柠檬",
       "name": "柠檬App",
