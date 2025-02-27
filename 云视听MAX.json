@@ -1214,10 +1214,10 @@
         }
       }
     },
-{
-            "name": "影视超级4k解析",
+        {
+            "name": "柒豪4K",
             "type": 1,
-            "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=abfgjnwxEGJTVXZ569&url=",
+            "url": "http://121.41.93.205/xiaye.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1236,8 +1236,7 @@
                     "tnmb",
                     "seven",
                     "bilibili",
-                    "1905",
-                    "NetFilx"
+                    "1905"
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
