@@ -1016,108 +1016,6 @@
       }
     },
     {
-      "name": "巧技二",
-      "type": 1,
-      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "官蓝光",
-      "type": "1",
-      "url": "http://analysis.tucheng.xyz:789/api/skappjson.php?url=",
-      "ext": {
-        "flags": [
-          "youku",
-          "qq",
-          "QQ",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "m1905",
-          "seven",
-          "m78"
-        ]
-      }
-    },
-    {
-      "name": "急速蓝光",
-      "type": "1",
-      "url": "http://121.62.61.51:6888/api/?key=Ktix9ammfJh3QRqCXt&url=",
-      "ext": {
-        "flags": [
-          "youku",
-          "qq",
-          "QQ",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "m1905",
-          "seven",
-          "m78"
-        ]
-      }
-    },
-    {
-      "name": "蓝光L",
-      "type": "1",
-      "url": "https://vip.liuliyun.vip:8686/api/?key=fde5a569f2b8a77c57c6a79dfff8227b&url=",
-      "ext": {
-        "flags": [
-          "youku",
-          "qq",
-          "QQ",
-          "iqiyi",
-          "qiyi",
-          "letv",
-          "sohu",
-          "pptv",
-          "PPTV",
-          "mgtv",
-          "wasu",
-          "bilibili",
-          "m1905",
-          "seven",
-          "m78"
-        ]
-      }
-    },
-    {
       "name": "臻彩 1080P",
       "type": "1",
       "url": "http://43.248.100.135:9874/?url=",
@@ -1156,11 +1054,6 @@
           "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
         }
       }
-    },
-    {
-      "name": "臻彩4K超清",
-      "type": "1",
-      "url": "https://json.ttxgzs.cn/api/?key=5ab006e59b151f7a878accc9e7d176b3&url="
     },
     {
       "name": "解析2",
@@ -1607,6 +1500,9 @@
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
 }  
+
+
+
 
 
  
