@@ -982,9 +982,9 @@
       }
     },
     {
-      "name": "新感觉2",
-      "type": 1,
-      "url": "https://1992ys.serv00.net/jm/tvbox/ry4/jx/?http://xgj.83mi.cn/addons/lvdoubox/api.index?id=10&url="
+      "name": "解析三",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "巧技一",
@@ -1163,10 +1163,10 @@
       "url": "https://json.ttxgzs.cn/api/?key=5ab006e59b151f7a878accc9e7d176b3&url="
     },
     {
-      "name": "4K测试1",
-      "type": "1",
-      "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
-    },    
+      "name": "解析2",
+      "type": 1,
+      "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
+    },  
     {
       "name": "4K测试2",
       "type": "1",
@@ -1213,40 +1213,6 @@
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
-    },
-        {
-            "name": "柒豪4K",
-            "type": 1,
-            "url": "http://121.41.93.205/xiaye.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-    {
-      "name": "新感觉",
-      "type": 1,
-      "url": "https://1992ys.serv00.net/jm/tvbox/ry4/jx/?http://xgj.83mi.cn/addons/lvdoubox/api.index?id=11&url="
     }
   ],
   "rules": [
@@ -1624,6 +1590,7 @@
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
 }  
+
 
  
 
