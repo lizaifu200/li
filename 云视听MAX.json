@@ -989,7 +989,7 @@
     {
       "name": "巧技一",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+      "url": "http://zy.qiaoji8.com/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1215,7 +1215,24 @@
       }
     }
   ],
-  "rules": [
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78"
+  ],  
+  "rules": [	
     {"name": "饭团点击","hosts": ["fantuan"],"script": ["document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"]},
     {	  
       "name": "量子非凡广告",
