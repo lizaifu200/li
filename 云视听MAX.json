@@ -981,7 +981,8 @@
         ]
       }
     },
-    {
+{"name":"XY","type":1,"url":"http://121.41.93.205/xiaye.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},    
+    {	 
       "name": "解析三",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
@@ -1061,6 +1062,21 @@
       "url": "https://www.tcsbl.cn/api/lib/shuo.php?url="
     },  
     {
+      "name": "测试1",
+      "type": 1,
+      "url": "https://dl.love0997.top/ysd.php?key=8P0hrXo2XYJ&url="
+    },     
+    {
+      "name": "测试2",
+      "type": 1,
+      "url": "http://43.248.100.135:9874/?url="
+    }, 	  
+    {
+      "name": "测试3",
+      "type": 1,
+      "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
+    }, 	 
+    {	  
       "name": "4K测试2",
       "type": "1",
       "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=312821&key=acghiotBEGKMOQUX49&url="
