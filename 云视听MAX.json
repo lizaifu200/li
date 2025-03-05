@@ -26,7 +26,7 @@
       "name": "电影1080P",
       "type": 3,
       "quickSearch": 0,
-      "spider": "./0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae",
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
     },
@@ -282,10 +282,18 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0", 
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07", 
       "api": "csp_MiTuApp",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
     },
+    {
+      "key": "光速",
+      "name": "光速1080P",
+      "type": 3,
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
+      "api": "csp_AppGetV2Guard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
+    },	 
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
@@ -301,7 +309,7 @@
       "name": "米兔1080P",
       "type": 3,
       "quickSearch": 0,
-      "jar": "./0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56",
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
 	"api": "csp_MiTuApp",     
       "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk="
     },  
