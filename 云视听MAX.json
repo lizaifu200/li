@@ -471,19 +471,14 @@
       "changeable": 0,
       "ext": "https://www.hkybqufgh.com"
     },
-        {
-            "key": "天天弹幕",
-            "name": "天天",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-            }
-        },
+    {
+      "key": "天天",
+      "name": "天天1080P",
+      "type": 3,
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
+      "api": "csp_AppRJGuard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
     {
       "key": "AGE",
       "name": "AGE动漫app",
@@ -504,19 +499,14 @@
       "searchable": 1,
       "changeable": 1
     },   
-        {
-            "key": "热播弹幕",
-            "name": "热播",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL3YucmJvdHYuY24="
-            }
-        },
+    {
+      "key": "热热",
+      "name": "热热1080P",
+      "type": 3,
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
+      "api": "csp_AppRJGuard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
      {
       "key": "1905",
       "name": "1905影视",
