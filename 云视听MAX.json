@@ -276,15 +276,24 @@
       "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ==",
       "jar": "./lib/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
     },    
-    {	  
+    {
+      "key": "csp_麻花",
+      "name": "麻花1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
+      "api": "csp_AppGetV2Guard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
+    },
+    {
       "key": "csp_良人",
       "name": "良人1080P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07", 
-      "api": "csp_MiTuApp",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
+      "api": "csp_AppGetV2Guard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
     },
     {
       "key": "光速",
@@ -304,14 +313,14 @@
             "filterable": 1,
             "ext": "./XYQHiker/奇趣影视.json"
         },   
-       {
+    {
       "key": "︎酷云",
       "name": "米兔1080P",
       "type": 3,
       "quickSearch": 0,
       "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
-	"api": "csp_MiTuApp",     
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk="
+      "api": "csp_AppGetV2Guard",	    
+      "ext": "sHR2rlsfjI4L3t4RXQMknwIID6HUaZ7fMpUHnejxryN5hsS4yit06Lnf2r+dC+sQvVkljL9jiPtd8pMWr4fNfWKjGEfNt1bpDmN5e2aBCPjIZR4UXJCYTrfMnVcmHKgKoreMTaxuE5/5bSRuOI00lrntzq3KElTThhfQG1pBRYlruaU55rzaVwdDETvkWDgAa/b2wNbZqTrjcVemPpod4zhBsMUGnTLFIVIA01378wI="
     },  
     {	  
       "key": "小猫",
