@@ -1040,16 +1040,11 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
-      {
-      "name": "虎斑",
+    {	 
+      "name": "听风",
       "type": 0,
-      "url": " http://103.117.123.193:1980/players/?url="
+      "url": "https://jx.zyzqcb.cc/api/?key=QASAA7Ru7XM9PQ4yEj&url="
     },
-    {
-      "name": "虎斑3",
-      "type": 0,
-      "url": "http://154.44.26.196/player/qu.php?v="
-    }, 
     {	  
       "name": "巧技一",
       "type": 1,
