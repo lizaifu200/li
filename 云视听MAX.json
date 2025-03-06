@@ -1050,11 +1050,6 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
-    {	 
-      "name": "听风",
-      "type": 0,
-      "url": "https://jx.zyzqcb.cc/api/?key=QASAA7Ru7XM9PQ4yEj&url="
-    },
     {	  
       "name": "巧技一",
       "type": 1,
@@ -1583,7 +1578,8 @@
     "cms.qdwght.com",
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
-}    
+} 
+   
   
 
 
