@@ -22,10 +22,10 @@
 { "key": "人人影视cc", "name": "人人影视XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},
  { "key": "农民影视",  "name": "农民影视XBPQ", "type": 3,"api": "csp_XBPQ", "ext": {"请求头": "手机","编码": "UTF-8","简介":"剧情介绍:+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","线路数组":"javascript:;\">&&</a>", "数组":"<li>&&</li>","图片": "data-echo=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},      	 
          { "key": "熊猫影视", "name": "熊猫影视", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+description\">&&</div>","数组":"module-item\">&&module-item-text","图片":"data-src=\"&&\"","副标题":"video-class\">&&</span>","分类url":"https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"}},  
-{"key":"西瓜视频","name":"西瓜影视","type":3,"api":"csp_AmuXiguaV2","jar":"./jar.php?id=ou&ou=公众号欧歌app;md5;5bb2fe55cf3aa63d0d1c44619f884213","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},	 
+
      {
       "key": "xgsp",
-      "name": "🦢西瓜影视🏈",
+      "name": "西瓜影视",
       "type": 3,
       "api": "csp_AmuXiguaV2",
       "spider": "./ifbEX2mg45je",
