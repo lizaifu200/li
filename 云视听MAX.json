@@ -166,15 +166,7 @@
       "playerType": 2,	    
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },	 
-     {
-      "key": "永夜",
-      "name": "永夜App",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "./fix250221.jar;md5;7c25913285b8e695fae08e05f9a3df83",
-      "playerType": 2,	     
-      "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
-    },   
+  
 	  {
       "key": "云视听",
       "name": "云视听影视",
