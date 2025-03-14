@@ -1065,7 +1065,31 @@
       }
     },
 {"name":"XY","type":1,"url":"http://121.41.93.205/xiaye.php?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},    
-    {	 
+            {
+                "name": "急速蓝光",
+                "type": "1",
+                "url": "http://121.62.61.51:6888/api/?key=Ktix9ammfJh3QRqCXt&url=",
+                "ext": {
+            	"flags": [
+        "youku",
+        "qq",
+        "QQ",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "pptv",
+        "PPTV",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "m1905",
+        "seven",
+        "m78"
+        ]
+      }
+    },    
+   {	  	 
       "name": "解析三",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
