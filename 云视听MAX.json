@@ -145,6 +145,21 @@
       "changeable": 0
     },	 
 {"key": "皮皮虾","name": "皮皮虾｜4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ppxys.cc/api.php/app/"},	  
+{
+        "key": "皮皮虾4k",
+        "name": "皮皮虾4K",
+        "type": 3,"playerType":2,
+        "api": "./lib/AppYsV2.js",
+        "ext": {
+          "host": "http://38.55.250.149:1314/api.php/app/",
+          "*": [
+            "http://103.117.123.141:5423/index.php?url="
+      ],
+          "header": {
+          "User-Agent": "okhttp/3.12.11"
+        }
+        }       
+      },	 
 	  {
             "key": "浪酷弹幕",
             "name": "浪酷弹幕",
