@@ -151,7 +151,7 @@
         "type": 3,"playerType":2,
         "api": "./lib/AppYsV2.js",
         "ext": {
-          "host": "http://38.55.250.149:1314/api.php/app/",
+          "host": "https://ppxys.cc/api.php/app/",
           "*": [
             "http://103.117.123.141:5423/index.php?url="
       ],
