@@ -25,7 +25,8 @@
      { "key": "秀儿影院", "name": "秀儿影院XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+tt\" style=*>&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/","分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"}},
 	  {"key":"毒舌影视","name":"毒舌影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"数组": "/detail&&</a>","标题": "</div>*title\">&&<","简介": "detail-desc\">&&</div>","图片":"https://vres.wbadl.cn/vod1/vod/cover/+vod1/vod/cover/&&\"","链接": "/detail/+/&&\"","导演":"导演:</div>&&</a>","演员":"演员:</div>&&</div>","线路数组":"source-item-label&&</span>","播放数组":"episode-list&&</div>","分类url":"https://www.dushe03.com/show/{cateId}-{area}-{class}--{year}-2-{catePg}.html;;d0","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"}},
      { "key": "星辰影院", "name": "星辰影院XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","播放标题":">&&<[不包含:鉴飽#視频]","分类url":"http://www.grjsm.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"}},    
-    {	  
+     { "key": "全网看", "name": "全网看XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "请求头":"手机","简介":"剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>","分类url":"https://www.qkw1.com/qkwshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"}},    
+     {	  	  
       "key": "xgsp",
       "name": "西瓜影视",
       "type": 3,
@@ -208,16 +209,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-         {
-            "key": "全网影视",
-            "name": "全网影视",
-            "type": 3,
-            "api": "csp_Quanwk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.91qkw.com"
-        }, 	  
+    { "key": "全看网cc", "name": "全看网", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>","分类url":"https://www.qkwaa.com/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$28#电视剧$2#电影$1#动漫$4#综艺$3"}},	  
 {"key": "影馆","name": "影馆剧场","type": 3,"api": "csp_AppYsV2","ext": "https://4kdyg.top/api.php/v1.vod"},  
       {	  
       "key": "csp_Wetv",
