@@ -27,8 +27,8 @@
      { "key": "星辰影院", "name": "星辰影院XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+detail-content\" style=*>&&</span>","播放标题":">&&<[不包含:鉴飽#視频]","分类url":"http://www.grjsm.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$25#电视剧$2#电影$1#动漫$4#综艺$3"}},    
      { "key": "全网看", "name": "全网看XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "请求头":"手机","简介":"剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>","分类url":"https://www.qkw1.com/qkwshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"}},    
      { "key": "free影视", "name": "free影视XBPQ", "type":3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://freeok.one/type/{cateId}.html","分类":"短剧$shuangju#电视剧$juji#电影$dianying#动漫$dongman#综艺$zongyi"}},   
-{"key":"喝茶 ","name":"喝茶 ☪影视 ","type":3,"api":"csp_XBPQ","searchable": 1,"ext":{"播放标题":"📹+>&&</a>","分类url":" https://www.shpdchysc.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影","分类值":"2&1&3&4&36&40&37"}},	 
-	  {	  	  
+{"key":"喝茶 ","name":"喝茶影视XBPQ","type":3,"api":"csp_XBPQ","searchable": 1,"ext":{"播放标题":"📹+>&&</a>","分类url":" https://www.shpdchysc.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影","分类值":"2&1&3&4&36&40&37"}},	 
+     {	  	  	  
       "key": "xgsp",
       "name": "西瓜影视",
       "type": 3,
