@@ -32,7 +32,7 @@
         { "key": "茶杯狐影视", "name": "茶杯狐影视XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"简介":"剧情介绍:+简介：</span>&&</p>","副标题":"vtitle text-right\">&&</span>","线路数组":"play-list-toggle\">&&</li>","播放数组":"play-list fade-in&&</ul>","分类url":"https://www.youmidian.com/mv_type/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$40#纪录片$41"}},   
     {
       "key": "旺旺影视",
-      "name": "旺旺影视",
+      "name": "旺旺影视XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
