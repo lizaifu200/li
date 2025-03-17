@@ -207,7 +207,7 @@
         "ext": {
           "host": "https://ppxys.cc/api.php/app/",
           "*": [
-            "http://103.117.123.141:5423/index.php?url="
+            "http://60.205.171.77:555/qq4k4k.php?url="
       ],
           "header": {
           "User-Agent": "okhttp/3.12.11"
