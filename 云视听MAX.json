@@ -481,7 +481,7 @@
     }, 
     {	  
       "key": "夕云",
-      "name": "夕云影视",
+      "name": "夕云影视XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/xbpq新版.jar?inline=false",
@@ -760,7 +760,7 @@
     },
     {
       "key": "你好帅",
-      "name": "你好短剧",
+      "name": "你好短剧XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./xmbjm.jar",
@@ -804,7 +804,7 @@
     },
     {
       "key": "鬼片之家②",
-      "name": "鬼片之家",
+      "name": "鬼片之家XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./xmbjm.jar",
@@ -907,7 +907,7 @@
         },
     {
       "key": "面包影视",
-      "name": "面包影视",
+      "name": "面包影视XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/MBYS.json"
