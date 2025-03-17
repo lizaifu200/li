@@ -36,7 +36,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
+      "jar": "./xmbjm.jar",
+      "quickSearch": 1,	    
       "filterable": 1,
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
