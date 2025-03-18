@@ -368,16 +368,24 @@
       "jar": "./lib/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
     },
     {
-      "key": "追忆",
-      "name": "追忆1080P",
+      "key": "红果网页",
+      "name": "红果网页py",
       "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
+      "api": "./lib/红果网页.py",
+      "searchable": 1,
       "quickSearch": 1,
-      "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ==",
-      "jar": "./lib/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
-    },    
+      "filterable": 0
+    },      
     {
+      "key": "甜圈短剧",
+      "name": "甜圈短剧py",
+      "type": 3,
+      "api": "./lib/甜圈短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {	 
       "key": "csp_麻花",
       "name": "麻花1080P",
       "type": 3,
