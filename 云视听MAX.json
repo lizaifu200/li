@@ -34,7 +34,10 @@
  { "key": "瓜籽影院", "name": "瓜籽影院XBPQ", "type":3,"api":"csp_XBPQ", "ext": { "简介" :"剧情介绍:+text-indent: 28px;margin-top: 10px;\">&&</div>","播放链接":"https://www.guaziys.com/Play/+/Play/&&/","分类url":"https://www.guaziys.com/Show/{cateId}-{area}--{class}-----{catePg}---{year}/","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},   
 { "key": "来看点播", "name": "来看点播XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"简介" :"剧情介绍:+check selected\">&&</div>","数组":"public-list-div public-list-bj\">&&</div></div>","图片":"data-src=\"&&\"","标题":"time-title hide ft4\" href=*>&&</a>","副标题":"public-list-subtitle cor5 hide ft2\">&&","线路数组":"<a class=\"swiper-slide&&</span>","播放数组":"anthology-list-play&&</ul>","分类url":"https://lkvod.me/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
  {"key":"布卡影视","name":"布卡影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍:+讲述了：&&的故事","主页url":"https://www.gtrgt.com/label/new.html","线路数组":"#ewave-playlist-1\"&&</li>","播放数组":"ewave-playlist-1\">&&</ul>","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy#伦理$lunlipian"}},   
-     {	  	 	  	 
+       {"key": "一帆影视","name": "一帆影视","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍:+details-content-all\">&&</span>","分类url": "https://aiyf.pages.dev/ayf_show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d0","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},   
+    {"key": "白嫖影视","name": "白嫖影视","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍:+module-item-style video-text\">&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","播放数组":"module-blocklist\">&&</div></div>","分类url": "https://ys.51baipiao.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$29#综艺$3"}},	 
+   {"key":"欧乐影视","name":"欧乐影视","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍:+fed-part-both fed-text-muted\">&&</p>","数组":"fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-part-eone\" href=*>&&</a>","副标题":"fed-text-center\">&&</span>","线路数组":"fed-btns-info fed-rims-info fed-part-eone&&</a>","分类url":"https://www.ifuntv.cc/f/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$32#电视剧$2#电影$1#动漫$4#综艺$3"}},	 
+     {	  	  	 	  	 
       "key": "旺旺影视",
       "name": "旺旺影视XBPQ",
       "type": 3,
