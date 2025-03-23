@@ -400,16 +400,14 @@
       "api": "csp_AppGetV2Guard",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
     },
-    {
-      "key": "csp_良人",
-      "name": "良人1080P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./03033.jar;md5;44f03af024f80966242625196374fc07",
-      "api": "csp_AppGetV2Guard",	    
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
-    },
+{
+            "key": "皮皮虾",
+            "name": "虾爬子APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL3BweC5iangzNjUudG9wfHBpcGl4aWEyMTc1MjIzMjR8cGlwaXhpYTIxNzUyMjMyNA=="
+        },
     {
       "key": "光速",
       "name": "光速1080P",
