@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "name": "饭太硬线路",
-      "url": "http://www.饭太硬.com/tv/"
-    },   
-    {
       "name": "玉玉线路",
       "url": "https://fmbox.cc"
     },   
@@ -45,7 +41,8 @@
       "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
     }     
   ] 
-  }      
+  }        
+
           
  
        
