@@ -416,14 +416,14 @@
       "api": "csp_AppGetV2Guard",	    
       "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
     },	 
-{
+    {
 	"key": "起点看剧",
 	"name": "起点看剧",
 	"type": 3,
 	"jar": "http://60.211.124.23:10101/HuBan/AndroidCatVodSpider-mine/jar/custom_spider.jar",
 	"api": "csp_HBgetapp",
 	"ext": "eyJob3N0IjoiaHR0cDovL2NhaWppLm8wYS5jbi8iLCJrZXkiOiJOekJtWkRZeFpEazVNV1kwTXpJMU53PT0iLCJpdiI6Ik56Qm1aRFl4WkRrNU1XWTBNekkxTnc9PSIsInR5cGVJZHMiOlsiMSIsIjIiLCIzIiwiNCIsIjUiLCIyMCJdLCJ0eXBlTmFtZXMiOlsi55S15b2xIiwi55S16KeG5YmnIiwi57u86Im6Iiwi5Yqo5ryrIiwi55+t5YmnIiwi5bCR5YS/Il19"
-},	  
+     },	  
 	  {
             "key": "奇趣影视",
             "name": "奇趣影视app",
