@@ -37,7 +37,7 @@
        {"key": "一帆影视","name": "一帆影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍:+details-content-all\">&&</span>","分类url": "https://aiyf.pages.dev/ayf_show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d0","分类": "电视剧$2#电影$1#动漫$4#综艺$3"}},   
     {"key": "白嫖影视","name": "白嫖影视XBPQ","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍:+module-item-style video-text\">&&</div>","数组":"<a&&module-item-pic","副标题":"module-item-text\">&&</div>","播放数组":"module-blocklist\">&&</div></div>","分类url": "https://ys.51baipiao.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电视剧$2#电影$1#动漫$29#综艺$3"}},	 
    {"key":"欧乐影视","name":"欧乐影视XBPQ","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍:+fed-part-both fed-text-muted\">&&</p>","数组":"fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-part-eone\" href=*>&&</a>","副标题":"fed-text-center\">&&</span>","线路数组":"fed-btns-info fed-rims-info fed-part-eone&&</a>","分类url":"https://www.ifuntv.cc/f/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$32#电视剧$2#电影$1#动漫$4#综艺$3"}},	 
-   {"key":"MX动漫","name":"MX动漫","type":3,"api":"csp_XBPQ","ext":{"简介":"简介：&&</p >","链接": "href=\"&&\"", "搜索模式": "1","搜索url": "https://www.mxdm9.cc/search/{wd}----------{pg}---.html","分类url":"https://www.mxdm9.cc/show/{cateId}--{class}------{catePg}---{year}.html","分类":"国漫&日漫&动漫电影&欧美动漫","分类值":"guoman&riman&dmdianying&oman"}}, 
+   {"key":"MX动漫","name":"MX动漫XBPQ","type":3,"api":"csp_XBPQ","ext":{"简介":"简介：&&</p >","链接": "href=\"&&\"", "搜索模式": "1","搜索url": "https://www.mxdm9.cc/search/{wd}----------{pg}---.html","分类url":"https://www.mxdm9.cc/show/{cateId}--{class}------{catePg}---{year}.html","分类":"国漫&日漫&动漫电影&欧美动漫","分类值":"guoman&riman&dmdianying&oman"}}, 
         {
             "key": "旺旺采集资源",
             "name": "旺旺短剧 | 采集",
@@ -47,10 +47,29 @@
             "searchable": 1,
             "changeable": 1
         },
-
-
-  
-	  {	  	  	 	  	 
+          {
+            "key": "热播之家",
+            "name": "热播影视XBPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.rebovod.com/",
+                "数组": "class=\"vod_item mdui-col&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"/index.php/vod/detail/&&.html\"",
+                "链接前缀": "https://www.rebovod.com/index.php/vod/play/",
+                "链接后缀": "/sid/1/nid/1.html",
+                "搜索url": "https://www.rebovod.com/index.php/vod/search.html?wd={wd}",
+                "分类url": "https://www.rebovod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||內地&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&新加坡&其他||內地&港台&日韩&欧美||国产&日本&欧美&其他"
+            }
+        },
+     {	  	  	  	 	  	 
       "key": "旺旺影视",
       "name": "旺旺影视XBPQ",
       "type": 3,
@@ -1671,6 +1690,8 @@
     "https://material-pro-video-1255975723.cos.ap-beijing.myqcloud.com/group/web/dynamic/video/5434223/tzv5ke/1/1719458980254.mp4"
   ]
 } 
+  
+
 
 
    
