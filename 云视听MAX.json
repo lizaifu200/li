@@ -16,7 +16,7 @@
       "name": "娱乐影视提醒您：不要相信视频中的广告，否则产生的一切后果自己承担，最后祝大家2025蛇年快乐，万事如意。",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./spider.jar",
+      "jar": "./spider.png",
       "searchable": 0
     },
     {
