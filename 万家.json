@@ -13,10 +13,9 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "万家影视提醒您：不要相信视频中的广告，否则产生的一切后果自己承担，最后祝大家2025蛇年快乐，万事如意。",
+      "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./spider.png",
       "searchable": 0
     },
 { "key": "人人影视cc", "name": "人人影视XBPQ", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"剧情介绍:+module-info-introduction-content\">&&</div>","分类url":"https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"}},
