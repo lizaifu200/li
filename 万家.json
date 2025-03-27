@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣｜首页",
+      "name": "万家影视欢迎您收视",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
