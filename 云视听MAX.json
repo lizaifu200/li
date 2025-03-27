@@ -106,13 +106,12 @@
       "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
     },
     {
-      "key": "莉莉",
-      "name": "莉莉｜APP",
+      "key": "csp_Wwys",
+      "name": "农民┃1080P",
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NDk0ODA4MDgwbGdneXNjb3w0OTQ4MDgwODBsZ2d5c2NvfDY2Ng=="
-    },    
+      "api": "csp_WwysGuard",
+      "ext": "https://www.wwgz.cn"
+    },   
     {
       "key": "瓜子影视",
       "name": "瓜子｜影视",
