@@ -106,12 +106,11 @@
       "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
     },    
     {
-      "key": "优秀",
-      "name": "优秀｜APP",
+      "key": "csp_Lgyy",
+      "name": "流光┃1080P",
+      "jar": "./0326-2.jar;md5;3a4506d2d89754004c15a0481680125b",       
       "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2FpLnhpYW95dW4uaW5rfEtMckZxU2ptYzRPSWo3NkJ8S0xyRnFTam1jNE9Jajc2QnwzMDA="
+      "api": "csp_FreeOkGuard"
     },
     {
       "key": "csp_Wwys",
